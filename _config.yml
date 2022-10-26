@@ -4,13 +4,12 @@
 
 title: free from linearity # the website title (if blank, full name will be used instead)
 first_name: ana
-middle_name:
+# middle_name:
 last_name: richter
 email: anarichter@protonmail.com
 # description: # the ">" symbol means to ignore newlines until "footer_text:"
   # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 # keywords: # jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
