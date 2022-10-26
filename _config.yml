@@ -93,7 +93,7 @@ instagram_id: ana.richte.r # your instagram id
 # facebook_id: # your facebook id
 # discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note:
+# contact_note:
   # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
@@ -116,8 +116,8 @@ blog_description: compilation of random notes
 permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
+# pagination:
+  # enabled: true
 
 # Comments
 # disqus_shortname: al-folio # put your disqus shortname
