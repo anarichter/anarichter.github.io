@@ -2,21 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Free from linearity # the website title (if blank, full name will be used instead)
-first_name: Ana
+title: free from linearity # the website title (if blank, full name will be used instead)
+first_name: ana
 middle_name:
-last_name: Richter
+last_name: richter
 email: anarichter@protonmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+description: # the ">" symbol means to ignore newlines until "footer_text:"
+  # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+footer_text:
+  # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: # jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anarichter.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -69,11 +69,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: anarichter # your GitHub user name
 # gitlab_username: # your GitLab user name
-twitter_username: anarichter # your Twitter handle
-linkedin_username: richterana # your LinkedIn user name
+# twitter_username: anarichter # your Twitter handle
+# linkedin_username: richterana # your LinkedIn user name
 # scholar_userid: # your Google Scholar ID
 # semanticscholar_id: # your Semantic Scholar ID
-orcid_id: 0000-0002-5704-1773 # your ORCID ID
+# orcid_id: 0000-0002-5704-1773 # your ORCID ID
 # medium_username: # your Medium username
 # quora_username: # your Quora username
 # publons_id: # your ID on Publons
@@ -93,8 +93,8 @@ instagram_id: ana.richte.r # your instagram id
 # facebook_id: # your facebook id
 # discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
+  # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -110,9 +110,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: notes # blog_name will be displayed in your blog page
+blog_nav_title: notes # your blog must have a title for it to be displayed in the nav bar
+blog_description: compilation of random notes
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -120,32 +120,32 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
+# external_sources:
+#  - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+# collections:
+  # news:
+    # defaults:
+      # layout: post
+    # output: true
+    # permalink: /news/:path/
+  # projects:
+    # output: true
+    # permalink: /projects/:path/
 
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 5 # leave blank to include all the news in the `_news` folder
+# news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+# news_limit: 5 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -212,7 +212,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag
@@ -222,7 +222,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+# display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -237,7 +237,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: paper.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -307,7 +307,7 @@ enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
-enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+enable_medium_zoom:         false   # enables image zoom feature (as on medium.com)
 
 
 # -----------------------------------------------------------------------------
