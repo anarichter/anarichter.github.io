@@ -6,6 +6,11 @@ title: publications
 # years: [1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 2
+source: /_bibliography/
+bibliography: papers.bib
+bibliography_template: bib
+style: apa
+locale: en
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
