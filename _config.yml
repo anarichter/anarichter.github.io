@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ana's page # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: ana
 middle_name:
 last_name: richter
@@ -16,7 +16,7 @@ email: anarichter@protonmail.com
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/prof_pic.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anarichter.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -67,6 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+instagram_id: ana.richte.r # your instagram id
 github_username: anarichter # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
@@ -90,14 +91,10 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: ana.richte.r # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  github's learning
-  linkedin's evil
-  insta's fun
+contact_note: insta's fun . github's learning . linkedin's evil
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -113,11 +110,11 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: ana's notes # blog_name will be displayed in your blog page
+blog_name: notes # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: > 
-  "signs of triviality" 
-  (@jschauma's expression)
+  'signs of triviality' 
+  (@jschauma)
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -125,15 +122,15 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+  # - name: medium.com
+   # rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -227,7 +224,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+# display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
