@@ -24,6 +24,7 @@ social: true  # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-Here I should tell the world about myself. Maybe explain myself somehow. Or explain something, then. (...)
+Here I should tell the world about myself. Maybe explain myself somehow. Or, then, explain something. 
+(...)
 
-Writing about – about whatnot?
+Writing about.. about whatnot?
