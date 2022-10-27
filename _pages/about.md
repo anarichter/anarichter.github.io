@@ -25,5 +25,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Writing about.. whatnot?
-Here I should tell the world about myself. Maybe explain myself somehow. Or explain something, then. 
+
+Here I should tell the world about myself. Maybe explain myself somehow. Or explain something, then.
+ 
 ...
