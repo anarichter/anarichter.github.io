@@ -111,7 +111,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: random notes # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: notes # your blog must have a title for it to be displayed in the nav bar
 blog_description: > # (@jschauma)
   or "signs of triviality"
 permalink: /blog/:year/:title/
@@ -231,8 +231,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: [Richter]
-  first_name: [Ana Carolina]
+  last_name: Richter
+  first_name: Ana Carolina
 
   style: apa
   locale: en
@@ -243,10 +243,10 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+  # bibtex_filters: [latex, smallcaps, superscript]
 
-  replace_strings: true
-  join_strings: true
+  # replace_strings: true
+  # join_strings: true
 
   details_dir: bibliography
   details_layout: bibtex.html
@@ -255,7 +255,7 @@ scholar:
   query: "@*"
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+# filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3  # leave blank to always show all authors
