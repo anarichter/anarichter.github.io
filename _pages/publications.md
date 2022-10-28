@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: academic and other publications
 years: [2022, 2015, 2016]
-categories: [academic, other publications]
+category: [academic, other publications]
 tags: University-of-Passau AIDMI
 nav: true
 nav_order: 3
@@ -23,9 +23,9 @@ nav_order: 3
 
 <div class="publications">
 
-{%- for y in page.categories %}
-  <h2 class="categories">{{y}}</h2>
-  {% bibliography -f papers -q @*[categories={{y}}]* %}
+{%- for y in page.category %}
+  <h2 class="category">{{y}}</h2>
+  {% bibliography -f papers -q @*[category={{y}}]* %}
 {% endfor %}
 
 </div>
