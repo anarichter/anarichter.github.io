@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+<nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
+  <div class="container">
     <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
       {%- if site.title == "blank" -%}
         {%- if site.first_name -%}
@@ -22,7 +23,7 @@ layout: default
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
-           {% if site.title == "free from linearity" -%} {{ site.first_name }} {{ site.middle_name }} <span class="font-weight-bold">{{ site.last_name }}</span> {%- else -%}{{ site.title }}{%- endif %}
+           {% if site.title == "free from linearity" -%} <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }} {%- else -%}{{ site.title }}{%- endif %}
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
