@@ -2,7 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: ... #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: >
+  <a href="http://www.sociaisaplicadas.ufpr.br/portal/depecon">BSc in Economics</a> | 
+  Specialization in Public Management | 
+  <a href="https://www.uni-passau.de/master-governance">MA in Governance and Public Policy</a> | 
+  <a href="https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/ppgg">DAAD Alumna (Helmut-Schmidt-Programme)</a>. 
 
 profile:
   align: right
@@ -22,9 +26,13 @@ social: true  # includes social icons at the bottom of the page
 # Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+# Here I should tell the world about myself. Maybe explain myself somehow. Or, then, explain something. 
+# (...)
+
+# Writing about.. about whatnot?
+
+#professional experience in the public, private and non-profit sectors
 ---
 
-Here I should tell the world about myself. Maybe explain myself somehow. Or, then, explain something. 
-(...)
-
-Writing about.. about whatnot?
+Hi, there. I'm Ana.
