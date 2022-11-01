@@ -19,7 +19,7 @@
   type: list
   contents:
     #- <u>Hobbies:</u> Photography, writing, reading, cycling, wandering
-    - Photography, writing, reading, cycling, wandering
+    - Photography, writing, reading, cycling, wandering.
 
 - title: Academic interests
   type: list
@@ -30,7 +30,7 @@
   type: time_table
   contents:
     - title: M.A. Staatswissenschaften - Governance and Public Policy
-      institution: University of Passau, Passau, Germany #<br> DAAD's Helmut-Schmidt-Programme Scholarship Holder
+      institution: University of Passau, Passau, Germany <br> Thesis&#58; "Dual citizenship and the question of belonging&#58; the perspectives of dual citizens living in Europe" #<br> DAAD's Helmut-Schmidt-Programme Scholarship Holder
       year: 2022
       description:
         #- 
@@ -60,7 +60,7 @@
   contents:
     - title: Research Assistant
       institution: University of Passau, Passau, Germany
-      year: 2021
+      year: 2021-2022
       #description:
         #- Description 1.
         #- Description 2.
