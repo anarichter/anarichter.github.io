@@ -4,12 +4,12 @@
  
 :root {
   --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$grey-900};
+  --global-code-bg-color: #{$blue-gray-400};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$grey-900};
-  --global-hover-color: #{$grey-900};
-  --global-footer-bg-color: #{$grey-color-dark};
+  --global-theme-color: #{$blue-gray-600};
+  --global-hover-color: #{$blue-gray-400};
+  --global-footer-bg-color: #{$blue-gray-900};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
@@ -35,12 +35,12 @@
 
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
-  --global-code-bg-color: #{$code-bg-color-dark};
+  --global-code-bg-color: #{$blue-gray-400};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$grey-color-light};
-  --global-hover-color: #{$grey-color-light};
-  --global-footer-bg-color: #{$grey-color-light};
+  --global-theme-color: #{$blue-gray-700};
+  --global-hover-color: #{$blue-gray-400};
+  --global-footer-bg-color: #{$blue-gray-100};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
