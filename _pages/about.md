@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   <a href="http://www.sociaisaplicadas.ufpr.br/portal/depecon">BSc in Economics</a> | 
   Specialization in Public Management | 
-  <br> <a href="https://www.uni-passau.de/master-governance">MA in Governance and Public Policy</a> | 
+  <a href="https://www.uni-passau.de/master-governance">MA in Governance and Public Policy</a> | 
   <a href="https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/ppgg/">DAAD Alumna (Helmut-Schmidt-Programme)</a>
 
 profile:
