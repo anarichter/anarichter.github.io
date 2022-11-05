@@ -12,14 +12,14 @@
 
 - title: Languages
   type: list
-  contents:
-    - English, Portuguese, German <br> (et je ne parle pas français mais je comprends un peu)
+  contents: 
+    - Portuguese, <a href="/assets/pdf/IELTS.pdf">English</a>, <a href="/assets/pdf/TestDaF.pdf">German</a> <br> (et je ne parle pas français mais je comprends un peu)
 
 - title: Hobbies
   type: list
   contents:
     #- <u>Hobbies:</u> Photography, writing, reading, cycling, wandering
-    - Photography, writing, reading, cycling, wandering.
+    - <a href="https://www.dropbox.com/sh/lqmoohk2doaebea/AAADf78l6mTElMy07TMRbO5ta?dl=0">Photograph</a>, writing, <a href="/books">reading</a>, cycling, wandering
 
 - title: Academic interests
   type: list
