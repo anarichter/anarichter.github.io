@@ -37,7 +37,7 @@ opening this door is still,
     <img src="/assets/img/pupils.jpg" class="my-image rounded z-depth-1">
 </div>
 --->
-<br> on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find me – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils. to recognize myself reflected in their eyes.
+on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find me – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils. to recognize myself reflected in their eyes.
 <br> <span style="font-size:12px">(2017) </span>
 
 <hr>
@@ -53,10 +53,11 @@ opening this door is still,
 <div>
     <img src="/assets/img/no-longer.jpg" class="my-image rounded z-depth-1">
 </div>
-<br> "something that was here and is no longer". at that time, i did not understand. but right now, i can clearly feel it. tons of things come and go, most of them escape our eyes, some escape our hearts. there are those that get lost in the trunk of memories. and those that remain, from small details to intense landscapes and scenes, connect into a sometimes confusing 'whole' of experience. confusing because emotions are diverse and defy the logic of linear time by playing with the mind. suddenly, i am the one who was here and is no longer. for the environment it makes little difference: it is the interaction of the elements existing in an exact second that build it and form its truth – constantly changing, but always 'truth'. the taste of no longer being present is bitter. it is an abrupt rupture, even if foreseen and anticipated by a pre-nostalgia. contradictory nostalgia.
+<br> "something that was here and is no longer". at that time, i did not understand. but right now, i can clearly feel it. tons of things come and go, most of them escape our eyes, some escape our hearts. there are those that get lost in the trunk of memories. and those that remain, from small details to intense landscapes and scenes, connect into a sometimes confusing 'whole' of experience. confusing because emotions are diverse and defy the logic of linear time by playing with the mind. suddenly, i am the one who was here and is no longer. for the environment it makes little difference: it is the interaction of the elements existing in an exact second that builds it and forms its truth – constantly changing, but always 'truth'. the taste of no longer being present is bitter. it is an abrupt rupture, even if foreseen and anticipated by a pre-nostalgia. contradictory nostalgia.
 <br> <span style="font-size:12px">(2015) </span>
 
 <hr>
 
-you know, there is a story of a man who loved a woman. his life was based on a routine – one of those very well-established routines. each thing had its place; each appointment had its time; each breath, its desire. everything he did, he knew why he did it. the end.
+you know, there is a story of a man who loved a woman. his life was based on a routine – one of those very well-established routines. each thing had its place; each appointment had its time; each breath, its desire. everything he did, he knew why he did it. 
+<br> the end.
 <br> <span style="font-size:12px">(2014) </span>

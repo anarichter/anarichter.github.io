@@ -2,7 +2,9 @@
 layout: cv #page
 permalink: /cv/
 title: cv
-description: curriculum vitae
+description: >
+    curriculum vitae
+    <hr>
 nav: true
 nav_order: 1
 cv_pdf: CV.pdf
