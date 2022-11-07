@@ -2,13 +2,12 @@
 layout: page
 permalink: /bookshelf
 title: bookshelf
-description: Goodreads (2022) # <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 – Goodreads</a>
+description: goodreads (2022) # <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 – Goodreads</a>
 nav: true
 nav_order: 4
 ---
 
 <hr>
-
 <div id="gr_custom_widget_1667625552">
           <div class="gr_custom_container_1667625552">
       <div class="gr_custom_each_container_1667625552">
