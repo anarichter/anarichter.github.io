@@ -1,38 +1,15 @@
 ---
 layout: page
-permalink: /books
-title: books
-description: 2022 bookshelf #<a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 bookshelf</a> ?????????????????
+permalink: /bookshelf
+title: bookshelf
+description: Goodreads (2022) # <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 – Goodreads</a>
 nav: true
 nav_order: 4
-
 ---
 
-<div class="books">
-<div id="gr_custom_widget_1667625653">
-    <br> currently reading
-          <div class="gr_custom_container_1667625653">
-      <div class="gr_custom_each_container_1667625653">
-          <div class="gr_custom_title_1667625653">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/4970582190?utm_medium=api&amp;utm_source=custom_widget">Modern Man In Search of a Soul</a>
-          </div>
-          <div class="gr_custom_author_1667625653">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/38285.C_G_Jung">C.G. Jung</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container_1667625653">
-          <div class="gr_custom_title_1667625653">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/5012590158?utm_medium=api&amp;utm_source=custom_widget">Alucinações Musicais</a>
-          </div>
-          <div class="gr_custom_author_1667625653">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/843200.Oliver_Sacks">Oliver Sacks</a>
-          </div>
-      </div>
-  <br style="clear: both"/>
-  </div>
+<hr>
 
 <div id="gr_custom_widget_1667625552">
-    <br> read
           <div class="gr_custom_container_1667625552">
       <div class="gr_custom_each_container_1667625552">
           <div class="gr_custom_title_1667625552">
@@ -108,4 +85,31 @@ nav_order: 4
       </div>
   <br style="clear: both"/>
   </div>
+</div>
+<div class="caption text-left">
+  <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=read">(read)</a>
+</div>
+
+<div id="gr_custom_widget_1667625653">
+          <div class="gr_custom_container_1667625653">
+      <div class="gr_custom_each_container_1667625653">
+          <div class="gr_custom_title_1667625653">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/4970582190?utm_medium=api&amp;utm_source=custom_widget">Modern Man In Search of a Soul</a>
+          </div>
+          <div class="gr_custom_author_1667625653">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/38285.C_G_Jung">C.G. Jung</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1667625653">
+          <div class="gr_custom_title_1667625653">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/5012590158?utm_medium=api&amp;utm_source=custom_widget">Alucinações Musicais</a>
+          </div>
+          <div class="gr_custom_author_1667625653">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/843200.Oliver_Sacks">Oliver Sacks</a>
+          </div>
+      </div>
+  <br style="clear: both"/>
+  </div>
+<div class="caption text-left">
+  <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=currently-reading">(currently reading)</a>
 </div>

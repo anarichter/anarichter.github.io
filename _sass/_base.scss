@@ -273,7 +273,6 @@ blockquote {
   }
 }
 
-
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
@@ -721,24 +720,6 @@ progress {
  
  //read
 
- //?????????????????????????????
-.books {
-  margin-top: 2rem;
-  h1 {
-    color: var(--global-theme-color);
-    font-size: 2rem;
-    text-align: center;
-    margin-top: 1em;
-    margin-bottom: 1em;
-  }
-  h2 {
-    margin-bottom: 1rem;
-    span {
-      font-size: 1.5rem;
-    }
-  }
-}
-
 .gr_custom_container_1667625552 {
   /* customize your Goodreads widget container here*/
   border: 2px solid gray;
@@ -746,7 +727,7 @@ progress {
   padding: 10px 5px 10px 5px;
   background-color: transparent;
   color: var(--global-text-color);
-  width: 450px
+  width: 420px
 }
 
 .gr_custom_header_1667625552 {
@@ -803,7 +784,7 @@ progress {
   padding: 10px 5px 10px 5px;
   background-color: transparent;
   color: var(--global-text-color);
-  width: 450px
+  width: 420px
 }
 
 .gr_custom_header_1667625653 {
@@ -849,3 +830,14 @@ progress {
   /* customize your rating stars here */
   float: right;
 }
+
+/* images (/photo) experimenting
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.my-image {
+  height:250px;
+  width:auto;
+}
+*/

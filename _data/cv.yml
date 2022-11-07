@@ -19,7 +19,7 @@
   type: list
   contents:
     #- <u>Hobbies:</u> Photography, writing, reading, cycling, wandering
-    - <a href="https://www.dropbox.com/sh/lqmoohk2doaebea/AAADf78l6mTElMy07TMRbO5ta?dl=0">Photograph</a>, writing, <a href="/books">reading</a>, cycling, wandering
+    - <a href="/photo">Photography</a>, writing, <a href="/books">reading</a>, cycling, wandering
 
 - title: Academic interests
   type: list
