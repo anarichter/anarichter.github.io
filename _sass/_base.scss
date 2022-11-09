@@ -10,6 +10,12 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
+// NOT WORKING
+/* h5.blog {
+  font-size: 14px;
+  color: #37474F; // $blue-gray-800: #37474F
+} */
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

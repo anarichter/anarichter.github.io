@@ -14,14 +14,14 @@ opening this door is still,
 <br> in its essence intensified by the discreet facade,
 <br> is like a ritual.
 <br> the other side,
-<br> synthesis of a mixture of emotions –
-<br> felt,
+<br> synthesis of a mixture of emotions
+<br> – felt,
 <br> appreciated,
 <br> shared over such precious moments
-<br> that the will to revive them
+<br> that the will to relive them
 <br> passes like a rope around the heart
 <br> and tightens.
-<br> – no, not a desire to revive them,
+<br> – no, not a desire to relive them,
 <br> but a wish to go back to that time,
 <br> to materialize myself amongst those characters,
 <br> which I was, which they were.
@@ -37,7 +37,7 @@ opening this door is still,
     <img src="/assets/img/pupils.jpg" class="my-image rounded z-depth-1">
 </div>
 --->
-on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find me – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils. to recognize myself reflected in their eyes.
+on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find myself – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils; to recognize myself reflected in their eyes
 <br> <span style="font-size:12px">(2017) </span>
 
 <hr>
@@ -45,7 +45,7 @@ on the days when i took portraits, i ran home. i would run home, so i could load
 <div>
     <img src="/assets/img/sunrise.jpg" class="my-image rounded z-depth-1">
 </div>
-<br> sunrise or sunset. the way it shines, sunshine. it's sunrise. 
+<br> sunrise or sunset. the way it shines, sunshine. it's sunrise.
 <br> <span style="font-size:12px">(2016) </span>
 
 <hr>
@@ -53,7 +53,10 @@ on the days when i took portraits, i ran home. i would run home, so i could load
 <div>
     <img src="/assets/img/no-longer.jpg" class="my-image rounded z-depth-1">
 </div>
-<br> "something that was here and is no longer". at that time, i did not understand. but right now, i can clearly feel it. tons of things come and go, most of them escape our eyes, some escape our hearts. there are those that get lost in the trunk of memories. and those that remain, from small details to intense landscapes and scenes, connect into a sometimes confusing 'whole' of experience. confusing because emotions are diverse and defy the logic of linear time by playing with the mind. suddenly, i am the one who was here and is no longer. for the environment it makes little difference: it is the interaction of the elements existing in an exact second that builds it and forms its truth – constantly changing, but always 'truth'. the taste of no longer being present is bitter. it is an abrupt rupture, even if foreseen and anticipated by a pre-nostalgia. contradictory nostalgia.
+<br> "something that was here and is no longer". 
+<br> at that time, i did not understand it. but right now, i can clearly feel it. 
+<br> several of things come and go, most of them escape our eyes, some escape our hearts. there are those that get lost in the trunk of memories. and those that remain, from small details to intense landscapes and scenes, connect into a sometimes confusing 'whole' of experience. confusing because emotions are diverse and defy the logic of linear time by playing with the mind. suddenly, i am the one who was here and is no longer. for the environment it makes little difference: it is the interaction of the elements existing in an exact second that builds it and forms its truth – constantly changing, but always 'truth'.
+<br> the taste of no longer being present is bitter. it is an abrupt rupture, even if foreseen and anticipated by a pre-nostalgia. contradictory nostalgia.
 <br> <span style="font-size:12px">(2015) </span>
 
 <hr>
