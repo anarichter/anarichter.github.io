@@ -5,6 +5,14 @@ date:   2022-11-07
 # description: 
 # tags: formatting links
 categories: written-on-paper
+
+#Micha Bar Am 1967
+#Woman returning her goat from the fields. Judea, 1967
+
+# Max Liebermann
+# Woman with her Goats in the Dunes (Frau mit Geißen in den Dünen), 1890
+
+# "ninguém ousaria confessar que faz a guerra pela guerra, jura-se, sim, que se faz a guerra pela paz". Homem novo, Saramago (http://caderno.josesaramago.org/161290.html)
 ---
 
 opening this door is still,
@@ -37,7 +45,10 @@ opening this door is still,
     <img src="/assets/img/pupils.jpg" class="my-image rounded z-depth-1">
 </div>
 --->
-on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find myself – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils; to recognize myself reflected in their eyes
+<div>
+    <img src="/assets/img/rezar.jpg" class="my-image-p rounded z-depth-1">
+</div>
+<br> on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find myself – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils; to recognize myself reflected in their eyes
 <br> <span style="font-size:12px">(2017) </span>
 
 <hr>

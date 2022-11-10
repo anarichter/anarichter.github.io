@@ -110,9 +110,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: random notes # blog_name will be displayed in your blog page
+blog_name: random writings # blog_name will be displayed in your blog page
 blog_nav_title: notes # your blog must have a title for it to be displayed in the nav bar
-blog_description: miscellaneous # > (@jschauma) or "signs of triviality" miscellaneous writings
+blog_description: miscellaneous stuff # > (@jschauma) or "signs of triviality" miscellaneous writings
 permalink: /blog/:year/:title/
 
 # Pagination

@@ -35,6 +35,6 @@ social: true  # includes social icons at the bottom of the page
 #professional experience in the public, private and non-profit sectors
 ---
 
-<br> hi, there – I'm Ana!
+hi, there – I'm Ana!
 
 this is a website under construction... please, bear with me : )
