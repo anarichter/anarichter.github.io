@@ -30,9 +30,9 @@
   type: time_table
   contents:
     - title: M.A. Staatswissenschaften - Governance and Public Policy
-      institution: University of Passau, Passau, Germany <br> Thesis&#58; "Dual citizenship and the question of belonging&#58; the perspectives of dual citizens living in Europe" #<br> DAAD's Helmut-Schmidt-Programme Scholarship Holder
+      institution: University of Passau, Passau, Germany #<br> <em> </em> #<br> DAAD's Helmut-Schmidt-Programme Scholarship Holder
       year: 2022
-      description:
+      description: (summa cum laude) Thesis&#58; Dual citizenship and the question of belonging&#58; the perspectives of dual citizens living in Europe
         #- 
         #- Description 2.
         #- title: Description 3.

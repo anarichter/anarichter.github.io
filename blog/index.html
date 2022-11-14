@@ -57,7 +57,7 @@ pagination:
     {% assign categories = post.categories | join: "" %}
 
     <li>
-      <h5>
+      <h5 class="blog-post">
         {% if post.redirect == blank %}
           <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {% else %}
