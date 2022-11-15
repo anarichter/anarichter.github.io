@@ -11,7 +11,7 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
 }
 
 // NOT WORKING >>>> see index.html
-.blog-post {
+.blog {
   color: var(--global-theme-color); // $blue-gray-800: #37474F
 }
 
@@ -48,7 +48,7 @@ blockquote {
   border-left: 2px solid var(--global-theme-color);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 // Math
@@ -485,7 +485,7 @@ footer.sticky-bottom {
       font-size: 1.5rem;
     }
   }
-  h3.year {
+  h2.year {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;

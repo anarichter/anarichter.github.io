@@ -19,7 +19,7 @@
     </style>
     {%- endif %}
   </head>
-
+<!-- 
   <d-front-matter>
     <script async type="text/json">{
       "title": "{{ page.title }}",
@@ -55,7 +55,7 @@
       }
     }</script>
   </d-front-matter>
-
+-->
   <body class="{%- if site.navbar_fixed -%}fixed-top-nav{%- endif -%} {%- unless site.footer_fixed -%}sticky-bottom-footer{%- endunless -%}">
 
     <!-- Header -->
@@ -69,7 +69,7 @@
         <p>{{ page.description }}</p>
       </d-title>
 
-      <d-byline></d-byline>
+      <!-- <d-byline></d-byline> -->
 
       <d-article>
         {% if page.toc -%}

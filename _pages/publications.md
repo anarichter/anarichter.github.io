@@ -10,22 +10,19 @@ nav_order: 2
 category: [academic, policy support, report]
 # tags: University-of-Passau AIDMI
 
-#  <div>
-#  {%- for y in page.years %}
-#    <h2 class="year">{{y}}</h2>
-#    {% bibliography -f papers -q @*[year={{y}}]* %}
+#  {%- for c in page.category %}
+#    <h2 class="year">{{c}}</h2>
+#    {% bibliography -f papers -q @*[category={{c}}]* %}
 #  {% endfor %}
-#  </div>
 
 ---
 <!-- _pages/publications.md -->
 
 <div class="publications">
   
-  {%- for c in page.category %}
-
-    <h3 class="year">{{c}}</h3>
-    {% bibliography -f papers -q @*[category={{c}}]* %}
+  {%- for y in page.years %}
+    <h2 class="year">{{y}}</h2>
+    {% bibliography -f papers -q @*[year={{y}}]* %}
   {% endfor %}
 
 </div>

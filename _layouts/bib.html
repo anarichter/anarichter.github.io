@@ -28,8 +28,9 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title">{{entry.title}}</div>
-          <!-- CATEGORY <div class="category"><em>{{entry.category}}</em></div> -->
+          <div class="title">{{entry.title}} <span style="font-size:12px;font-weight:lighter">{{entry.category}}</span> </div>
+          <!-- CATEGORY 
+          <div class="category"><span style="font-size:12px">{{entry.category}}</span></div> -->
           <!-- Author -->
           <div class="author">
           {% assign author_array_size = entry.author_array | size %}

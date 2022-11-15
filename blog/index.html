@@ -57,7 +57,7 @@ pagination:
     {% assign categories = post.categories | join: "" %}
 
     <li>
-      <h5 class="blog-post">
+      <h5>
         {% if post.redirect == blank %}
           <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {% else %}
@@ -77,7 +77,7 @@ pagination:
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {%- endif %}
       </p>
-      <p class="post-tags">
+      <!--- <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
           
           {% if tags != "" %}
@@ -95,7 +95,7 @@ pagination:
               <i class="fas fa-tag fa-sm"></i> {{ category }}</a> &nbsp;
               {% endfor %}
           {% endif %}
-    </p>
+    </p> --->
     </li>
 
     {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: retrieving from facebook before losing or forgetting
-date:   2022-11-07
+date:   2022-11-08
 # description: 
 # tags: formatting links
 categories: written-on-paper
@@ -72,6 +72,6 @@ opening this door is still,
 
 <hr>
 
-you know, there is a story of a man who loved a woman. his life was based on a routine – one of those very well-established routines. each thing had its place; each appointment had its time; each breath, its desire. everything he did, he knew why he did it. 
+you know, there is the story of a man who loved a woman. his life was based on a routine – one of those very well-established routines. each thing had its place; each appointment had its time; each breath, its desire. everything he did, he knew why he did it. 
 <br> the end.
 <br> <span style="font-size:12px">(2014) </span>
