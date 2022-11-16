@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "to the lighthouse"
+title: to the station
 date:   2022-11-14
 description: (i was reading Virginia Woolf at the time i saw the couple)
 # tags: formatting links
@@ -8,7 +8,7 @@ categories: written-on-paper
 
 ---
 
-<span style="font-size:14px;font-weight:lighter">Virginia Woolf's To the Lighthouse "inspired" me when trying to come up with these sentences</span>
+<span style="font-size:14px;font-weight:lighter">Virginia Woolf's "To the Lighthouse" 'inspired' me when trying to come up with these sentences</span>
 
 <hr>
 
