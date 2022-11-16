@@ -1,8 +1,8 @@
 ---
 layout: post
-title: retrieving from facebook before losing or forgetting
+title: retrieving before losing or forgetting
 date:   2022-11-08
-# description: 
+description: (words and pictures dispersed around facebook)
 # tags: formatting links
 categories: written-on-paper
 
@@ -14,7 +14,7 @@ categories: written-on-paper
 
 # "ninguém ousaria confessar que faz a guerra pela guerra, jura-se, sim, que se faz a guerra pela paz". Homem novo, Saramago (http://caderno.josesaramago.org/161290.html)
 ---
-
+<hr>
 opening this door is still,
 <br> and always,
 <br> going through the same portal.

@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: to the lighthouse
+title: to the lighthouse-distill
 date:   2022-11-14
 # description: 
 # tags: formatting links

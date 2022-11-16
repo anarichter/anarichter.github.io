@@ -1,14 +1,16 @@
 ---
 layout: post
-title: to the lighthouse v2
+title: "to the lighthouse"
 date:   2022-11-14
-# description: 
+description: (i was reading Virginia Woolf at the time i saw the couple)
 # tags: formatting links
 categories: written-on-paper
 
 ---
 
-<span style="font-size:14px;font-weight:lighter">(i was reading Virginia Woolf and "inspired" by the book.)</span>
+<span style="font-size:14px;font-weight:lighter">Virginia Woolf's To the Lighthouse "inspired" me when trying to come up with these sentences</span>
+
+<hr>
 
 Having walked all the path to that curious park by checking the GPS on my mobile, I now thought it was enough: I could finish the way on my own. And I was sure I had to go up the wide and long stairway to reach my destination (it would be like the curtains opening for a spectacle). 
 
@@ -26,4 +28,6 @@ He went down the stairs; she stayed there. They kept eye contact for as long as 
 
 I reached the top of the stairway, which opened up to an impressively wide horizon. There, turning 360 degrees around my feet, I saw nothing. No sign of the station. Just a void; the void left behind by the most passionate kiss.
 
-<span style="font-size:14px;font-weight:lighter">(this scene impacted me dearly as)</span>
+<hr>
+
+<span style="font-size:14px;font-weight:lighter">this scene impacted me dearly as</span>
