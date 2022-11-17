@@ -39,14 +39,14 @@ opening this door is still,
 <br> <span style="font-size:12px">(2017) </span>
 
 <hr>
-on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find myself – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils; to recognize myself reflected in their eyes
+on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find myself – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils; to recognize myself reflected in their eyes.
 <br> <span style="font-size:12px">(2017) </span>
 <div>
     <img src="/assets/img/rezar.jpg" class="my-image-p rounded z-depth-1">
 </div>
 
 <hr>
-sunrise or sunset. the way it shines, sunshine. it's sunrise.
+sunrise or sunset – the way it shines, sunshine – it's sunrise
 <br> <span style="font-size:12px">(2016) </span>
 <div>
     <img src="/assets/img/sunrise.jpg" class="my-image rounded z-depth-1">

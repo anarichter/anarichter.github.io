@@ -2,12 +2,43 @@
 layout: page
 permalink: /bookshelf
 title: bookshelf
-description: goodreads 2022 # <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 – Goodreads</a>
+description: goodreads links # <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 – Goodreads</a>
 nav: true
 nav_order: 4
 ---
 
 <hr>
+
+<!--- this platform appeared too late in my life, and before that, i did not keep track of the books i read. well, not too late... --->
+
+<div id="gr_custom_widget_1668563211">
+          <div class="gr_custom_container_1668563211">
+      <div class="gr_custom_each_container_1668563211">
+          <div class="gr_custom_book_container_1668563211">
+            <a title="Alucinações Musicais" rel="nofollow" href="https://www.goodreads.com/review/show/5012590158?utm_medium=api&amp;utm_source=custom_widget"><img alt="Alucinações Musicais" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307580498l/6796557._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1668563211">
+            <a rel="nofollow" style="font-size: 15px" href="https://www.goodreads.com/review/show/5012590158?utm_medium=api&amp;utm_source=custom_widget">Alucinações Musicais</a>
+          </div>
+          <div class="gr_custom_author_1668563211">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/843200.Oliver_Sacks">Oliver Sacks</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1668563211">
+          <div class="gr_custom_book_container_1668563211">
+            <a title="Os Anos de Aprendizado de Wilhelm Meister" rel="nofollow" href="https://www.goodreads.com/review/show/5106924865?utm_medium=api&amp;utm_source=custom_widget"><img alt="Os Anos de Aprendizado de Wilhelm Meister" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363703284l/17661570._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1668563211">
+            <a rel="nofollow" style="font-size: 15px" href="https://www.goodreads.com/review/show/5106924865?utm_medium=api&amp;utm_source=custom_widget">Os Anos de Aprendizado de Wilhelm Meister</a>
+          </div>
+          <div class="gr_custom_author_1668563211">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe">Johann Wolfgang von Goethe</a>
+          </div>
+      </div>
+  </div>
+<div class="caption text-left">
+  <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=currently-reading">(2022 currently reading)</a>
+</div>
 
 <div id="gr_custom_widget_1668562386">
           <div class="gr_custom_container_1668562386">
@@ -123,37 +154,9 @@ nav_order: 4
       </div>
   </div>
 <div class="caption text-left">
-  <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=read">(read)</a>
+  <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=read">(2022 read)</a>
 </div>
 
-<div id="gr_custom_widget_1668563211">
-          <div class="gr_custom_container_1668563211">
-      <div class="gr_custom_each_container_1668563211">
-          <div class="gr_custom_book_container_1668563211">
-            <a title="Alucinações Musicais" rel="nofollow" href="https://www.goodreads.com/review/show/5012590158?utm_medium=api&amp;utm_source=custom_widget"><img alt="Alucinações Musicais" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307580498l/6796557._SY75_.jpg" /></a>
-          </div>
-          <div class="gr_custom_title_1668563211">
-            <a rel="nofollow" style="font-size: 15px" href="https://www.goodreads.com/review/show/5012590158?utm_medium=api&amp;utm_source=custom_widget">Alucinações Musicais</a>
-          </div>
-          <div class="gr_custom_author_1668563211">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/843200.Oliver_Sacks">Oliver Sacks</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container_1668563211">
-          <div class="gr_custom_book_container_1668563211">
-            <a title="Os Anos de Aprendizado de Wilhelm Meister" rel="nofollow" href="https://www.goodreads.com/review/show/5106924865?utm_medium=api&amp;utm_source=custom_widget"><img alt="Os Anos de Aprendizado de Wilhelm Meister" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363703284l/17661570._SX50_.jpg" /></a>
-          </div>
-          <div class="gr_custom_title_1668563211">
-            <a rel="nofollow" style="font-size: 15px" href="https://www.goodreads.com/review/show/5106924865?utm_medium=api&amp;utm_source=custom_widget">Os Anos de Aprendizado de Wilhelm Meister</a>
-          </div>
-          <div class="gr_custom_author_1668563211">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe">Johann Wolfgang von Goethe</a>
-          </div>
-      </div>
-  </div>
-<div class="caption text-left">
-  <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=currently-reading">(currently reading)</a>
-</div>
 
 <!---
 <div id="gr_custom_widget_1667625552">

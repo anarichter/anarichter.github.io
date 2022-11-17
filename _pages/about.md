@@ -34,4 +34,6 @@ social: true  # includes social icons at the bottom of the page
 # (<a href="/cv/">here</a>) 
 ---
 
-hi, there – I'm Ana! <br> Creating this website came as a coding exercise (to start learning a little about GitHub) and I ended up designing it to include my CV and other things I like. But this is a page under construction, so please, bear with me :-)
+hi, there – I'm Ana! 
+
+Creating this website came as a coding exercise (to start learning a little about GitHub) and I ended up designing it to include my CV and other things I like. But this is a page under construction, so please, bear with me :-)
