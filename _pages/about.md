@@ -29,11 +29,9 @@ social: true  # includes social icons at the bottom of the page
 
 # Here I should tell the world about myself. Maybe explain myself somehow. Or, then, explain something. 
 # (...)
-
 # Writing about.. about whatnot?
-
-#professional experience in the public, private and non-profit sectors
+#professional experience in the private, public and non-profit sectors
 # (<a href="/cv/">here</a>) 
 ---
 
-hi, there – I'm Ana! <br> Creating this website came as a coding exercise – to start learning a little about GitHub – and I ended up designing it to include my CV and other things I like. But this is a page under construction, so please, bear with me :-)
+hi, there – I'm Ana! <br> Creating this website came as a coding exercise (to start learning a little about GitHub) and I ended up designing it to include my CV and other things I like. But this is a page under construction, so please, bear with me :-)
