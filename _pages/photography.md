@@ -39,4 +39,4 @@ nav_order: 5
     <strong>Winter and Sensations / Winter Festival, Curitiba, Brazil</strong>
 </div>
 
-<p> <br> and it's not like my instagram is a portfolio, but if interested, you can take a look at some pictures i took :-) <a href="https://instagram.com/{{ site.instagram_id }}">(ana's insta)</a> or you can go back to where you were <a href="/cv">(here)</a></p>
+<p> <br> and it's not like my instagram is a portfolio, but if interested, you can take a look at some pictures i took <a href="https://instagram.com/{{ site.instagram_id }}">here</a> :-) or you can go back to where you were <a href="/cv"> – here</a></p>

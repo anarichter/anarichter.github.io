@@ -55,7 +55,7 @@ sunrise or sunset – the way it shines, sunshine – it's sunrise
 <hr>
 "something that was here and is no longer". 
 <br> at that time, i did not understand it. but right now, i can clearly feel it. 
-<br> several of things come and go, most of them escape our eyes, some escape our hearts. there are those that get lost in the trunk of memories... and those that remain, from small details to intense landscapes and scenes, connect into a sometimes confusing 'whole' of experience. confusing because emotions are diverse and defy the logic of linear time by playing with the mind. 
+<br> several things come and go, most of them escape our eyes, some escape our hearts. there are those that get lost in the trunk of memories... and those that remain, from small details to intense landscapes and scenes, connect into a sometimes confusing 'whole' of experience. confusing because emotions are diverse and defy the logic of linear time by playing with the mind. 
 <br> suddenly, i am the one who was here and is no longer. for the environment it makes little difference: it is the interaction of the elements existing in an exact second that builds it and forms its truth – constantly changing, but always 'truth'. the taste of no longer being present is bitter. it is an abrupt rupture, even if foreseen and anticipated by a pre-nostalgia. 
 <br> contradictory nostalgia.
 <br> <span style="font-size:12px">(2015) </span>
