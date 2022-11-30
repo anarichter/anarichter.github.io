@@ -36,7 +36,7 @@ nav_order: 4
           </div>
       </div>
   </div>
-<div class="caption text-left">
+<div class="caption text-left"> <!---(currently reading) --->
   <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=currently-reading">(2022 currently reading)</a>
 </div>
 
@@ -154,7 +154,7 @@ nav_order: 4
       </div>
   </div>
 <div class="caption text-left">
-  <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=read">(2022 read)</a>
+  <a href="https://www.goodreads.com/review/list/150824320-ana?ref=nav_mybooks&shelf=2022">(2022 read)</a>
 </div>
 
 
