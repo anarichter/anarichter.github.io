@@ -34,6 +34,13 @@ social: true  # includes social icons at the bottom of the page
 # (<a href="/cv/">here</a>) 
 ---
 
+<hr>
+<span style="font-size:15px;font-weight:lighter">
 hi, there – I'm Ana! 
 
-Creating this website came as a coding exercise (to start learning a little about GitHub) and I ended up designing it to include my CV and other things I like. But this is a page under construction, so please, bear with me :-)
+<span style="font-size:15px;font-weight:lighter">
+Creating this website came as a coding exercise – to start learning a little about GitHub – and I ended up designing it to include my CV and other things I like. But this is a page under construction, so please, bear with me :-)
+
+<!--
+i’m always looking for answers but i know we can’t really reach them, so i always doubt others’ answers – but i do appreciate some efforts
+-->

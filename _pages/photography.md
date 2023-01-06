@@ -39,4 +39,6 @@ nav_order: 5
     <strong>Winter and Sensations / Winter Festival, Curitiba, Brazil</strong>
 </div>
 
-<p> <br> and it's not like my instagram is a portfolio, but if interested, you can take a look at some pictures i took <a href="https://instagram.com/{{ site.instagram_id }}">here</a> :-) or you can go back to where you were <a href="/cv"> – here</a></p>
+<!--- 
+<p> <span style="font-size:15px;font-weight:lighter">and it's not like my <a href="https://instagram.com/{{ site.instagram_id }}">instagram</a> is a portfolio, but if interested, you can check some pictures i took there :-) <br> or you can go back to where you were <a href="/cv"> (my cv, here)</a>
+-->

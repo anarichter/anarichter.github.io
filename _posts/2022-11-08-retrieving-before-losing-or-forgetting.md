@@ -2,9 +2,9 @@
 layout: post
 title: retrieving before losing or forgetting
 date:   2022-11-08
-description: (words and pictures dispersed around facebook)
+description: words and pictures dispersed around facebook
 # tags: formatting links
-categories: miscellaneous short-posts story
+# categories: miscellaneous short-posts story
 
 #Micha Bar Am 1967
 #Woman returning her goat from the fields. Judea, 1967
@@ -15,6 +15,7 @@ categories: miscellaneous short-posts story
 # "ninguém ousaria confessar que faz a guerra pela guerra, jura-se, sim, que se faz a guerra pela paz". Homem novo, Saramago (http://caderno.josesaramago.org/161290.html)
 ---
 <hr>
+<span style="font-size:15px;font-weight:lighter">
 opening this door is still,
 <br> and always,
 <br> going through the same portal.
@@ -39,6 +40,7 @@ opening this door is still,
 <br> <span style="font-size:12px">(2017) </span>
 
 <hr>
+<span style="font-size:15px;font-weight:lighter">
 on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find myself – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils; to recognize myself reflected in their eyes.
 <br> <span style="font-size:12px">(2017) </span>
 <div>
@@ -46,6 +48,7 @@ on the days when i took portraits, i ran home. i would run home, so i could load
 </div>
 
 <hr>
+<span style="font-size:15px;font-weight:lighter">
 sunrise or sunset – the way it shines, sunshine – it's sunrise
 <br> <span style="font-size:12px">(2016) </span>
 <div>
@@ -53,6 +56,7 @@ sunrise or sunset – the way it shines, sunshine – it's sunrise
 </div>
 
 <hr>
+<span style="font-size:15px;font-weight:lighter">
 "something that was here and is no longer". 
 <br> at that time, i did not understand it. but right now, i can clearly feel it. 
 <br> several things come and go, most of them escape our eyes, some escape our hearts. there are those that get lost in the trunk of memories... and those that remain, from small details to intense landscapes and scenes, connect into a sometimes confusing 'whole' of experience. confusing because emotions are diverse and defy the logic of linear time by playing with the mind. 
@@ -64,6 +68,7 @@ sunrise or sunset – the way it shines, sunshine – it's sunrise
 </div>
 
 <hr>
+<span style="font-size:15px;font-weight:lighter">
 you know, there is the story of a man who loved a woman. his life was based on a routine – one of those very well-established routines. each thing had its place; each appointment had its time; each breath, its desire. everything he did, he knew why he did it. 
 <br> the end.
 <br> <span style="font-size:12px">(2014) </span>
