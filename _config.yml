@@ -67,9 +67,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-instagram_id: ana.richte.r # your instagram id
+instagram_id: ana.richte # your instagram id
 github_username: anarichter # your GitHub user name
-linkedin_username: richterana # your LinkedIn user name
+linkedin_username: ana-richter # your LinkedIn user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 scholar_userid: # your Google Scholar ID
@@ -110,7 +110,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: writings or random notes # blog_name will be displayed in your blog page
+blog_name: writings, or random notes # blog_name will be displayed in your blog page
 blog_nav_title: notes # your blog must have a title for it to be displayed in the nav bar
 # blog_description:  # > (@jschauma) or "signs of triviality" miscellaneous writings
 permalink: /blog/:year/:title/
