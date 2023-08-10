@@ -39,7 +39,7 @@ social: true  # includes social icons at the bottom of the page
 hi, there – I'm Ana! 
 
 <span style="font-size:15px;font-weight:lighter">
-Creating this website came as a coding exercise (to start learning a little about GitHub) and I ended up designing it to include my CV and things that interest me, such as reflections, pictures, references..
+Creating this website came as a coding exercise (to start learning a little about GitHub) and I ended up designing it to include my CV and things that interest me, such as reflections, pictures, references..`
 
 <span style="font-size:15px;font-weight:lighter">
 But this is a page under construction, so please, bear with me :-)
