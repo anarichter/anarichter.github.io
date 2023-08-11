@@ -73,7 +73,6 @@ description: de quando fui romântica
 
 ---
 
-<hr>
 <span style="font-size:14px;font-weight:lighter">
 descompassado
 <br> o coração fica na torcida

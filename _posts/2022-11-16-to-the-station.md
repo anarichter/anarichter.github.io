@@ -9,8 +9,6 @@ description: reading V. Woolf at the time i saw the couple
 
 ---
 
-<hr>
-
 <span style="font-size:15px;font-weight:lighter">
 Having walked all the path to that curious park by checking the GPS on my mobile, I now thought it was enough: I could finish the way on my own. And I was sure I had to go up the wide and long stairway to reach my destination (it would be like the curtains opening for a spectacle). 
 

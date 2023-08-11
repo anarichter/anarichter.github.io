@@ -14,7 +14,7 @@ description: words and pictures dispersed around facebook
 
 # "ninguém ousaria confessar que faz a guerra pela guerra, jura-se, sim, que se faz a guerra pela paz". Homem novo, Saramago (http://caderno.josesaramago.org/161290.html)
 ---
-<hr>
+
 <span style="font-size:15px;font-weight:lighter">
 opening this door is still,
 <br> and always,

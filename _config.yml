@@ -115,7 +115,7 @@ blog_nav_title: notes # your blog must have a title for it to be displayed in th
 # blog_description:  # > (@jschauma) or "signs of triviality" miscellaneous writings
 permalink: /blog/:year/:title/
 
-# Pagination
+# Pagination`
 pagination:
   enabled: true
 
