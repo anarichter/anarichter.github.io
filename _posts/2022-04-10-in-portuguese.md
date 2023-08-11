@@ -6,8 +6,7 @@ description: de quando fui romântica
 # tags: formatting links
 # categories: miscellaneous
 
-# "ninguém ousaria confessar que faz a guerra pela guerra, jura-se, sim, que se faz a guerra pela paz". Homem novo, Saramago (http://caderno.josesaramago.org/161290.html)
-
+# "ninguém ousaria confessar que faz a guerra pela guerra, jura-se, sim, que se faz a guerra pela paz". Homem novo, Saramago (http://caderno.josesaramago.org/161290.html)``
 
 
 # nos dias em que tirava retratos, eu corria para casa. corria para casa para logo colocar as fotografias no computador e assim poder ver aqueles olhos estranhos na tela. e naqueles olhos me encontrar, literalmente. a minha ânsia era de logo aproximar o enquadramento e ver minha imagem refletida em suas pupilas. reconhecer-me refletida em seus olhos.
@@ -117,21 +116,13 @@ se o tempo passou
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
-os ponteiros do relógio são espectadores
-<br> (invisíveis. presentes)
-<br> (categóricos ou dissimulados)
-<br> e a passagem ad aeternum atropela
-<br> 
-<br> mas neste ciclo manifesto
-<br> aparentemente certo
-<br> um elemento escapa
-<br> e delicadamente faz o tempo titubear:
-<br> 
-<br> o encontro sem aviso,
-<br> onde ao lado se descobre abrigo
-<br> 
+...
+<br> elemento que escapa
+<br> ao ciclo manifesto 
+<br> (aparentemente certo)
+<br> e faz a passagem ad aeternum titubear
 <br> fração de segundo eterna
-<br> o cônscio instante hipnotizante
+<br> cônscio instante hipnotizante:
 <br> momentos dessa dança
 <br> entre tempo e encontro
 </span>
@@ -152,4 +143,35 @@ sinto o toque do leve corpo
 <br> uma ligação
 <br> (natural, gentil, íntima)
 <br> nossa
+</span>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter"> 
+mordo o lábio
+<br> quando lembro
+<br> do doce beijo
+<br> molhado
+<br> quando desejo
+<br> nosso toque delicado
+<br> ou se penso
+<br> em você ao meu lado
+</span>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter"> 
+dança
+<br> mãos que reconheço
+<br> como minhas
+<br> – serão suas?
+<br> imersas na escuridão
+<br> reveladas no preciso espaço:
+<br> o que a luz escolhe
+<br> para me provocar
+</span>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter"> 
+eu queria, pensando agora que se foi, ter tirado um retrato dele.
+<br> não seria um problema explicar essa vontade, nem a mim mesma, portanto sem necessidade de esconder a motivação em desculpas, nem para ele, caso quisesse saber. era a sua beleza. a postura de quem já viveu muito, a serenidade daqueles que sabem melhor como a vida deve ser vivida, em um corpo tão jovem. uma presença que se basta, mas que ainda assim aprecia e busca o compartilhamento, em suas duas vias. havia, no entanto, um exato ponto que denunciava a ingenuidade daqueles de sua idade, e que abria as janelas que evidenciavam suas incertezas. ficava entre o sorriso discreto – que, com o olhar que o acompanhava, sem intenção, me desafiava – e o riso solto – que me fazia rir também. aquele ponto não admitia variação alguma em suas dimensões exatas (uma fração de segundo a mais ou a menos fazia com que as janelas se fechassem) e por isso era tão raro de se perceber, e tanto tempo me tomou a perceber.
+<br> pergunto-me, inclusive, se fui a única a ver através delas.
 </span>
