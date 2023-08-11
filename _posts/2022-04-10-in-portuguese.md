@@ -1,8 +1,8 @@
 ---
 layout: post
-title: portuguese
-date:   2023-04-10
-description: some words in portuguese
+title: romance, in portuguese
+date:   2022-04-10
+description: de quando fui romântica
 # tags: formatting links
 # categories: miscellaneous
 
@@ -69,32 +69,87 @@ description: some words in portuguese
 
 # Se cochilei foi porque não me aguentava em pé 
 
-
 #<hr>
 
-#<br>
-#<span style="font-size:15px;font-weight:lighter">
-#sonho contigo
-#<br>
-#<br> fixando o meu olhar
-#<br> pela janela
-#<br> a imaginação se perde
-#<br> dois caminhos se cruzam
-#<br> reconheço a sua presença – você a minha
-#<br> 
-#<br> pousando o meu olhar
-#<br> no seu
-#<br> as cortinas se abrem
-#<br> uma valsa carrega o meu sentir
-#<br> minha mão na sua – a sua na minha
-#<br>
-#<br> encerrando o meu olhar
-#<br> nos sonhos
-#<br> cenários se desenham
-#<br> uma noite estrelada anuncia
-#<br> eu com você – você comigo
-#<br> 
-#<br> a gente flutua
-#</span>
 
 ---
+
+<hr>
+<span style="font-size:14px;font-weight:lighter">
+descompassado
+<br> o coração fica na torcida
+<br> para que o abraço
+<br> acerte a batida
+</span>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter">
+(sonho contigo)
+<br> fixando o meu olhar pela janela
+<br> a imaginação se perde
+<br> dois caminhos se cruzam
+<br> / reconheço a sua presença – você a minha
+<br> pousando o meu olhar no seu
+<br> as cortinas se abrem
+<br> uma valsa carrega o meu sentir
+<br> / minha mão na sua – a sua na minha
+<br> encerrando o meu olhar em sonhos
+<br> cenários se desenham
+<br> e uma noite estrelada anuncia
+<br> / eu com você – você comigo
+<br> (a gente flutua)
+</span>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter">
+se o tempo passou
+<br> o seu olhar não me falou
+<br> será que fiquei parada
+<br> enquanto o mundo girou?
+<br> ao redor, em fast-forward,
+<br> as cores mudaram
+<br> e os ruídos silenciaram...
+<br> tudo se passou
+<br> no tempo que seu rosto sério aguentou
+<br> tudo apareceu e sumiu
+<br> até que seu sorriso não resistiu
+</span>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter">
+os ponteiros do relógio são espectadores
+<br> (invisíveis. presentes)
+<br> (categóricos ou dissimulados)
+<br> e a passagem ad aeternum atropela
+<br> 
+<br> mas neste ciclo manifesto
+<br> aparentemente certo
+<br> um elemento escapa
+<br> e delicadamente faz o tempo titubear:
+<br> 
+<br> o encontro sem aviso,
+<br> onde ao lado se descobre abrigo
+<br> 
+<br> fração de segundo eterna
+<br> o cônscio instante hipnotizante
+<br> momentos dessa dança
+<br> entre tempo e encontro
+</span>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter"> 
+sinto o toque do leve corpo 
+<br> que pousa delicamente
+<br> na ponta do meu dedo
+<br> o laço repentino forja uma responsabilidade
+<br> e cuidadosamente
+<br> ergo minha mão contra a luz
+<br> fascinada. na esperança,
+<br> de que uma nova perspectiva 
+<br> ilumine a trajetória
+<br> que conflui – aqui
+<br> e perceber o que nunca deixou de ser:
+<br> uma ligação
+<br> (natural, gentil, íntima)
+<br> nossa
+</span>
