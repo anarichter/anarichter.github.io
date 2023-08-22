@@ -77,8 +77,8 @@ tempo e encontro
 <br> conversa pela lua iluminada calada
 <br> paradoxo não resolvido, resolvido
 <br> 
-<br> de olhos fechados, a lembrança do abraço
-<br> transporta os sentidos
+<br> de olhos fechados, 
+<br> a lembrança do abraço transporta os sentidos
 <br> e a batida dita compassada é desafiada
 <br> à medida que a maré nas veias oscila
 <br> 
