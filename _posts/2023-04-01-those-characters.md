@@ -18,7 +18,7 @@ if a verb to express what this is is to be picked,
 </span>
 
 <div>
-    <img src="/assets/img/portrait.jpg" class="my-image rounded z-depth-1">
+    <img src="/assets/img/reflection.jpg" class="my-image rounded z-depth-1">
 </div>
 
 <br>
@@ -31,7 +31,7 @@ i was really touched by her. her stare was deep and grave; still it was not only
 
 <!---
 <hr>
-<span style="font-size:15px;font-weight:lighter">
+<span style="font-size:15px;font-weight:lighter"> 
 We had this peculiar, interesting relationship in which one could never really understand what the other meant. Deep down, we both knew that, but it didn't matter. I suppose we esteemed each other's life stance, and for some reason, felt safe in that bond (our, if formal, almost solemn). We kept exchanging observations about life now and then as if life itself made sense.
 </span>
 
