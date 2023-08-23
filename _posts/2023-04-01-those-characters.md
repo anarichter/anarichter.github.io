@@ -8,6 +8,7 @@ description: even now, my heart beats differently
 
 ---
 
+<hr>
 <span style="font-size:14px;font-weight:lighter">
 if a verb to express what this is is to be picked, 
 <br> then the verb is ‘to haunt’.
@@ -20,13 +21,23 @@ if a verb to express what this is is to be picked,
 <div>
     <img src="/assets/img/reflection.jpg" class="my-image rounded z-depth-1">
 </div>
-
 <br>
+<br>
+
 <hr>
 <span style="font-size:14px;font-weight:lighter">
 i was really touched by her. her stare was deep and grave; still it was not only about her eyes. i could read it in her face: all the strength overflowing from the pores, demarcating its expression lines. i was touched by her past, completely unknown to me.
 <br> i don’t understand clearly what kind of emotion she imparted to me, but it was powerful. in each blink of her eyes i could see a different struggle, and i knew that the suffering was there – hidden, perhaps, but there. 
 <br> i imagined she endured every battle with pride, as if it was not allowed for her to cry, to show how hard those battles were; to slow down. it was not about succeeding, because it was not about success. it was not about recognition neither. it was simply about living an honorable life.
+</span>
+<br>
+<br>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter">
+i can’t forgive myself for forgetting your name. i asked twice. i did so because i was supposed to remember, because i wanted to. yet, it slipped my mind. and i don’t forgive myself for letting this happen.
+<br> - -
+<br> my redemption: i know its meaning: "smile". it matches perfectly with the one you entrusted me with. i can still remember how its beauty struck me; i can relive that moment and the amazement i felt.
 </span>
 
 <!---
