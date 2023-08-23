@@ -15,6 +15,8 @@ descompassado
 <br> para que o abraço
 <br> acerte a batida
 </span>
+<br>
+<br>
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
@@ -33,6 +35,8 @@ descompassado
 <br> eu com você – você comigo
 <br> (a gente flutua)
 </span>
+<br>
+<br>
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
@@ -48,45 +52,9 @@ se o tempo passou
 <br> tudo apareceu e sumiu
 <br> até que seu sorriso não resistiu
 </span>
+<br>
+<br>
 
-<hr>
-<span style="font-size:14px;font-weight:lighter">
-tempo e encontro
-<br> 
-<br> o dia e a noite convidam a dançar
-<br> os ponteiros do relógio são espectadores
-<br> invisíveis, presentes. categóricos ou dissimulados.
-<br> 
-<br> há um fascínio, desejo de controlar
-<br> mas em meio à espreita: sorrateira
-<br> é a passagem ad aeternum que atropela
-<br> 
-<br> feito água e ar, as mãos não podem agarrar
-<br> fechar os olhos e correr (para nunca alcançar)
-<br> fechar os olhos para esquecer (e nunca para trás deixar)
-<br> 
-<br> nesse ciclo manifesto, aparentemente certo
-<br> há ali um elemento que escapa
-<br> e delicadamente faz o tempo titubear
-<br> 
-<br> perceber-se diante de alguém
-<br> um encontro sem aviso
-<br> 
-<br> dois pares de braços em um enlace
-<br> mergulho nos olhos que encaram
-<br> conversa pela lua iluminada calada
-<br> paradoxo não resolvido, resolvido
-<br> 
-<br> de olhos fechados, 
-<br> a lembrança do abraço transporta os sentidos
-<br> e a batida dita compassada é desafiada
-<br> à medida que a maré nas veias oscila
-<br> 
-<br> uma fração de segundo eterna
-<br> o cônscio instante hipnotizante:
-<br> momentos dessa dança
-<br> entre tempo e encontro
-</span>
 
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
@@ -105,6 +73,8 @@ sinto o toque do leve corpo
 <br> (natural, gentil, íntima)
 <br> nossa
 </span>
+<br>
+<br>
 
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
@@ -117,6 +87,8 @@ mordo o lábio
 <br> ou se penso
 <br> em você ao meu lado
 </span>
+<br>
+<br>
 
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
@@ -148,6 +120,8 @@ um poema sobre um poema
 <br> já o poema não declamado
 <br> ... )
 </span>
+<br>
+<br>
 
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
@@ -160,6 +134,49 @@ dança
 <br> o que a luz escolhe
 <br> para me provocar
 </span>
+<br>
+<br>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter">
+tempo e encontro
+<br> 
+<br> o dia e a noite convidam a dançar
+<br> os ponteiros do relógio são espectadores
+<br> invisíveis, presentes. categóricos ou dissimulados.
+<br> 
+<br> há um fascínio, desejo de controlar
+<br> mas em meio à espreita: sorrateira
+<br> é a passagem ad aeternum que atropela
+<br> 
+<br> feito água e ar, as mãos não podem agarrar
+<br> fechar os olhos e correr (para nunca alcançar)
+<br> fechar os olhos para esquecer (e nunca para trás deixar)
+<br> 
+<br> mas nesse ciclo manifesto, aparentemente certo
+<br> há ali um elemento que escapa
+<br> e delicadamente faz o tempo titubear
+<br> 
+<br> perceber-se diante de alguém.
+<br> um encontro sem aviso
+<br> 
+<br> dois pares de braços em um enlace
+<br> mergulho nos olhos que encaram
+<br> conversa calada pela lua iluminada
+<br> paradoxo não resolvido, resolvido
+<br> 
+<br> de olhos fechados, 
+<br> a lembrança do abraço transporta os sentidos
+<br> e a batida dita compassada é desafiada
+<br> à medida que a maré nas veias oscila
+<br> 
+<br> uma fração de segundo eterna
+<br> o cônscio instante hipnotizante:
+<br> momentos dessa dança
+<br> entre tempo e encontro
+</span>
+<br>
+<br>
 
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 

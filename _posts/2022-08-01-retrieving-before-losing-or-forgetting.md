@@ -100,6 +100,8 @@ opening this door is still,
 <br> those dances,
 <br> those gazes
 <br> <span style="font-size:12px">(2017) </span>
+<br>
+<br>
 
 <hr>
 <span style="font-size:15px;font-weight:lighter">
@@ -108,6 +110,8 @@ on the days when i took portraits, i ran home. i would run home, so i could load
 <div>
     <img src="/assets/img/rezar.jpg" class="my-image-p rounded z-depth-1">
 </div>
+<br>
+<br>
 
 <hr>
 <span style="font-size:15px;font-weight:lighter">
@@ -116,6 +120,8 @@ sunrise or sunset – the way it shines, sunshine – it's sunrise
 <div>
     <img src="/assets/img/sunrise.jpg" class="my-image rounded z-depth-1">
 </div>
+<br>
+<br>
 
 <hr>
 <span style="font-size:15px;font-weight:lighter">
@@ -128,9 +134,12 @@ sunrise or sunset – the way it shines, sunshine – it's sunrise
 <div>
     <img src="/assets/img/no-longer.jpg" class="my-image rounded z-depth-1">
 </div>
+<br>
+<br>
 
 <hr>
 <span style="font-size:15px;font-weight:lighter">
 you know, there is the story of a man who loved a woman. his life was based on a routine – one of those very well-established routines. each thing had its place; each appointment had its time; each breath, its desire. everything he did, he knew why he did it. 
 <br> the end.
 <br> <span style="font-size:12px">(2014) </span>
+<br>
