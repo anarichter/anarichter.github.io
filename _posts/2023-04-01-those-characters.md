@@ -8,6 +8,12 @@ description: even now, my heart beats differently
 
 ---
 
+
+<div>
+    <img src="/assets/img/reflection.jpg" class="my-image rounded z-depth-1">
+</div>
+<br>
+
 <span style="font-size:14px;font-weight:lighter">
 if a verb to express what this is is to be picked, 
 <br> then the verb is ‘to haunt’.
@@ -16,10 +22,6 @@ if a verb to express what this is is to be picked,
 <br> how in such an encounter, anchored in mutual respect, can you look someone in the eye and say, bluntly, ‘We cannot help you’? 
 <br> as I try to make sense of that moment, materialized now in a distant memory, it chokes me. still, it is not our powerlessness, powerlessness in the face of a strong predicament, in the face of a noble, sad gaze, that haunts me...
 </span>
-
-<div>
-    <img src="/assets/img/reflection.jpg" class="my-image rounded z-depth-1">
-</div>
 <br>
 <br>
 
