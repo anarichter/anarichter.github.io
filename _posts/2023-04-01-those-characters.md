@@ -8,7 +8,6 @@ description: even now, my heart beats differently
 
 ---
 
-<hr>
 <span style="font-size:14px;font-weight:lighter">
 if a verb to express what this is is to be picked, 
 <br> then the verb is ‘to haunt’.
@@ -36,8 +35,8 @@ i was really touched by her. her stare was deep and grave; still it was not only
 <hr>
 <span style="font-size:14px;font-weight:lighter">
 i can’t forgive myself for forgetting your name. i asked twice. i did so because i was supposed to remember, because i wanted to. yet, it slipped my mind. and i don’t forgive myself for letting this happen.
-<br> - -
-<br> my redemption: i know its meaning: "smile". it matches perfectly with the one you entrusted me with. i can still remember how its beauty struck me; i can relive that moment and the amazement i felt.
+<br> ...
+<br> my redemption: i know its meaning – "smile". it matches perfectly with the one you entrusted me with. i can still remember how its beauty struck me; if i close my eyes, i can relive that moment and the amazement i felt.
 </span>
 
 <!---
