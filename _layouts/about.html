@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-  
+
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
-           {% if site.title != "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }} {%- else -%}{{ site.title }}{%- endif %}
+           {% if site.title != "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
-          <p class="about">{{ page.subtitle }}</p>
+          <p class="desc">{{ page.subtitle }}</p>
         </header>
 
         <article>
@@ -23,8 +23,8 @@ layout: default
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
@@ -40,26 +40,54 @@ layout: default
             {{ content }}
           </div>
 
+          <!-- News 
           {% if page.news -%}
-          <!-- News -->
-          {%- include news.html %}
-          {%- endif %}
-          {% if page.selected_papers -%}
-            <!-- Selected papers -->
-            {%- include selected_papers.html %}
-          {%- endif %}
-          {%- if page.social %}
-          <!-- Social -->
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            {%- include news.html %}
+          {%- endif %} -->
 
-            <div class="contact-note">
-              {{ site.contact_note }}
+          <!-- Latest posts 
+          <div>
+            <br>
+          {% if page.latest_posts -%}
+          <ul class="card-text font-weight-light list-group list-group-flush">
+            <a href="{{ '/blog/' | relative_url }}">latest on writings; i.e. random notes</a>
+           <span style="font-size:15px;font-weight:400;color: var(--global-theme-color);">latest on "writings; i.e. random notes"</span>
+            {%- include latest_posts.html %}
+          </ul>
+          {%- endif %}
+          <br>
+          </div> -->
+
+          <!--- Latest posts -->
+          {% if page.latest_posts -%}
+          <div class="card mt-3 p-3">
+            <span style="font-weight:400">latest on <a href="{{ '/blog/' | relative_url }}">notes:</a></span>
+            <div>
+              {%- include latest_posts.html %}
             </div>
-            
+          {%- endif %}
           </div>
+
+          <!-- Selected papers
+          {% if page.selected_papers -%}
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            {%- include selected_papers.html %}
+          {%- endif %} -->
+
+          <!-- Social -->
+          <br>
+          {%- if page.social %}
+            <div class="social">
+              <div class="contact-icons">
+                {% include social.html %}
+              </div>
+
+              <div class="contact-note">
+                {{ site.contact_note }}
+              </div>
+
+            </div>
           {%- endif %}
         </article>
 
