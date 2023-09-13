@@ -204,7 +204,7 @@ nav_order: 2
       </div>
 </div>
 
-
+<br>
 <hr>
 <span style="font-size:14px;font-weight:lighter">my </span><span style="font-size:15px;font-weight:bolder">movieshelf</span><span style="font-size:14px;font-weight:lighter">, or what i most enjoyed watching lately: <br> 
 <a href="https://www.imdb.com/title/tt5859238/">Lucky (2017)</a> <br>
@@ -217,5 +217,6 @@ nav_order: 2
 and one of my all-time favourites: <br>
 <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a>
 <br>
+
 <hr>
 but you know, that <a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">quote</a> about how little remains from readings or watching films does resonate with me (starting to record the books i read on goodreads came as a tactic to get around this)
