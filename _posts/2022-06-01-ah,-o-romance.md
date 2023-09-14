@@ -1,6 +1,6 @@
 ---
 layout: post
-title: romance, em português
+title: ah, o romance
 date:   2022-06-01
 description: de quando fui romântica
 tags: em-português
