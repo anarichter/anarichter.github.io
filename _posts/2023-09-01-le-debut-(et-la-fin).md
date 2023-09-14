@@ -1,6 +1,6 @@
 ---
 layout: post
-title: le début et la fin
+title: le début (et la fin)
 date:   2023-09-01
 description: Cioran escrevia em francês
 tags: em-português
