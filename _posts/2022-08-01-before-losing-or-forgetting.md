@@ -1,10 +1,10 @@
 ---
 layout: post
-title: retrieving before losing or forgetting
+title: before losing or forgetting
 date:   2022-08-01
 description: words and pictures dispersed around facebook
-# tags: formatting links
-# categories: miscellaneous short-posts story
+tags: in-english
+# categories: english #miscellaneous short-posts story
 
 #Micha Bar Am 1967
 #Woman returning her goat from the fields. Judea, 1967

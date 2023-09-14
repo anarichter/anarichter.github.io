@@ -3,8 +3,8 @@ layout: post
 title: romance, em português
 date:   2022-06-01
 description: de quando fui romântica
-# tags: formatting links
-# categories: miscellaneous
+tags: em-português
+# categories: 
 # &emsp;
 
 ---
