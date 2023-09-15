@@ -18,7 +18,7 @@ Se penso na possibilidade de elaborar um livro, o melhor que posso imaginar, dad
 Desculpa, Cioran. Não é indolência; estou bradando de impaciência. Ademais, cometo uma injustiça se não observar que, quando me reconhecia naquelas frases “aforísticas”, e quando não me reconhecia também, sentia uma intimidade que não precisa se justificar; não precisa se desculpar; não precisa desculpar.
 
 <span style="font-size:15px;font-weight:lighter">
-Lembrei de uma historieta que esbocei há muitos anos – tantos que não lembro quantos – ou melhor, tantos que não quero saber quantos. Sem saber o que fazer com uma introdução que iluminava desdobramentos potentes – sobre um homem particular que amava uma mulher particular –, determinei um encerramento abrupto: fim. Fim, assim, sem piedade. Nem pelo leitor, nem pela própria história. Mas por um bem que me parecia mais importante: minha sanidade.
+Lembrei de uma historieta que esbocei há muitos anos – tantos que não lembro quantos – tantos que não quero saber quantos. Sem saber o que fazer com uma introdução que iluminava desdobramentos potentes (sobre um homem particular que amava uma mulher), determinei um encerramento abrupto: fim. Fim, assim, sem piedade. Nem pelo leitor, nem pela própria história. Mas por um bem que me parecia mais importante: minha sanidade.
 
 <span style="font-size:15px;font-weight:lighter">
 Minha sanidade? E o que é que faço agora? …
