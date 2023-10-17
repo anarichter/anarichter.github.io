@@ -60,8 +60,8 @@ se o tempo passou
 <span style="font-size:14px;font-weight:lighter"> 
 sinto o toque do leve corpo 
 <br> que pousa delicamente
-<br> na ponta do meu dedo
-<br> o laço repentino forja uma responsabilidade
+<br> na ponta do meu dedo.
+<br> o laço repentino forja uma responsabilidade,
 <br> e cuidadosamente
 <br> ergo minha mão contra a luz
 <br> fascinada. na esperança

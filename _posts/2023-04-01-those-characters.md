@@ -12,12 +12,12 @@ tags: in-english
 <span style="font-size:14px;font-weight:lighter">
 If a verb to express what this is 
 <br> is to be picked, 
-<br> then the verb is ‘to haunt’.
+<br> then the verb is « to haunt ».
 
 <span style="font-size:14px;font-weight:lighter">
-The image of that man, laborer (“a person doing unskilled manual work for wages”), father, perhaps the owner of that small property where we found ourselves, built and maintained exclusively with their own hands, haunts me. But this verb seems to imply that he is somewhat responsible for the terror.
+The image of that man, laborer (« a person doing unskilled manual work for wages »), father, perhaps the owner of that small property where we found ourselves, built and maintained exclusively with their own hands, haunts me. But this verb seems to imply that he is somewhat responsible for the terror.
 <br> The image haunts me, and it is within myself that the discomfort lies. For all he did was to ask, humbly, innocently, if we could help. He did not need to justify it. We could see it. But we could not.
-<br> How, in such an encounter, anchored in mutual respect, can you look someone in the eye and say, bluntly, ‘We cannot help you’? As I try to make sense of that moment, materialized now in a distant memory, it chokes me. 
+<br> How, in such an encounter, anchored in mutual respect, can you look someone in the eye and say, bluntly, « We cannot help you »? As I try to make sense of that moment, materialized now in a distant memory, it chokes me. 
 <br> Still, it is not our powerlessness, powerlessness in the face of a strong predicament, in the face of a noble, sad gaze, that haunts me...
 </span>
 <div>

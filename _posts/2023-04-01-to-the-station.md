@@ -36,7 +36,7 @@ I reached the top of the stairway, which opened up to an impressively wide horiz
 
 <hr>
 
-<span style="font-size:14px;font-weight:lighter">• Virginia Woolf's "To the Lighthouse" 'inspired' me when trying to come up with these sentences.
+<span style="font-size:14px;font-weight:lighter">• Virginia Woolf's To the Lighthouse 'inspired' me when trying to come up with these sentences.
 </span>
 
 <!-- <span style="font-size:14px;font-weight:lighter">this scene impacted me dearly as 

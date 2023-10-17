@@ -80,7 +80,7 @@ nos dias em que tirava retratos, eu corria para casa. corria para casa para logo
 
 <hr>
 <span style="font-size:15px;font-weight:lighter">
-"uma coisa que estava aqui e não está mais".
+« uma coisa que estava aqui e não está mais ».
 <br> na época, eu não entendia; mas agora posso claramente sentir isso.
 <br> diversas coisas vem e vão, a maioria nos escapa aos olhos, algumas ao coração. há aquelas que se perdem no baú de memórias... as que ficam, de pequenos detalhes a paisagens e cenas mais intensas, conectam-se em um todo, por vezes confuso, da experiência. confuso pois as emoções são diversas e desafiam a lógica de um tempo linear ao brincar com a mente.
 <br> de repente, sou em quem estava aqui e não está mais. para o ambiente pouca diferença faz; é a interação dos elementos presentes naquele exato segundo que o constrói e formam sua verdade - constantemente mutável, mas sempre verdade. o gosto da não-mais-presença é amargo. é uma ruptura abrupta, mesmo que prevista e antecipada por uma pré-nostalgia.

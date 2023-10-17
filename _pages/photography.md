@@ -24,7 +24,6 @@ nav_order: 5
     Winter Festival: Winter and Sensations (Curitiba, Brazil)
 </div>
 <br>
-<hr>
 
 
 <div class="row">
@@ -43,5 +42,5 @@ nav_order: 5
 </div>
 <br>
 
-<hr>
-<p> <span style="font-size:14px;font-weight:lighter">it's not like my instagram is my portfolio, but there you can check out some of the photos i've taken <a href="https://instagram.com/{{ site.instagram_id }}">(clicking here)</a> :-) <br> or you can go back to where you were <a href="/cv"> (presumably "my cv", here)</a>
+
+<p> <span style="font-size:14px;font-weight:lighter">it's not like my instagram is my portfolio, but there you can check out some of the photos i've taken <a href="https://instagram.com/{{ site.instagram_id }}">(clicking here)</a> :-) <br> or you can go back to where you were <a href="/cv"> (presumably « cv », in here)</a>
