@@ -207,6 +207,20 @@ nav_order: 2
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/178000.Albertine_Sarrazin">Albertine Sarrazin</a>
           </div>
       </div>
+      <!-- <div class="gr_custom_each_container_1697127983"> -->
+        <span style="font-size:13px;font-weight:lighter"> just for the record, one of my all-time favourites – truly, a masterpiece:</span>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="Grande Sertão: Veredas" rel="nofollow" href="https://www.goodreads.com/review/show/5120597395?utm_medium=api&amp;utm_source=custom_widget"><img alt="Grande Sertão: Veredas" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448037977l/27866524._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/5120597395?utm_medium=api&amp;utm_source=custom_widget">Grande Sertão: Veredas</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/95937.Jo_o_Guimar_es_Rosa">João Guimarães Rosa</a>
+          </div>
+      </div>
+      <!-- </div> -->
   </div>
 
 
@@ -219,11 +233,11 @@ nav_order: 2
 <a href="https://www.imdb.com/title/tt9660502/">Close (2022)</a> <br>
 <a href="https://www.imdb.com/title/tt10986222/">C'mon C'mon (2021)</a> <br>
 <a href="https://www.imdb.com/title/tt14034966/">Wheel of Fortune and Fantasy (Gûzen to sôzô) (2021)</a> <br>
-one of my all-time favourites is <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> – pesado
+(one of my all-time favourites is <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> – pesado)
 <br>
 <br>
 <br>
-... but you know, that <a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a> about how little remains from reading or watching films does resonate with me 
+... but you know, that <strong><a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a></strong> about how little remains from reading or watching films does resonate with me 
 <br>(and starting to record the books i read on goodreads came as a tactic to get around this)
 <br>
 <br>

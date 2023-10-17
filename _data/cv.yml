@@ -19,7 +19,7 @@
   type: list
   contents:
     #- <u>Hobbies:</u> Photography, writing, reading, cycling, wandering
-    - <a href="/photo">Photography</a>, <a href="/blog">writing</a>, <a href="/bookshelf">reading</a>, cycling, wandering
+    - <strong><a href="/photo">Photography</a></strong>, <strong><a href="/blog">writing</a></strong>, <strong><a href="/bookshelf">reading</a></strong>, cycling, wandering
 
 - title: Academic interests
   type: list

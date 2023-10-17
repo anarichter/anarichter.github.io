@@ -165,7 +165,7 @@ tempo e encontro
 <br> conversa calada pela lua iluminada
 <br> paradoxo não resolvido, resolvido
 <br> 
-<br> de olhos fechados, 
+<br> de olhos fechados
 <br> a lembrança do abraço transporta os sentidos
 <br> e a batida dita compassada é desafiada
 <br> à medida que a maré nas veias oscila
