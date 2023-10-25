@@ -208,7 +208,7 @@ nav_order: 2
           </div>
       </div>
       <!-- <div class="gr_custom_each_container_1697127983"> -->
-        <span style="font-size:13px;font-weight:lighter"> just for the record, one of my all-time favourites – truly, a masterpiece:</span>
+        <span style="font-size:13px;font-weight:lighter;color:#37474F"> for the record, one of my all-time favourites – a masterpiece:</span>
       <div class="gr_custom_each_container_1697127983">
           <div class="gr_custom_book_container_1697127983">
             <a title="Grande Sertão: Veredas" rel="nofollow" href="https://www.goodreads.com/review/show/5120597395?utm_medium=api&amp;utm_source=custom_widget"><img alt="Grande Sertão: Veredas" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448037977l/27866524._SX50_.jpg" /></a>
@@ -227,24 +227,22 @@ nav_order: 2
 <br>
 <br>
 <span style="font-size:14px;font-weight:lighter">my </span><span style="font-size:15px;font-weight:bolder">« movieshelf »</span><span style="font-size:14px;font-weight:lighter"> or what i most enjoyed watching lately: <br> 
-<a href="https://www.imdb.com/title/tt5859238/">Lucky (2017)</a> <br>
 <a href="https://www.imdb.com/title/tt9138170/">Limbo (2020)</a> <br>
+<a href="https://www.imdb.com/title/tt5859238/">Lucky (2017)</a> <br>
 <a href="https://www.imdb.com/title/tt19770238/">Aftersun (2022)</a> <br>
 <a href="https://www.imdb.com/title/tt9660502/">Close (2022)</a> <br>
 <a href="https://www.imdb.com/title/tt10986222/">C'mon C'mon (2021)</a> <br>
 <a href="https://www.imdb.com/title/tt14034966/">Wheel of Fortune and Fantasy (Gûzen to sôzô) (2021)</a> <br>
-(one of my all-time favourites is <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> – pesado)
+(one of my favourites i can remember: <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> – pesado)
 <br>
 <br>
 <br>
-... but you know, that <strong><a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a></strong> about how little remains from reading or watching films does resonate with me 
-<br>(and starting to record the books i read on goodreads came as a tactic to get around this)
+... but you know, that <strong><a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a></strong> about how little remains from reading or watching films does resonate with me – consciously anyway. (and starting to record the books i read on Goodreads came as a tactic to get around this)
 <br>
 <br>
 <br>
 <span style="font-size:14px;font-weight:lighter">
-then, i'm not one for poems, but these two left me amazed: 
-<br> (my </span><span style="font-size:14px;font-weight:lighter">« poemshelf »</span><span style="font-size:14px;font-weight:lighter"> if you indulge me)
+then, i'm not one for poems, but these two left me amazed: (my </span><span style="font-size:14px;font-weight:lighter">« poemshelf »</span><span style="font-size:14px;font-weight:lighter"> if you indulge me)
 <br>
 <br> <strong>We grow accustomed to the Dark</strong>
 <br> <i>by Emily Dickinson</i>

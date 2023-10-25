@@ -21,10 +21,10 @@ Desculpa, Cioran. Não é indolência; estou bradando de impaciência. Ademais, 
 Lembrei de uma historieta que esbocei há muitos anos – tantos que não lembro quantos – tantos que não quero saber quantos. Sem saber o que fazer com uma introdução que iluminava desdobramentos potentes (sobre um homem particular que amava uma mulher), determinei um encerramento abrupto: « fim ». Fim, assim, sem piedade. Nem pelo leitor, nem pela própria história. Mas por um bem que me parecia mais importante: minha sanidade.
 
 <span style="font-size:15px;font-weight:lighter">
-Minha sanidade? E o que é que faço agora? …
+Minha sanidade? E o que é que faço agora?
 
 <span style="font-size:15px;font-weight:lighter">
-Vou atrás dos papéis, buscá-los em meus cantos.
+Vou atrás dos papéis; buscá-los em meus cantos.
 </span>
 
 <!-- como escala até o si, fica faltando o dó -->
