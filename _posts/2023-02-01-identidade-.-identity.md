@@ -1,8 +1,8 @@
 ---
 layout: post
-title: identity . identidade
+title: identidade . identity
 date:   2023-02-01
-description: or the other's . ou a do outro
+description: ou a do outro . or the other's
 tags: english português
 # categories: english
 
