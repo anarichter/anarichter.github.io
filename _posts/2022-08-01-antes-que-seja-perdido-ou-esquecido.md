@@ -3,7 +3,7 @@ layout: post
 title: antes que seja perdido ou esquecido
 date:   2022-08-01
 description: palavras e imagens espalhadas pelo facebook (pt)
-tags: em-português
+tags: português
 # categories: english #miscellaneous short-posts story
 
 #Micha Bar Am 1967

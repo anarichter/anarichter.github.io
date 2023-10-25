@@ -3,7 +3,7 @@ layout: post
 title: before losing or forgetting
 date:   2022-08-01
 description: words and pictures dispersed around facebook (en)
-tags: in-english
+tags: english
 # categories: english #miscellaneous short-posts story
 
 #Micha Bar Am 1967

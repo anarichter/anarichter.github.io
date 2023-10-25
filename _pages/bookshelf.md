@@ -237,7 +237,7 @@ nav_order: 2
 <br>
 <br>
 <br>
-... but you know, that <strong><a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a></strong> about how little remains from reading or watching films does resonate with me – consciously anyway. (and starting to record the books i read on Goodreads came as a tactic to get around this)
+... but you know, that <strong><a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a></strong> about how little remains from reading or watching films does resonate with me – consciously, anyway. (and starting to record the books i read on Goodreads came as a tactic to get around this)
 <br>
 <br>
 <br>
