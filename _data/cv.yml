@@ -10,21 +10,8 @@
     #- name: Languages
       #value: English, Portuguese, German [, je ne parle pas français mais je comprends un peu]
 
-- title: Languages
-  type: list
-  contents: 
-    - Portuguese, <a href="/assets/pdf/IELTS-test-report-form.pdf">English</a>, <a href="/assets/pdf/TestDaF.pdf">German</a> <br> (et je ne parle pas français mais je comprends un peu)
 
-- title: Hobbies
-  type: list
-  contents:
-    #- <u>Hobbies:</u> Photography, writing, reading, cycling, wandering
-    - <strong><a href="/photo">Photography</a></strong>, <strong><a href="/blog">writing</a></strong>, <strong><a href="/bookshelf">reading</a></strong>, cycling, wandering
 
-- title: Academic interests
-  type: list
-  contents:
-    - Citizenship studies, immigration, national identity and belonging
 
 - title: Education
   type: time_table
@@ -95,7 +82,7 @@
 
     # [*Adding "footnote" 31.10.2022]
     - title:
-      institution: <p> * most recent </p>
+      institution: <span style="font-size:13px;font-weight:lighter"> * most recent </span>
 
 #- title: Open Source Projects
   #type: time_table
@@ -142,3 +129,19 @@
       #value: Photography, writing, reading, cycling, wandering
     #- name: Volunteering
       #value: AIESEC in Curitiba/Brazil, Impact Hub
+
+- title: Academic interests
+  type: list
+  contents:
+    - Citizenship and belonging vis-à-vis immigration and global mobility.
+
+- title: Languages
+  type: list
+  contents: 
+    - Portuguese, <a href="/assets/pdf/IELTS-test-report-form.pdf">English</a>, <a href="/assets/pdf/TestDaF.pdf">German</a> <br> (et je ne parle pas français mais je comprends un peu)
+
+- title: Hobbies
+  type: list
+  contents:
+    #- <u>Hobbies:</u> Photography, writing, reading, cycling, wandering
+    - <a href="/photo">Photography</a>, <a href="/blog">writing</a>, <a href="/bookshelf">reading</a>, cycling, wandering
