@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 description: # curriculum vitae 
 >
-    DAAD Alumna (Helmut-Schmidt-Programme) | MA in Governance and Public Policy (Staatswissenschaften) | Specialization in Public Management | BSc in Economics
+    BSc in Economics | Specialization in Public Management | MA in Governance and Public Policy (Staatswissenschaften) | DAAD Alumna (Helmut-Schmidt-Programme)
     <hr>
 nav: true
 nav_order: 3

@@ -2,7 +2,7 @@
 layout: page
 permalink: /bookshelf
 title: bookshelf
-description: read books (from 2022 on) #goodreads'`links # <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 – Goodreads</a>
+description: last read books (i'll just keep adding as it goes) #goodreads'`links # <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 – Goodreads</a>
 nav: true
 nav_order: 2
 ---
@@ -208,7 +208,7 @@ nav_order: 2
           </div>
       </div>
       <!-- <div class="gr_custom_each_container_1697127983"> -->
-        <span style="font-size:13px;font-weight:lighter;color:#37474F"> for the record, one of my all-time favourites – a masterpiece:</span>
+        <span style="font-size:13px;font-weight:lighter;color:#37474F"> for the record, one of my all-time favourites:</span>
       <div class="gr_custom_each_container_1697127983">
           <div class="gr_custom_book_container_1697127983">
             <a title="Grande Sertão: Veredas" rel="nofollow" href="https://www.goodreads.com/review/show/5120597395?utm_medium=api&amp;utm_source=custom_widget"><img alt="Grande Sertão: Veredas" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448037977l/27866524._SX50_.jpg" /></a>
@@ -237,15 +237,15 @@ nav_order: 2
 <br>
 <br>
 <br>
-... but you know, that <strong><a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a></strong> about how little remains from reading or watching films does resonate with me – consciously, anyway. (and starting to record the books i read on Goodreads came as a tactic to get around this)
+... but you know, that <strong><a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a></strong> about how little remains from reading or watching films does resonate with me – consciously, anyway. (so starting in 2022 to record the books i read on Goodreads came as a tactic to get around this)
 <br>
 <br>
 <br>
 <span style="font-size:14px;font-weight:lighter">
-then, i'm not one for poems, but these two left me amazed: (my </span><span style="font-size:14px;font-weight:lighter">« poemshelf »</span><span style="font-size:14px;font-weight:lighter"> if you indulge me)
+then, i'm not one for poems, but these two left me amazed (actually, leave me each time i read them)... my </span><span style="font-size:14px;font-weight:lighter">« poemshelf »</span><span style="font-size:14px;font-weight:lighter"> if you indulge me:
 <br>
 <br> <strong>We grow accustomed to the Dark</strong>
-<br> <i>by Emily Dickinson</i>
+<br> <i>Emily Dickinson</i>
 <br>
 <br> We grow accustomed to the Dark—
 <br> When Light is put away—
@@ -274,7 +274,7 @@ then, i'm not one for poems, but these two left me amazed: (my </span><span styl
 <br>
 <br>
 <strong>Crossroads</strong>
-<br><i>by Louise Glück</i>
+<br><i>Louise Glück</i>
 <br>
 <br>My body, now that we will not be traveling together much longer
 <br>I begin to feel a new tenderness toward you, very raw and unfamiliar,

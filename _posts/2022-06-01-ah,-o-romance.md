@@ -20,20 +20,20 @@ descompassado
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
-(sonho contigo)
+sonho contigo –
 <br> fixando o meu olhar pela janela
 <br> a imaginação se perde
-<br> dois caminhos se cruzam
+<br> dois caminhos se cruzam:
 <br> reconheço a sua presença – você a minha
 <br> pousando o meu olhar no seu
 <br> as cortinas se abrem
-<br> uma valsa carrega o meu sentir
+<br> uma valsa carrega o meu sentir:
 <br> minha mão na sua – a sua na minha
 <br> encerrando o meu olhar em sonhos
 <br> cenários se desenham
-<br> e uma noite estrelada anuncia
+<br> e uma noite estrelada anuncia:
 <br> eu com você – você comigo
-<br> (a gente flutua)
+<br> – a gente flutua
 </span>
 <br>
 <br>
@@ -60,11 +60,11 @@ se o tempo passou
 <span style="font-size:14px;font-weight:lighter"> 
 sinto o toque do leve corpo 
 <br> que pousa delicamente
-<br> na ponta do meu dedo.
-<br> o laço repentino forja uma responsabilidade,
+<br> na ponta do meu dedo
+<br> o laço repentino forja uma responsabilidade
 <br> e cuidadosamente
-<br> ergo minha mão contra a luz
-<br> fascinada. na esperança
+<br> ergo minha mão contra a luz (fascinada)
+<br> na esperança
 <br> de que uma nova perspectiva 
 <br> ilumine a trajetória
 <br> que conflui – aqui
@@ -109,10 +109,10 @@ um poema sobre um poema
 <br> (e o poema esperaria)
 <br> 
 <br> naquele instante conectados
-<br> sorte minha ele não hesitar
-<br> e assim ambos desprevenidos
-<br> pudemos com a espontaneidade flertar
-<br> e a beleza contemplar
+<br> sorte a minha ele não hesitar
+<br> e com a espontaneidade flertar (!)
+<br> ali parados, ambos então desprevenidos
+<br> só restou-nos contemplar
 <br> 
 <br> (agora o pássaro-sentimento voa
 <br> e por todo lado e deslado
@@ -127,8 +127,8 @@ um poema sobre um poema
 <span style="font-size:14px;font-weight:lighter"> 
 dança
 <br> mãos que reconheço
-<br> como minhas
-<br> – serão suas?
+<br> como suas
+<br> – serão minhas?
 <br> imersas na escuridão
 <br> reveladas no preciso espaço:
 <br> o que a luz escolhe
@@ -139,14 +139,12 @@ dança
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
-tempo e encontro
-<br> 
-<br> o dia e a noite convidam a dançar
+o dia e a noite convidam a dançar
 <br> os ponteiros do relógio são espectadores
-<br> invisíveis, presentes. categóricos ou dissimulados.
+<br> invisíveis, presentes. categóricos ou dissimulados
 <br> 
 <br> há um fascínio, desejo de controlar
-<br> mas em meio à espreita: sorrateira
+<br> mas em meio à espreita – sorrateira
 <br> é a passagem ad aeternum que atropela
 <br> 
 <br> feito água e ar, as mãos não podem agarrar
@@ -155,20 +153,15 @@ tempo e encontro
 <br> 
 <br> mas nesse ciclo manifesto, aparentemente certo
 <br> há ali um elemento que escapa
-<br> e delicadamente faz o tempo titubear
+<br> e delicadamente faz o tempo titubear:
 <br> 
-<br> perceber-se diante de alguém.
+<br> perceber-se diante de alguém
 <br> um encontro sem aviso
 <br> 
 <br> dois pares de braços em um enlace
 <br> mergulho nos olhos que encaram
 <br> conversa calada pela lua iluminada
 <br> paradoxo não resolvido, resolvido
-<br> 
-<br> de olhos fechados
-<br> a lembrança do abraço transporta os sentidos
-<br> e a batida dita compassada é desafiada
-<br> à medida que a maré nas veias oscila
 <br> 
 <br> uma fração de segundo eterna
 <br> o cônscio instante hipnotizante:

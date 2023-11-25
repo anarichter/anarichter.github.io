@@ -29,7 +29,7 @@ The image of that man, laborer (« a person doing unskilled manual work for wage
 <hr>
 <span style="font-size:14px;font-weight:lighter">
 I was really touched by her. 
-<br> Her stare was profound... but it was not only about her eyes. One could easily read in her face the strength overflowing from the pores, demarcating its expression lines. 
+<br> Her stare was profound... But it was not only about her eyes. One could easily read in her face the strength overflowing from the pores, demarcating its expression lines. 
 <br> Her past, unknown to me, touched me. And I cannot understand what emotion I felt standing in front of this woman, timidly trying to return her gaze with humility, but it was powerful. 
 <br> In each blink, there was a struggle. And I knew the suffering was there, even now — hidden, in a way, but there. 
 <br> I imagined she endured every single battle with pride as if it was not allowed for her to cry, to show how hard those battles were. To slow down. 

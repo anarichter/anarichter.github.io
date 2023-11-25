@@ -16,10 +16,10 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.A. Staatswissenschaften - Governance and Public Policy
-      institution: University of Passau, Passau, Germany #<br> <em> </em> #<br> DAAD's Helmut-Schmidt-Programme Scholarship Holder
+    - title: M.A. Staatswissenschaften – Governance and Public Policy
+      institution: University of Passau, Passau, Germany <span style="font-size:14px;font-weight:lighter">(summa cum laude)</span> #<br> <em> </em> #<br> DAAD's Helmut-Schmidt-Programme Scholarship Holder
       year: 2022
-      description: (summa cum laude) Thesis&#58; Dual citizenship and the question of belonging&#58; the perspectives of dual citizens living in Europe
+      #description: Thesis&#58; Dual citizenship and the question of belonging&#58; the perspectives of dual citizens living in Europe
         #- 
         #- Description 2.
         #- title: Description 3.
@@ -42,7 +42,12 @@
         #- Economics
         #- Description 2.
 
-- title: Professional experience *
+- title: Academic interests
+  type: list
+  contents:
+    - Citizenship and belonging vis-à-vis immigration and global mobility (political science, political sociology, ethnography)
+
+- title: Professional experience<span style="font-size:17px;font-weight:lighter"> *</span>
   type: time_table
   contents:
     - title: Research Assistant
@@ -129,11 +134,6 @@
       #value: Photography, writing, reading, cycling, wandering
     #- name: Volunteering
       #value: AIESEC in Curitiba/Brazil, Impact Hub
-
-- title: Academic interests
-  type: list
-  contents:
-    - Citizenship and belonging vis-à-vis immigration and global mobility.
 
 - title: Languages
   type: list
