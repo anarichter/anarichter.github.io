@@ -24,16 +24,16 @@ sonho contigo –
 <br> fixando o meu olhar pela janela
 <br> a imaginação se perde
 <br> dois caminhos se cruzam:
-<br> reconheço a sua presença – você a minha
+<br> reconheço a sua presença – você a minha;
 <br> pousando o meu olhar no seu
 <br> as cortinas se abrem
 <br> uma valsa carrega o meu sentir:
-<br> minha mão na sua – a sua na minha
+<br> minha mão na sua – a sua na minha;
 <br> encerrando o meu olhar em sonhos
 <br> cenários se desenham
 <br> e uma noite estrelada anuncia:
 <br> eu com você – você comigo
-<br> – a gente flutua
+<br> a gente flutua
 </span>
 <br>
 <br>
@@ -106,19 +106,13 @@ um poema sobre um poema
 <br> que a ideia bem planejada
 <br> impensadamente mudaria
 <br> 
-<br> (e o poema esperaria)
-<br> 
-<br> naquele instante conectados
-<br> sorte a minha ele não hesitar
-<br> e com a espontaneidade flertar (!)
-<br> ali parados, ambos então desprevenidos
-<br> só restou-nos contemplar
-<br> 
+<br> e o poema esperaria
+<br>
 <br> (agora o pássaro-sentimento voa
 <br> e por todo lado e deslado
 <br> seu canto marcante entoa
 <br> já o poema não declamado
-<br> ... )
+<br> esse... esse ainda é aguardado)
 </span>
 <br>
 <br>
@@ -139,34 +133,31 @@ dança
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
-o dia e a noite convidam a dançar
-<br> os ponteiros do relógio são espectadores
+se o dia e a noite convidam a dançar,
+<br>
+<br> os ponteiros do relógio são espectadores:
 <br> invisíveis, presentes. categóricos ou dissimulados
-<br> 
 <br> há um fascínio, desejo de controlar
 <br> mas em meio à espreita – sorrateira
-<br> é a passagem ad aeternum que atropela
-<br> 
+<br> é a passagem ad aeternum que atropela:
 <br> feito água e ar, as mãos não podem agarrar
 <br> fechar os olhos e correr (para nunca alcançar)
 <br> fechar os olhos para esquecer (e nunca para trás deixar)
 <br> 
 <br> mas nesse ciclo manifesto, aparentemente certo
 <br> há ali um elemento que escapa
-<br> e delicadamente faz o tempo titubear:
-<br> 
-<br> perceber-se diante de alguém
+<br> e delicadamente faz o tempo titubear: 
+<br> perceber-se diante de alguém – 
 <br> um encontro sem aviso
 <br> 
 <br> dois pares de braços em um enlace
 <br> mergulho nos olhos que encaram
-<br> conversa calada pela lua iluminada
-<br> paradoxo não resolvido, resolvido
-<br> 
-<br> uma fração de segundo eterna
+<br> longa conversa calada (pela lua iluminada)
+<br> paradoxo não resolvido, resolvido...
+<br> nesta fração de segundo eterna,
 <br> o cônscio instante hipnotizante:
-<br> momentos dessa dança
-<br> entre tempo e encontro
+<br> momentos de uma nova dança,
+<br> dança entre tempo e encontro
 </span>
 <br>
 <br>
@@ -174,6 +165,6 @@ o dia e a noite convidam a dançar
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 eu queria, pensando agora que se foi, ter tirado um retrato dele.
-<br> não seria um problema explicar essa vontade, nem a mim mesma, portanto sem necessidade de esconder a motivação em desculpas, nem para ele, caso quisesse saber. era a sua beleza. a postura de quem já viveu muito, a serenidade daqueles que sabem melhor como a vida deve ser vivida, em um corpo tão jovem e um rosto com traços simétricos. uma presença que se basta, mas que ainda assim aprecia e busca o compartilhamento, em suas duas vias. havia, no entanto, um exato ponto que denunciava a ingenuidade daqueles de sua idade, e que abria as janelas que evidenciavam suas incertezas. ficava entre o sorriso discreto – que, com o olhar que o acompanhava, sem intenção, me desafiava – e o riso solto – que me fazia sorrir também. aquele ponto não admitia variação alguma em suas dimensões exatas (uma fração de segundo a mais ou a menos fazia com que as janelas se fechassem) e por isso era tão raro de se perceber, e tanto tempo me tomou a perceber.
+<br> não seria um problema explicar essa vontade, nem a mim mesma, portanto sem necessidade de esconder a motivação em desculpas, nem para ele, caso quisesse saber. era a sua beleza. a postura de quem muito já viveu, a serenidade daqueles que sabem melhor como a vida deve ser vivida, em um corpo tão jovem e um rosto com traços simétricos. uma presença que se basta, mas que aprecia e busca o compartilhamento, em suas duas vias. havia, no entanto, um exato ponto que denunciava a ingenuidade daqueles de sua idade, e que abria as janelas que evidenciavam suas incertezas. ficava entre o sorriso discreto – que, com o olhar que o acompanhava, sem intenção, me desafiava – e o riso solto – que me fazia sorrir também. aquele ponto não admitia variação em suas dimensões exatas (um segundo a mais ou a menos fazia com que as janelas se fechassem) e por isso era tão raro de se perceber, e tanto tempo me tomou a perceber.
 <br> pergunto-me, inclusive, se fui a única a ver através delas.
 </span>
