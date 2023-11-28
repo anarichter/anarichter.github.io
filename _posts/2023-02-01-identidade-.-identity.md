@@ -10,15 +10,13 @@ tags: english português
 
 <span style="font-size:14px;font-weight:lighter">
 é como se aquele caderno e aquelas anotações não fossem minhas.
-<br> eu reconhecia a letra e sua forma arredonda (ou alongada, quando com pressa – não pela necessidade de fazer outra coisa, mas para registrar tudo aquilo que logo poderia ser esquecido e não se entregar às distrações)
-<br> mas as palavras me eram estranhas; o jeito de escrever era estranho.
-</span>
-
-<span style="font-size:14px;font-weight:lighter">
-ao seguir com os olhos pelas linhas preenchidas – era outra pessoa quem as narrava? – eu me via imersa em um momento suspenso, confuso
-<br> olhava ao meu redor, buscando estabelecer vínculos com o real
-<br> mas alguma força arrastava-me para o centro de um redemoinho que embaralhava
-<br> palavras. pensamentos. memórias
+<br> eu reconhecia a letra e sua forma arredonda, ou alongada, quando com pressa (pela necessidade de registrar tudo aquilo que logo poderia ser esquecido e não se entregar às distrações)
+<br> mas as palavras me eram estranhas; o jeito de escrever, estranho.
+<br> ao seguir com os olhos pelas linhas preenchidas – era outra pessoa quem as narrava?
+<br> eu me via imersa em um momento confuso, suspenso
+<br> olhava ao meu redor buscando estabelecer vínculos com o real
+<br> mas alguma força arrastava-me para o centro de um redemoinho 
+<br> que embaralhava palavras. pensamentos. memórias
 </span>
 <br>
 <br>
