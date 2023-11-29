@@ -20,14 +20,14 @@ descompassado
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
-sonho contigo –
+sonho contigo
 <br> fixando o meu olhar pela janela
 <br> a imaginação se perde
 <br> dois caminhos se cruzam:
 <br> reconheço a sua presença – você a minha;
 <br> pousando o meu olhar no seu
 <br> as cortinas se abrem
-<br> uma valsa carrega o meu sentir:
+<br> uma valsa carrega o meu sentir
 <br> minha mão na sua – a sua na minha;
 <br> encerrando o meu olhar em sonhos
 <br> cenários se desenham
