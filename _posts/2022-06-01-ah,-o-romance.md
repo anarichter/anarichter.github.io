@@ -159,8 +159,8 @@ o dia e a noite convidam a dançar
 <br>
 <br> e nesta fração de segundo eterna,
 <br> o cônscio instante hipnotizante
-<br> momentos de uma nova dança:
-<br> entre tempo e encontro
+<br> momentos de uma nova dança
+<br> – entre tempo e encontro
 </span>
 <br>
 <br>
