@@ -4,7 +4,7 @@ permalink: /bookshelf
 title: bookshelf
 description: last read books (i'll just keep adding as it goes) #goodreads'`links # <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 – Goodreads</a>
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
   <div id="gr_custom_widget_1697127983">

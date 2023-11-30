@@ -4,7 +4,7 @@ permalink: /photo
 title: photography
 description: participation in photo exhibitions
 nav: false
-nav_order: 5
+nav_order: 6
 ---
 
 <hr>

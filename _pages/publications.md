@@ -6,7 +6,7 @@ description: academic and other publications
 years: [2022, 2015]
 # years: [2022, 2019, 2016, 2015]
 nav: true
-nav_order: 4
+nav_order: 5
 category: [academic, policy support, report]
 # tags: University-of-Passau AIDMI
 
