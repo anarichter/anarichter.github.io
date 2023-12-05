@@ -1,9 +1,10 @@
 ---
 layout: page
-title: « on photograph »
-description: scratches or typewriter on photograph.
-img: assets/img/que-tipo.jpg
+title: letters
+description: to myself, friends, strangers.
+img: assets/img/letter-2.jpg
 importance: 2
 # category: work
 ---
+
 

@@ -2,7 +2,7 @@
 layout: page
 title: cards
 permalink: /cards/
-description: (working on it)
+description: ...working on it...
 nav: true
 nav_order: 2
 # display_categories: [work, fun]
