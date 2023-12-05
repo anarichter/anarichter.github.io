@@ -26,6 +26,6 @@ importance: 1
     </div>
 </div>
 <div class="caption">
-    <span style="font-size:14px;font-weight:lighter"> throwing the photoprint under water and using a sharp metal to scratch it or a typewriter (counterintuitive, indeed). </span>
+    <span style="font-size:14px;font-weight:lighter"> throwing the photoprint under water and using a sharp metal to scratch it (counterintuitive, indeed), or a typewriter. </span>
 </div>
 <br>
