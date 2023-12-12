@@ -157,10 +157,10 @@ o dia e a noite convidam a dançar
 <br> conversa calada pela lua iluminada
 <br> paradoxo não resolvido, resolvido...
 <br>
-<br> e nesta fração de segundo eterna,
+<br> e na fração de segundo eterna,
 <br> o cônscio instante hipnotizante:
-<br> momentos de uma nova dança
-<br> – entre tempo e encontro
+<br> momentos dessa nova dança
+<br> entre tempo e encontro
 </span>
 <br>
 <br>
