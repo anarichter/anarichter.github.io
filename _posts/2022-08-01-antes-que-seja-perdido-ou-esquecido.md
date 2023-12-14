@@ -80,6 +80,16 @@ nos dias em que tirava retratos, eu corria para casa. corria para casa para logo
 
 <hr>
 <span style="font-size:15px;font-weight:lighter">
+sunrise or sunset – the way it shines, sunshine – it's sunrise
+<br> <span style="font-size:12px">(2016) </span>
+<div>
+    <img src="/assets/img/sunrise.jpg" class="my-image rounded z-depth-1">
+</div>
+<br>
+<br>
+
+<hr>
+<span style="font-size:15px;font-weight:lighter">
 « uma coisa que estava aqui e não está mais ».
 <br> na época, eu não entendia; mas agora posso claramente sentir isso.
 <br> diversas coisas vem e vão, a maioria nos escapa aos olhos, algumas ao coração. há aquelas que se perdem no baú de memórias... as que ficam, de pequenos detalhes a paisagens e cenas mais intensas, conectam-se em um todo, por vezes confuso, da experiência. confuso pois as emoções são diversas e desafiam a lógica de um tempo linear ao brincar com a mente.

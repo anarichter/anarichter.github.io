@@ -10,7 +10,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile-ana.jpg
   image_circular: false # crops the image to make it circular
   # address: >
     # <p>555 your office number</p>
