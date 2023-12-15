@@ -9,14 +9,26 @@ tags: english português
 ---
 
 <span style="font-size:14px;font-weight:lighter">
-é como se aquele caderno e aquelas anotações não fossem minhas.
-<br> eu reconhecia a letra e sua forma arredonda, ou alongada, quando com pressa (pela necessidade de registrar tudo que logo poderia ser esquecido, e não se entregar às distrações)
-<br> mas as palavras me eram estranhas; o jeito de escrever me era estranho.
-<br> ao seguir com os olhos pelas linhas preenchidas – era outra pessoa quem as narrava? – eu me via imersa
-<br> em um momento confuso; suspenso
-<br> olhava ao meu redor buscando estabelecer vínculos com o real
-<br> mas alguma força arrastava-me para o centro de um redemoinho 
-<br> que embaralhava palavras. pensamentos. memórias
+é como se aquele caderno e aquelas
+<br> anotações não fossem minhas.
+<br> eu reconhecia a letra, sua forma 
+<br> arredonda ou alongada quando com 
+<br> pressa – não pela necessidade de fazer
+<br> outra coisa, mas para registrar
+<br> tudo aquilo que logo poderia ser esquecido 
+<br> e não se entregar às distrações –,
+<br> mas as palavras me eram estranhas, 
+<br> o jeito de escrever me era estranho.
+<br> ao seguir com os olhos pelas linhas 
+<br> preenchidas – era outra pessoa quem as narrava?
+<br> eu me via imersa em um
+<br> momento suspenso, confuso.
+<br> olhava ao meu redor buscando estabelecer 
+<br> vínculos com o real, mas alguma
+<br> força arrastava-me para o centro de 
+<br> um redemoinho – que embaralhava
+<br> palavras, pensamentos e 
+<br> memórias.
 </span>
 <br>
 <br>
