@@ -35,7 +35,19 @@ tags: english português
 <hr>
 
 <span style="font-size:14px;font-weight:lighter">
-then, a burst of consciousness hit me:
+<br> //
+<br> i was crazy, but i did not know it. now i do.
+<br> what i wrote was written in a different language, 
+<br> one one cannot understand.
+<br> but those words were my best attempt to make sense of this, 
+<br> to make me be understood.
+</span>
+<br>
+<br>
+<hr>
+
+<span style="font-size:14px;font-weight:lighter">
+<br> then, a burst of consciousness hit me:
 <br> was I grafting his identity?
 <br> that thought startled me,
 <br> for I realized that I was in the middle of it:
