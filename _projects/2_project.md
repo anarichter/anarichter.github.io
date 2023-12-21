@@ -3,7 +3,7 @@ layout: page
 title: « ... on photograph »
 description: scratches on photoprints.
 img: assets/img/card-2.jpg
-importance: 1
+importance: 2
 # category: work
 ---
 
@@ -27,5 +27,5 @@ importance: 1
 </div>
 <br>
 <div class="caption text-left">
-    <span style="font-size:14px;font-weight:lighter"> throwing the picture under water and using a sharp metal to scratch it, or a typewriter. <br>(counterintuitive, indeed)</span>
+    <span style="font-size:14px;font-weight:lighter"> throwing the picture under water and using a sharp metal to scratch it, or a typewriter. <br>– counterintuitive, indeed</span>
 </div>

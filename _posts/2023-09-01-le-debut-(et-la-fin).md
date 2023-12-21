@@ -24,7 +24,7 @@ Lembrei de uma historieta que esbocei há muitos anos – tantos que não lembr
 Minha sanidade? E o que é que faço agora?
 
 <span style="font-size:15px;font-weight:lighter">
-Vou atrás dos papéis; buscá-los (buscar-me) em meus cantos.
+Vou atrás dos papéis; buscá-los em meus cantos (buscar-me).
 </span>
 
 <!-- como escala até o si, fica faltando o dó -->

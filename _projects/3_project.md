@@ -3,7 +3,7 @@ layout: distill
 title: for the scientific community
 description: excerpts i had most fun writing.
 img: assets/img/card-donaldo.jpg
-importance: 2
+importance: 3
 # category: work
 
 toc:
