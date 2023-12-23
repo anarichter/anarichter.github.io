@@ -1,8 +1,8 @@
 ---
 layout: post
-title: identidade . identity
+title: identidade • identity
 date:   2023-02-01
-description: ou a do outro . or the other's
+description: ou a do outro • or the other's
 tags: english português
 # categories: english
 
@@ -61,15 +61,15 @@ tags: english português
     <img src="/assets/img/portrait.jpg" class="my-image rounded z-depth-1">
 </div>
 <br>
-<br>
 <hr>
 
-<span style="font-size:14px;font-weight:lighter">
+<span style="font-size:14px;font-weight:lighter"> 
 <br> i was crazy, but i did not know it. now i do.
 <br> what i wrote was written in a different language, 
 <br> one one cannot understand.
-<br> but those words were my best attempt to make sense of this, 
+<br> but those words were my best attempt to make sense of this,
 <br> to make me be understood.
-<br> 
-<br>
 </span>
+<br>
+<br>
+<hr>
