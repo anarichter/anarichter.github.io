@@ -31,7 +31,7 @@ I was touched by her existence (being?).
 <br> In each blink, there was a struggle. And I knew the suffering was there, even now — hidden, in a way, but there. 
 <br> I imagined she endured every single battle with pride as if it was not allowed for her to cry, to show how hard those battles were. To slow down. 
 <br> Noticeably, it was not about succeeding: it was not about success. Nor was it about recognition. 
-<br> Simply (how can one?), instead, about living an honourable life.
+<br> Simply, instead (how can one?), about living an honourable life.
 </span>
 <br>
 <br>
