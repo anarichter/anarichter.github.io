@@ -8,8 +8,10 @@ tags: português
 
 #Micha Bar Am 1967
 #Woman returning her goat from the fields. Judea, 1967
+
 # Max Liebermann
 # Woman with her Goats in the Dunes (Frau mit Geißen in den Dünen), 1890
+
 # "ninguém ousaria confessar que faz a guerra pela guerra, jura-se, sim, que se faz a guerra pela paz". Homem novo, Saramago (http://caderno.josesaramago.org/161290.html)
 
 # o cheiro em-bri-a-ga. 
@@ -18,19 +20,16 @@ tags: português
 # do vapor saindo da panela. das xicaras de ponta cabeca, ordenadas, esperando serem usadas. do pano manchado usado como filtro. do leite sendo despejado no cha fervido.
 # do cheiro. nao tem foto do cheiro.
 
+
 # 'evapora e vai embora'
-
-# Por coisas que ninguém deveria fingir que não vê..
-# (ou que não existem)
-
-# no mesmo barco em mares diferentes
-
-# Se cochilei foi porque não me aguentava em pé
 
 # 'Saída, se havia, não há mais'
 # saída se a via não há mais
 # saída se havia não a vê mais
 # saída se a via não a vê mais
+
+# Por coisas que ninguém deveria fingir que não vê..
+# (ou que não existem)
 
 # excusez-moi
 # no ônibus cheio em bruxelas:
@@ -40,9 +39,13 @@ tags: português
 # em seguida, aquela que conversa com sirlei lembra que já chega em seu destino: "ah, peraí, preciso desligar, cheguei no ponto". desapontada por, assim como sirlei, dela ter que me despedir, mas feliz por ainda ter a companhia de conterrâneos, é com pesar que logo ouço a jovem a anunciar para a mais velha: "já é aqui; é, o 358 passa aqui."
 # foi tudo muito rápido.
 
+# no mesmo barco em mares diferentes
+
+# Se cochilei foi porque não me aguentava em pé 
+
 ---
 
-<span style="font-size:15px;font-weight:lighter">
+<span style="font-size:14px;font-weight:lighter">
 abrir a porta é ainda, 
 <br> e sempre,
 <br> atravessar o mesmo portal
@@ -69,7 +72,7 @@ abrir a porta é ainda,
 <br>
 
 <hr>
-<span style="font-size:15px;font-weight:lighter">
+<span style="font-size:14px;font-weight:lighter"> 
 nos dias em que tirava retratos, eu corria para casa. corria para casa para logo colocar as fotografias no computador e assim poder ver aqueles olhos estranhos na tela. e naqueles olhos me encontrar – literalmente. a minha ânsia era de logo aproximar o enquadramento e ver minha imagem refletida em suas pupilas. reconhecer-me refletida em seus olhos.
 <br> <span style="font-size:12px">(2017) </span>
 <div>
@@ -79,7 +82,7 @@ nos dias em que tirava retratos, eu corria para casa. corria para casa para logo
 <br>
 
 <hr>
-<span style="font-size:15px;font-weight:lighter">
+<span style="font-size:14px;font-weight:lighter"> 
 sunrise or sunset – the way it shines, sunshine – it's sunrise
 <br> <span style="font-size:12px">(2016) </span>
 <div>
@@ -89,7 +92,7 @@ sunrise or sunset – the way it shines, sunshine – it's sunrise
 <br>
 
 <hr>
-<span style="font-size:15px;font-weight:lighter">
+<span style="font-size:14px;font-weight:lighter"> 
 « uma coisa que estava aqui e não está mais ».
 <br> na época, eu não entendia; mas agora posso claramente sentir isso.
 <br> diversas coisas vem e vão, a maioria nos escapa aos olhos, algumas ao coração. há aquelas que se perdem no baú de memórias... as que ficam, de pequenos detalhes a paisagens e cenas mais intensas, conectam-se em um todo, por vezes confuso, da experiência. confuso pois as emoções são diversas e desafiam a lógica de um tempo linear ao brincar com a mente.
@@ -103,7 +106,7 @@ sunrise or sunset – the way it shines, sunshine – it's sunrise
 <br>
 
 <hr>
-<span style="font-size:15px;font-weight:lighter">
+<span style="font-size:14px;font-weight:lighter"> 
 Sabe, tem a história desse homem que amava uma mulher. A vida dele seguia baseada em uma rotina, dessas de fato muito bem estabelecidas. Cada coisa tinha seu lugar, cada compromisso seu horário, cada respiro uma vontade. Cada coisa que fazia, ele sabia por que fazia.
 <br> fim.
 <br> <span style="font-size:12px">(2014) </span>
@@ -111,7 +114,7 @@ Sabe, tem a história desse homem que amava uma mulher. A vida dele seguia basea
 <br>
 
 <hr>
-<span style="font-size:15px;font-weight:lighter">
+<span style="font-size:14px;font-weight:lighter"> 
 Seus eus. Eles não são ninguém senão seus eus. Aquilo foi você mesmo quem disse. Você mesmo quem fez.
 <br> <span style="font-size:12px">(2013) </span>
 <br>

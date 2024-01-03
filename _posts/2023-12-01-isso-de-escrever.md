@@ -8,7 +8,7 @@ tags: português
 
 ---
 
-<span style="font-size:15px;font-weight:lighter">
+<span style="font-size:14px;font-weight:lighter">
 Como posso eu não gostar de escrever 
 <br>– e não preferir a escrita à fala? 
 <br>Conforme as palavras vão sendo lidas, 
@@ -22,7 +22,8 @@ Como posso eu não gostar de escrever
 <br>Pode ser que essa troca não te valha a pena,
 <br>mas ambos temos uma singela garantia: 
 <br>a do contato com a expressão da minha,
-<br>momentânea que seja, verdade. 
+<br>momentânea que seja, 
+<br>verdade. 
 <br>E como pode tal escrita não ser...
 <br>sinônimo de vulnerabilidade? 
 <br>Ela é uma entrega implicada na própria exposição
