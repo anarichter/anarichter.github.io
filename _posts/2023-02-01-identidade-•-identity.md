@@ -12,8 +12,7 @@ tags: english português
 é como se aquele caderno 
 <br> e aquelas anotações
 <br> não fossem minhas.
-<br> eu reconhecia a letra,  
-<br> sua forma arredonda 
+<br> eu reconhecia a letra, sua forma arredonda 
 <br> ou alongada quando com pressa
 <br> – não pela necessidade de fazer outra coisa,
 <br> mas para registrar tudo aquilo
@@ -23,15 +22,13 @@ tags: english português
 <br> o jeito de escrever me era estranho.
 <br> ao seguir com os olhos pelas linhas preenchidas
 <br> – era outra pessoa quem as narrava?
-<br> eu me via imersa 
-<br> em um momento suspenso, confuso.
-<br> olhava ao meu redor 
+<br> eu me via imersa em um momento suspenso, confuso.
+<br> olhava ao meu redor
 <br> buscando estabelecer vínculos com o real,
-<br> mas alguma força arrastava-me 
-<br> para o centro de um redemoinho 
-<br> – que embaralhava
-<br> palavras, pensamentos e 
-<br> memórias.
+<br> mas alguma força 
+<br> arrastava-me para o centro de um redemoinho 
+<br> que embaralhava palavras, pensamentos 
+<br> e memórias.
 </span>
 <br>
 <br>
