@@ -75,6 +75,11 @@ abrir a porta é ainda,
 <span style="font-size:14px;font-weight:lighter"> 
 nos dias em que tirava retratos, eu corria para casa. corria para casa para logo colocar as fotografias no computador e assim poder ver aqueles olhos estranhos na tela. e naqueles olhos me encontrar – literalmente. a minha ânsia era de logo aproximar o enquadramento e ver minha imagem refletida em suas pupilas. reconhecer-me refletida em seus olhos.
 <br> <span style="font-size:12px">(2017) </span>
+<br>
+<br> <span style="font-size:13px">'Como eu não sei rezar
+<br> Só queria mostrar
+<br> Meu olhar, meu olhar'
+<br> através deste olhar
 <div>
     <img src="/assets/img/rezar.jpg" class="my-image-p rounded z-depth-1">
 </div>

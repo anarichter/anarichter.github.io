@@ -35,6 +35,30 @@ tags: english português
 <hr>
 
 <span style="font-size:14px;font-weight:lighter">
+o potencial do meu ser 
+<br> estava naquelas imagens
+<br> perdidas ... não ... desaparecidas
+<br> desaparecidas do universo 
+<br> real
+<br> e do das possibilidades.
+<br> &emsp; &emsp; &ensp; e potencialidades
+<br> &emsp; &emsp; &ensp; e promessas
+<br> promessas de que tudo ficaria bem
+<br>
+<br> aquilo tudo era meu
+<br> &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;eu
+<br> agora ninguém veria
+<br> e ninguém jamais teria contato
+<br> com o que ainda era
+<br> para o mundo
+<br> desconhecido:
+<br> partes de mim
+</span>
+<br>
+<br>
+<hr>
+
+<span style="font-size:14px;font-weight:lighter">
 <br> then, a burst of consciousness hit me:
 <br> was I grafting his identity?
 <br> that thought startled me,

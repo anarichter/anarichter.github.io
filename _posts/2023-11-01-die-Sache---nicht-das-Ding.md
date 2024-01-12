@@ -1,6 +1,6 @@
 ---
 layout: post
-title: die Sache – nicht das Ding
+title: die Sache - nicht das Ding
 date:   2023-10-01
 description: rascunho sobre ambivalência
 tags: português
@@ -28,7 +28,7 @@ sorrisos são sempre bonitos. e sorrisos podem ser tristes (ex. de resignação)
 <br>
 <br>
 <hr>
-<sup style="font-size:60%">[1]</sup> <span style="font-size:12px;font-weight:lighter"> <i>é possível encontrar beleza em todos os lugares. e isso não torna as coisas menos tristes.</i> <br>(a primeira – e única – frase eloquente que escrevi, do nada, em alemão)</span>
-<br><sup style="font-size:60%">[2]</sup> <span style="font-size:12px;font-weight:lighter"> Lágrimas negras da Gal Costa</span>
+<sup style="font-size:60%">[1]</sup> <span style="font-size:13px;font-weight:lighter"> <i>é possível encontrar beleza em todos os lugares. e isso não torna as coisas menos tristes.</i> <br>(a primeira – e única – frase eloquente que escrevi, do nada, em alemão)</span>
+<br><sup style="font-size:60%">[2]</sup> <span style="font-size:13px;font-weight:lighter"> Lágrimas negras da Gal Costa</span>
 
 <!-- <br>you can find beauty everywhere. and that doesn't make things any less sad. -->
