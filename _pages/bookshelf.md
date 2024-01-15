@@ -2,13 +2,24 @@
 layout: page
 permalink: /bookshelf
 title: bookshelf
-description: last read books (i'll just keep adding as it goes) #goodreads'`links # <a href="https://www.goodreads.com/review/list/150824320-ana?shelf=2022">2022 – Goodreads</a>
+description: last read books (will add as it goes)
 nav: true
 nav_order: 3
 ---
 
   <div id="gr_custom_widget_1697127983">
           <div class="gr_custom_container_1697127983">
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="Chess" rel="nofollow" href="https://www.goodreads.com/book/show/62978912-chess"><img alt="Chess" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677855140l/62978912._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/62978912-chess">Chess</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/25573.Stefan_Zweig">Stefan Zweig</a>
+          </div>
+      </div>
       <div class="gr_custom_each_container_1697127983">
           <div class="gr_custom_book_container_1697127983">
             <a title="The Fall" rel="nofollow" href="https://www.goodreads.com/book/show/179926509-the-fall"><img alt="The Fall" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687366722l/179926509._SY75_.jpg" /></a>
@@ -233,8 +244,6 @@ nav_order: 3
       </div>
       <!-- </div> -->
   </div>
-
-
 <br>
 <br>
 <span style="font-size:14px;font-weight:lighter">my « movieshelf » or what i most enjoyed watching lately: <br>
