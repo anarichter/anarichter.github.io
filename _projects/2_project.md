@@ -14,9 +14,3 @@ importance: 2
         {% include figure.html path="assets/img/alecrim-copy.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
-
-<div class="row">
-    <div class="col-sm">
-        {% include figure.html path="assets/img/alecrim.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
-    </div>
-</div>
