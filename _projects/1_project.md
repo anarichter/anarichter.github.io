@@ -7,7 +7,7 @@ importance: 1
 # category: work
 ---
 
-<hr>
+
 <br>
 <div class="row">
     <div class="col-sm">
