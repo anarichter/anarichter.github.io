@@ -24,9 +24,8 @@ tags: english português
 <br> – era outra pessoa quem as narrava?
 <br> eu me via imersa em um momento suspenso, confuso.
 <br> olhava ao meu redor
-<br> buscando estabelecer vínculos com o real,
-<br> mas alguma força 
-<br> arrastava-me para o centro de um redemoinho 
+<br> buscando estabelecer vínculos com o real, mas
+<br> alguma força arrastava-me para o centro de um redemoinho 
 <br> que embaralhava palavras, pensamentos 
 <br> e memórias.
 </span>
@@ -37,18 +36,18 @@ tags: english português
 <span style="font-size:14px;font-weight:lighter">
 o potencial do meu ser 
 <br> estava naquelas imagens
-<br> perdidas ... não ... desaparecidas
-<br> desaparecidas do universo 
+<br> perdidas... não... desaparecidas!
+<br> desaparecidas do universo
 <br> real
-<br> e do das possibilidades.
-<br> &emsp; &emsp; &ensp; e potencialidades
-<br> &emsp; &emsp; &ensp; e promessas
-<br> promessas de que tudo ficaria bem
-<br>
+<br> e do das possibilidades
+<br> e potencialidades
+<br> e promessas
+<br> – promessas de que tudo ficaria bem! <!-- &emsp; &emsp; &ensp;  -->
+<!-- <br>  -->
 <br> aquilo tudo era meu
-<br> &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;eu
-<br> agora ninguém veria
-<br> e ninguém jamais teria contato
+<br> – eu <!--&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;eu -->
+<br> e agora ninguém veria,
+<br> ninguém jamais teria contato
 <br> com o que ainda era
 <br> para o mundo
 <br> desconhecido:

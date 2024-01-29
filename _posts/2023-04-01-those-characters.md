@@ -25,13 +25,7 @@ If a verb to express what this is
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
-I was touched by her existence (being?). 
-<br> Her stare was profound... But it was not only about her eyes. One could easily read in her face the strength overflowing from the pores, demarcating its expression lines. 
-<br> Her past, unknown to me, touched me. And I cannot understand what emotion I felt standing in front of this woman, timidly trying to return her gaze with humility, but it was powerful. 
-<br> In each blink, there was a struggle. And I knew the suffering was there, even now — hidden, in a way, but there. 
-<br> I imagined she endured every single battle with pride as if it was not allowed for her to cry, to show how hard those battles were. To slow down. 
-<br> Noticeably, it was not about succeeding: it was not about success. Nor was it about recognition. 
-<br> Simply, instead (how can one?), about living an honourable life.
+I was touched by her... by her being? existence?. Her stare was profound, and, still, it was not <i>only</i> about her eyes. One could easily read in her face the strength overflowing from the pores, demarcating its expression lines. Her past, unknown to me, touched me. And I cannot understand exactly what emotion I felt standing in front of that woman, timidly trying to return her gaze with humility, but it was powerful. In each blink, there was a struggle. And I knew the suffering was there, even now (hidden, in a way, but there). I imagined she endured every single battle with pride, as if it was not allowed for her to cry, to show how hard those battles were. To slow down. Noticeably, it was not about succeeding: It was not about success. Nor was it about recognition. Simply, instead, <i>(how can one?)</i> about living an honourable life.
 </span>
 <br>
 <br>

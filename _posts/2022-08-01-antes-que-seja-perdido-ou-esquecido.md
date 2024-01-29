@@ -65,7 +65,7 @@ abrir a porta é ainda,
 <br> materializar-me em meio àqueles personagens
 <br> que fui, que eles foram.
 <br> participar daquelas conversas,
-<br> daquelas danças,
+<br> daquelas danças;
 <br> aqueles olhares
 <br> <span style="font-size:12px">(2017) </span>
 <br>
