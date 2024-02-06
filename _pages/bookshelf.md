@@ -247,6 +247,7 @@ nav_order: 3
 <br>
 <br>
 <span style="font-size:14px;font-weight:lighter">my « movieshelf » or what i most enjoyed watching lately: <br>
+<a href="https://www.imdb.com/title/tt0247380/">Les glaneurs et la glaneuse (2000)</a> <br> 
 <a href="https://www.imdb.com/title/tt27503384/">Perfect Days (2023)</a> (how could i not?)<br> 
 <a href="https://www.imdb.com/title/tt9138170/">Limbo (2020)</a> <br>
 <a href="https://www.imdb.com/title/tt5859238/">Lucky (2017)</a> <br>
