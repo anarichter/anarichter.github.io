@@ -17,9 +17,9 @@ If a verb to express what this is
 <br> How, in such an encounter, anchored in mutual respect, can you look someone in the eye and say, bluntly, « We cannot help you »? As I try to make sense of that moment, materialized now in a distant memory, it chokes me. 
 <br> Still, it is not our powerlessness, powerlessness in the face of a strong predicament, in the face of a noble, sad gaze, that haunts me...
 </span>
-<div>
+<!-- <div> 
     <img src="/assets/img/reflection.jpg" class="my-image rounded z-depth-1">
-</div>
+</div>-->
 <br>
 <br>
 

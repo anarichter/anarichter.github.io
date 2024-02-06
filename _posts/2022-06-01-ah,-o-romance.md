@@ -115,13 +115,13 @@ um poema sobre um poema
 <br> que a ideia bem planejada
 <br> impensadamente mudaria
 <br> 
-<br> e o poema esperaria
-<!-- <br>
-<br> (agora o pássaro-sentimento voa 
+<br> e o poema esperaria —
+<br>
+<br> o pássaro-sentimento agora voa 
 <br> e por todo lado e deslado
 <br> seu canto marcante entoa
 <br> já o poema não declamado
-<br> esse... ainda é aguardado)-->
+<br> esse... esse ainda é aguardado
 </span>
 <br>
 <br>
@@ -130,31 +130,32 @@ um poema sobre um poema
 <span style="font-size:14px;font-weight:lighter">
 o dia e a noite convidam a dançar
 <br> mas os ponteiros do relógio são espectadores:
-<br> invisíveis, presentes. categóricos ou dissimulados
+<br> invisíveis, presentes / categóricos ou dissimulados
 <br>
 <br> há um fascínio, desejo de controlar
 <br> mas em meio à espreita – sorrateira
 <br> é a passagem ad aeternum que atropela:
 <br>
 <br> feito água e ar, as mãos não podem agarrar
-<br> fechar os olhos e correr (para nunca alcançar)
-<br> fechar os olhos para esquecer (e nunca para trás deixar)
+<br> fechar os olhos e correr / para nunca alcançar
+<br> fechar os olhos para esquecer / e nunca para trás deixar
 <br> 
 <br> mas nesse ciclo manifesto, aparentemente certo
 <br> há ali um elemento que escapa
 <br> e delicadamente faz o tempo titubear: 
 <br>
-<br> perceber-se diante de alguém
-<br> um encontro sem aviso
+<br> perceber-se diante de alguém,
+<br> um encontro 
+<br> sem aviso
 <br> 
-<br> dois pares de braços em um enlace;
-<br> mergulho nos olhos que encaram;
-<br> conversa calada pela lua iluminada;
+<br> dois pares de braços em um enlace —
+<br> mergulho nos olhos que encaram —
+<br> conversa calada pela lua iluminada —
 <br> paradoxo não resolvido, resolvido...
 <br>
-<br> e na fração de segundo eterna,
+<br> e nesta fração de segundo eterna,
 <br> o cônscio instante hipnotizante:
-<br> momentos dessa nova dança
+<br> momentos de uma nova dança,
 <br> entre tempo e encontro
 </span>
 <br>

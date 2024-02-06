@@ -81,7 +81,7 @@ o potencial do meu ser
 </span>
 
 <div>
-    <img src="/assets/img/portrait.jpg" class="my-image rounded z-depth-1">
+    <img src="/assets/img/sun.jpg" class="my-image rounded z-depth-1">
 </div>
 <br>
 <!-- <hr> -->

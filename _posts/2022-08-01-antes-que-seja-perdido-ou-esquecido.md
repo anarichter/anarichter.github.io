@@ -81,7 +81,7 @@ nos dias em que tirava retratos, eu corria para casa. corria para casa para logo
 <br> Meu olhar, meu olhar'
 <br> através deste olhar
 <div>
-    <img src="/assets/img/my-friend.jpg" class="my-image-p rounded z-depth-1">
+    <img src="/assets/img/stare.jpg" class="my-image-p rounded z-depth-1">
 </div>
 <br>
 <br>

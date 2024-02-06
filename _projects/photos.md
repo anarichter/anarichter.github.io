@@ -23,13 +23,13 @@ importance: 2
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/stare.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=calse %}
+        {% include figure.html path="assets/img/1-portrait.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=calse %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/testimony.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1-portrait.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=false %}
+        {% include figure.html path="assets/img/my-friend.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=false %}
     </div>
   </div>
 </div>

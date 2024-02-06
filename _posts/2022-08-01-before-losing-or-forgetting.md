@@ -39,7 +39,7 @@ opening this door is still,
 on the days when i took portraits, i ran home. i would run home, so i could load the photos onto the computer and see those strange eyes on the screen. and, in those eyes, find myself – literally. my urge was to immediately enlarge the photograph and see my image reflected in their pupils; to recognize myself reflected in their eyes.
 <br> <span style="font-size:12px">(2017) </span>
 <div>
-    <img src="/assets/img/my-friend.jpg" class="my-image-p rounded z-depth-1">
+    <img src="/assets/img/stare.jpg" class="my-image-p rounded z-depth-1">
 </div>
 <br>
 <br>
