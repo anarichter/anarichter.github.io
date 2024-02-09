@@ -11,13 +11,13 @@ tags: português
 <span style="font-size:14px;font-weight:lighter"> 
 Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. 
 <br>
-<br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que em meu íntimo eu sentia, era-me, sim, essencial — significaria, afinal, compreender algo de mim. 
+<br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que em meu íntimo eu sentia, era-me essencial — significaria, afinal, compreender algo de mim. 
 <br>
 <br> Pela diligência com que conduzi a investigação, não me espantaria se agora constatasse que também suspendia a respiração — já não lembro, ou mesmo nem percebi. Mas só pode ter sido: a concentração necessária não me concederia a prerrogativa de respirar. Respirar distrai.
 <br>
-<br> Passados os segundos em que essa cena pôde ser sustentada — e ela se estendeu por tantos deles quanto possível para comporem as águas do mergulho, que, naquele momento, eu realizava sem receio de me perder —, tirei subitamente a tensão que perpassava minha espinha e reclinei o corpo um pouco para trás. 
+<br> Passados os segundos em que essa cena pôde ser sustentada — e ela se estendeu por tantos deles quanto possível para comporem as águas do mergulho que, naquele momento, eu realizava sem receio de me perder — tirei subitamente a tensão que perpassava minha espinha e reclinei o corpo um pouco para trás.
 <br>
-<br> Ainda sem desviar do olhar, puxei o ar pelas narinas, consciente, paciente e profundamente, em preparo para encarar o inevitável: a resposta, o esclarecimento que eu buscava, não viria agora. 
+<br> Ainda sem desviar do olhar, puxei o ar pelas narinas, paciente e profundamente, em preparo para encarar o inevitável: a resposta, o esclarecimento que eu buscava, não viria agora. 
 <br>
 <br> Pelo menos, não agora. 
 </span>

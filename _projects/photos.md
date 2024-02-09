@@ -46,7 +46,7 @@ importance: 2
         {% include figure.html path="assets/img/both-workers.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/friend.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/women.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
   </div>
 </div>
