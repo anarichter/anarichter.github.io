@@ -13,11 +13,11 @@ tags: english português
 <br> e aquelas anotações
 <br> não fossem minhas.
 <br> eu reconhecia a letra, sua forma arredonda 
-<br> ou alongada quando com pressa
-<br> – não pela necessidade de fazer outra coisa,
+<br> ou alongada, quando com pressa
+<br> (não pela necessidade de fazer outra coisa,
 <br> mas para registrar tudo aquilo
 <br> que logo poderia ser esquecido 
-<br> e não se entregar às distrações –,
+<br> e não se entregar às distrações)
 <br> mas as palavras me eram estranhas, 
 <br> o jeito de escrever me era estranho.
 <br> ao seguir com os olhos pelas linhas preenchidas
@@ -36,13 +36,13 @@ tags: english português
 <span style="font-size:14px;font-weight:lighter">
 o potencial do meu ser 
 <br> estava naquelas imagens
-<br> perdidas... não... desaparecidas!
+<br> perdidas — não — desaparecidas:
 <br> desaparecidas do universo
 <br> real
 <br> e do das possibilidades
 <br> e potencialidades
 <br> e promessas
-<br> – promessas de que tudo ficaria bem! <!-- &emsp; &emsp; &ensp;  -->
+<br> – promessas de que tudo ficaria bem <!-- &emsp; &emsp; &ensp;  -->
 <!-- <br>  -->
 <br> aquilo tudo era meu
 <br> – eu <!--&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;eu -->
@@ -79,6 +79,8 @@ o potencial do meu ser
 <br> in a very short time interval
 <br> that frightened me
 </span>
+<br>
+<br>
 
 <div>
     <img src="/assets/img/sun.jpg" class="my-image rounded z-depth-1">
