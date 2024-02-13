@@ -1,7 +1,7 @@
 ---
 layout: post
 title: isso de escrever
-date:   2023-10-01
+date:   2023-12-01
 description: (quando faltam palavras)
 tags: português
 # categories: 

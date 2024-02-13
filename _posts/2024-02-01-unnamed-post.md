@@ -22,7 +22,6 @@ Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido.
 <br> Pelo menos, não agora. 
 </span>
 
-
 <!-- 
 <span style="font-size:14px;font-weight:lighter"> 
 Aquele olhar sugeria-me algo sobre mim mesma, por mim desconhecido. Atenta ao olhar, sem desviar sequer um instante dele, cerrei um pouco o meu próprio e, ao mesmo tempo, inclinei levemente a cabeça: não era apenas um anseio, mas uma tentativa-ativa de compreende-lo; compreender aquele olhar que me sugeria algo que tão, tão importante parecia. Não só parecia importante: eu tinha certeza: era-me, sim, essencial. Significaria, afinal, compreender algo de mim.
