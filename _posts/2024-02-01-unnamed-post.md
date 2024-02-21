@@ -27,12 +27,17 @@ Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido.
 <hr>
 <br>
 <span style="font-size:14px;font-weight:lighter"> 
-Aquele era diferente dos olhares lançados como insinuação, invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia.
+E a lembrança do impacto que foi percebe-lo naquele rosto, a essa altura, de certa forma, familiar ...?
 <br>
-<br> Eu seguia intrigada, e mesmo quando não, este mistério ocupava-me incessantemente.
+<br> Evidentemente, não o olhar em si. Ele era estranho, e era diferente daqueles lançados como insinuação—invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia.
+<br>
+<br> Aquele olhar comunicava algo apenas porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
+<br>
+<br> No entanto, eu ainda não podia ver, e seguia intrigada.
 </span>
 
 
+<!-- Eu seguia intrigada, e mesmo quando não, este mistério ocupava-me incessantemente.-->
 
 <!-- 
 <span style="font-size:14px;font-weight:lighter"> 
