@@ -9,7 +9,8 @@ tags: português
 ---
 
 <span style="font-size:14px;font-weight:lighter"> 
-Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. 
+I.
+<br> Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. 
 <br>
 <br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que em meu íntimo eu sentia, era-me essencial—significaria, afinal, compreender algo de mim. 
 <br>
@@ -27,11 +28,12 @@ Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido.
 <hr>
 <br>
 <span style="font-size:14px;font-weight:lighter"> 
-E a lembrança do impacto que foi percebe-lo naquele rosto, a essa altura, de certa forma, familiar ...?
+II.
+<br> E a lembrança do impacto que foi percebe-lo naquele rosto—a essa altura, de certa forma—familiar ...?
 <br>
 <br> Evidentemente, não o olhar em si. Ele era estranho, e era diferente daqueles lançados como insinuação—invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia.
 <br>
-<br> Aquele olhar comunicava algo apenas porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
+<br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>
 <br> No entanto, eu ainda não podia ver, e seguia intrigada.
 </span>
