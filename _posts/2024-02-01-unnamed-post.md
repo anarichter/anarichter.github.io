@@ -30,7 +30,7 @@ I.
 II.
 <br> E a lembrança do impacto que foi percebe-lo naquele rosto—a essa altura, de certa forma—familiar?
 <br>
-<br> Evidentemente, não o olhar em si. Ele era estranho, e era diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia).
+<br> Evidentemente, não o olhar em si. Ele não era familiar, e era diferente daqueles lançados como insinuação—invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia (com direito).
 <br>
 <br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>

@@ -34,9 +34,9 @@ importance: 2
   </div>
 </div>
 
-
-<hr>
 <br>
+<br>
+<hr>
 <br>
 <br>
 
@@ -62,9 +62,9 @@ importance: 2
   </div>
 </div>
 
+<br>
+<br>
 <hr>
-<br>
-<br>
 <br>
 
 <div class="row">
@@ -79,6 +79,7 @@ importance: 2
     </div>
 </div>
 
+<br>
 <hr>
 <br>
 <br>
