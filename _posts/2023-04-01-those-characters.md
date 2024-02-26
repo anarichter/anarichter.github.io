@@ -25,7 +25,8 @@ If a verb to express what this is
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
-I was touched by her... by her being? existence?. Her stare was profound, and, still, it was not <i>only</i> about her eyes. One could easily read in her face the strength overflowing from the pores, demarcating its expression lines. Her past, unknown to me, touched me. And I cannot understand exactly what emotion I felt standing in front of that woman, timidly trying to return her gaze with humility, but it was powerful. In each blink, there was a struggle. And I knew the suffering was there, even now (hidden, in a way, but there). I imagined she endured every single battle with pride, as if it was not allowed for her to cry, to show how hard those battles were. To slow down. Noticeably, it was not about succeeding: It was not about success. Nor was it about recognition. Simply, instead, <i>(how can one?)</i> about living an honourable life.
+I was touched by her — by her being? existence?. 
+<br> Her stare was profound, and, still, it was not only about her eyes — not only. One could easily read in her face the strength overflowing from the pores, demarcating its expression lines. Her past, unknown to me, touched me. And I cannot understand exactly what emotion I felt standing in front of that woman, timidly trying to return her gaze with humility, but it was powerful. In each blink, there was a struggle. And I knew the suffering was there, even now — hidden, in a way, but there. I imagined she endured every single battle with pride, as if it was not allowed for her to cry, to show how hard those battles were. To slow down. Noticeably, it was not about succeeding: It was not about success. Nor was it about recognition. Simply, instead, <i>(how can one?)</i> about living an honourable life.
 </span>
 <br>
 <br>
@@ -37,10 +38,11 @@ I cannot forgive myself for forgetting your name. I asked twice. And I did so be
 <span style="font-size:14px;font-weight:lighter">
 My redemption: I know its meaning – Smile. It matches perfectly with the one you entrusted me with. I can still remember how its beauty struck me; if I close my eyes, I can relive that moment and the amazement I felt.
 </span>
+<br>
+<br>
 <div>
     <img src="/assets/img/smile.jpg" class="my-image rounded z-depth-1">
 </div>
-<br>
 <br>
 
 <hr>
