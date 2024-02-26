@@ -16,8 +16,8 @@ tags: english português
 <br> ou alongada, quando com pressa
 <br> (não pela necessidade de fazer outra coisa,
 <br> mas para registrar tudo aquilo
-<!-- <br> que logo poderia ser esquecido  -->
-<br> e não se entregar às distrações)
+<br> que logo poderia ser esquecido)
+<!-- <br> e não se entregar às distrações) -->
 <br> mas as palavras me eram estranhas, 
 <br> o jeito de escrever me era estranho.
 <br> ao seguir com os olhos pelas linhas preenchidas
