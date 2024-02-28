@@ -11,22 +11,24 @@ tags: english português
 <span style="font-size:14px;font-weight:lighter">
 é como se aquele caderno 
 <br> e aquelas anotações
-<br> não fossem minhas.
+<br> não fossem minhas
 <br> eu reconhecia a letra, sua forma arredonda 
 <br> ou alongada, quando com pressa
-<br> (não pela necessidade de fazer outra coisa,
+<br> (não pela necessidade de fazer outra coisa
 <br> mas para registrar tudo aquilo
 <br> que logo poderia ser esquecido)
-<!-- <br> e não se entregar às distrações) -->
-<br> mas as palavras me eram estranhas, 
-<br> o jeito de escrever me era estranho.
+<br> e não se entregar às distrações)
+<br> mas as palavras me eram estranhas
+<br> o jeito de escrever me era estranho
 <br> ao seguir com os olhos pelas linhas preenchidas
 <br> – era outra pessoa quem as narrava?
-<br> eu me via imersa em um momento suspenso, confuso.
+<br> eu me via imersa em um momento suspenso, confuso
 <br> olhava ao meu redor
-<br> buscando estabelecer vínculos com o real, mas
-<br> alguma força arrastava-me para o centro de um redemoinho 
-<br> que embaralhava palavras, pensamentos 
+<br> buscando estabelecer vínculos com o real 
+<br> mas alguma força
+<br> arrastava-me para o centro de um redemoinho 
+<br> que embaralhava palavras
+<br> pensamentos 
 <br> e memórias
 </span>
 <br>
@@ -36,29 +38,26 @@ tags: english português
 <span style="font-size:14px;font-weight:lighter">
 o potencial do meu ser 
 <br> estava naquelas imagens
-<br> perdidas — não — desaparecidas:
+<br> perdidas ... não ... desaparecidas
 <br> desaparecidas do universo
+<br>
 <br> real
 <br> e do das possibilidades
 <br> e potencialidades
 <br> e promessas
 <br> – promessas de que tudo ficaria bem <!-- &emsp; &emsp; &ensp;  -->
 <!-- <br>  -->
+<br>
 <br> aquilo tudo era meu
 <br> – eu <!--&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;eu -->
-<br> e agora ninguém veria,
+<br> e agora ninguém veria
 <br> ninguém jamais teria contato
-<br> com o que ainda era
-<br> para o mundo
+<br>
+<br> com o que ainda era, 
+<br> para o mundo,
 <br> desconhecido:
 <br> partes de mim
 </span>
-<br>
-<br>
-<hr>
-
-<span style="font-size:14px;font-weight:lighter"> 
-<br>when the alarm clock went off, i woke up right away, startled. i opened my eyes as wide as i could, but it did not matter: for a few seconds, i had no idea where i was (or why i was there). i knew i would eventually realize it, but in that little while, i was floating in the vacuum – this is how it felt. the difference from past experiences is that it lasted longer, and i wasn’t scared. i set out to stay calm, to try to recall things rationally. then, the word – the only word – that came to my mind was ‘universe.’ whether it felt like i was part of it or i was it myself, i could not say; my memory came back all at once. it was a brief amnesia, and it felt good.</span>
 <br>
 <br>
 <hr>
@@ -97,13 +96,21 @@ o potencial do meu ser
 <!-- <hr> -->
 <hr>
 
+
+<span style="font-size:14px;font-weight:lighter"> 
+<br>when the alarm clock went off, i woke up right away, startled. i opened my eyes as wide as i could, but it did not matter: for a few seconds, i had no idea where i was (or why i was there). i knew i would eventually realize it, but in that little while, i was floating in the vacuum – this is how it felt. the difference from past experiences is that it lasted longer, and i wasn’t scared. i set out to stay calm, to try to recall things rationally. then, the word – the only word – that came to my mind was ‘universe.’ whether it felt like i was part of it or i was it myself, i could not say; my memory came back all at once. it was a brief amnesia, and it felt good.</span>
+<br>
+<br>
+<hr>
+
+
 <span style="font-size:14px;font-weight:lighter">  
-i was crazy but i did not know it — now i do
-<br> what i wrote was written in a different language
-<br> one one cannot understand
-<br> but those words were my best attempt:
-<br> my best attempt to make sense of this
-<br> to make me be understood.
+i was crazy — but i did not know it — now i do
+<br> what i wrote — was written in a different language
+<br> one — one cannot understand
+<br> but — those words were my best attempt
+<br> my best attempt — to make sense of this
+<br> to make me be — understood
 </span>
 <br>
 <br>
