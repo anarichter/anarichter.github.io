@@ -58,12 +58,6 @@ o potencial do meu ser
 <br>
 <hr>-->
 
-<span style="font-size:14px;font-weight:lighter"> 
-<br>when the alarm clock went off, i woke up right away, startled. i opened my eyes as wide as i could, but it did not matter: for a few seconds, i had no idea where i was (or why i was there). i knew i would eventually realize it, but in that little while, i was floating in the vacuum – this is how it felt. the difference from past experiences is that it lasted longer, and i wasn’t scared. i set out to stay calm, to try to recall things rationally. then, the word – the only word – that came to my mind was ‘universe.’ whether it felt like i was part of it or i was it myself, i could not say; my memory came back all at once. it was a brief amnesia, and it felt good.</span>
-<br>
-<br>
-<hr>
-
 <span style="font-size:14px;font-weight:lighter">
 <br> then, a burst of consciousness hit me:
 <br> was I grafting his identity?
@@ -93,9 +87,19 @@ o potencial do meu ser
     <img src="/assets/img/sun.jpg" class="my-image rounded z-depth-1">
 </div>
 <br>
+<hr>
 
+<span style="font-size:14px;font-weight:lighter"> 
+<br>when the alarm clock went off, i woke up right away, startled. i opened my eyes as wide as i could, but it did not matter: for a few seconds, i had no idea where i was (or why i was there). i knew i would eventually realize it, but in that little while, i was floating in the vacuum – this is how it felt. the difference from past experiences is that it lasted longer, and i wasn’t scared. i set out to stay calm, to try to recall things rationally. then, the word – the only word – that came to my mind was ‘universe.’ whether it felt like i was part of it or i was it myself, i could not say; my memory came back all at once. it was a brief amnesia, and it felt good.</span>
+<br>
+<br>
+<hr>
 
-<!-- <hr> -->
+<span style="font-size:14px;font-weight:lighter"> 
+<br>are these moments feelings?
+</span>
+<br>
+<br>
 <hr>
 
 <span style="font-size:14px;font-weight:lighter">  
