@@ -30,7 +30,7 @@ I.
 II.
 <br> E a lembrança do impacto que foi percebe-lo naquele rosto—a essa altura, de certa forma—familiar?
 <br>
-<br> Evidentemente, não o olhar em si. Ele não era familiar, e era diferente daqueles lançados como insinuação—invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia (com direito).
+<br> Evidentemente, não o olhar em si. Ele não era familiar, e era diferente daqueles lançados como insinuação—invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia.
 <br>
 <br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>
@@ -42,5 +42,12 @@ II.
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 III.
+<!-- <br> Ainda vibrava. Como a abelha faminta hovering around a flor com polen. Não era imaginário, era físico: física. Uma aproximação que não passa desavisada: polarização; transmissão de sinais; ondas de som alteradas. 
+<br>
+<br> E então o momento da realização. Não menos que uma pancada e um nocaute. Abrupto silêncio. Como o derradeiro encontro da abelha com a superfície da flor. 
+<br>
+<br> Não foi menos do que uma pancada. Silenciou, também, como a abelha ao pousar na flor. A alteração do campo elétrico; equilíbrio/balanceamento.
+<br> 
+<br> -->
 </span>
 <!-- Eu seguia intrigada, e mesmo quando não, este mistério ocupava-me incessantemente.-->
