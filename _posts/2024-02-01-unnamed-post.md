@@ -24,6 +24,7 @@ I.
 </span>
 <br>
 <br>
+<br>
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 II.
@@ -37,6 +38,7 @@ II.
 </span>
 <br>
 <br> 
+<br>
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 III.
@@ -56,6 +58,7 @@ III.
 <br> 
 <br> O portentoso e delicado vazio.
 <br> 
+<br>
 </span> 
 <!-- Eu seguia intrigada, e mesmo quando não, este mistério ocupava-me incessantemente.-->
 
