@@ -44,7 +44,7 @@ II.
 III.
 <br> A epifania. 
 <br>
-<br> Dá para chamar de epifania? ou epifania é reservada aos casos de contato direto com aquilo-transcedental? às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? – me parece que sim. Além disso, penso que epifania nenhuma vem acompanhada de sensação de pancada.
+<br> Dá para chamar de epifania? ou epifania é reservada aos casos de contato direto com aquilo-transcedental? às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? me parece que sim. Além disso, penso que epifania nenhuma vem acompanhada de sensação de pancada.
 <br> 
 <br> Não foi epifania.
 <br>
