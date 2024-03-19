@@ -48,7 +48,7 @@ III.
 <br> 
 <br> Não foi epifania.
 <br>
-<br> No momento em que (finalmente) compreendi a verdade que aquele olhar carregava — e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio, minha mente e meu corpo; uma repentina desobstrução no coração; e uma dor igualmente vigorosa: porque a descoberta é assim mesmo, dolorida. Aquela verdade pesava.
+<br> No momento em que (finalmente) compreendi a verdade que aquele olhar carregava — e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio, minha mente e meu corpo; uma repentina desobstrução no coração; e uma dor igualmente vigorosa: porque a descoberta era assim mesmo, dolorida. Aquela verdade pesava.
 <br>
 <br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (a aproximação fazia vibrar). 
 <br>
