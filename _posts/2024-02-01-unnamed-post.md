@@ -54,7 +54,7 @@ III.
 <br>
 <br> Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também era colado à outro fenômeno: consciência. Uma nova.
 <br>
-<br> O que estava por trás de toda a produção, isso eu já havia entendido — não sem a frustração de olhar para aquelas descobertas (e aforismas) e perceber que se tratavam de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha/sombra/fragmento, escancaradamente encoberto.
+<br> O que estava por trás de toda a produção, isso eu já havia entendido — não sem a frustração de olhar para aquelas descobertas (e aforismas) e perceber que se tratavam de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha/sombra/fragmento, ali, escancaradamente encoberto.
 <br> 
 <br> O portentoso e delicado vazio.
 <br> 
