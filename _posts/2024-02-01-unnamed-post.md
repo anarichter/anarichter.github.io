@@ -12,11 +12,11 @@ tags: português
 I.
 <br> Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. 
 <br>
-<br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que em meu íntimo eu sentia, era-me essencial — significaria, afinal, compreender algo de mim. 
+<br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que em meu íntimo eu sentia, era-me essencial – significaria, afinal, compreender algo de mim. 
 <br>
-<br> Pela diligência com que conduzi a investigação, não me espantaria se agora constatasse que também suspendia a respiração — já não lembro, ou mesmo nem percebi. Mas só pode ter sido: a concentração necessária não me concederia a prerrogativa de respirar. Respirar distrai.
+<br> Pela diligência com que conduzi a investigação, não me espantaria se agora constatasse que também suspendia a respiração – já não lembro, ou mesmo nem percebi. Mas só pode ter sido: a concentração necessária não me concederia a prerrogativa de respirar. Respirar distrai.
 <br>
-<br> Passados os segundos em que essa cena pôde ser sustentada — e ela se estendeu por tantos deles quanto possível para comporem as águas do mergulho que, naquele instante, eu realizava sem receio de me perder — tirei subitamente a tensão que perpassava minha espinha e reclinei o corpo um pouco para trás.
+<br> Passados os segundos em que essa cena pôde ser sustentada – e ela se estendeu por tantos deles quanto possível para comporem as águas do mergulho que, naquele instante, eu realizava sem receio de me perder – tirei subitamente a tensão que perpassava minha espinha e reclinei o corpo um pouco para trás.
 <br>
 <br> Ainda sem desviar do olhar, puxei o ar pelas narinas, paciente e profundamente, em preparo para encarar o inevitável: a resposta, o esclarecimento que eu buscava, não viria agora. 
 <br>
@@ -28,7 +28,7 @@ I.
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 II.
-<br> E a lembrança do impacto que foi percebe-lo naquele rosto — a essa altura, de certa forma — familiar?
+<br> E a lembrança do impacto que foi percebe-lo naquele rosto – a essa altura, de certa forma – familiar?
 <br>
 <br> Evidentemente, não o olhar em si. Ele não era familiar, e era diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia).
 <br>
@@ -48,13 +48,13 @@ III.
 <br> 
 <br> Não foi epifania.
 <br>
-<br> No momento em que (finalmente) compreendi a verdade que aquele olhar carregava — e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio, minha mente e meu corpo; uma repentina desobstrução no coração; e uma dor igualmente vigorosa: porque a descoberta era assim mesmo, dolorida. Aquela verdade pesava.
+<br> No momento em que (finalmente) compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio, minha mente e meu corpo; uma repentina desobstrução no coração; e uma dor igualmente vigorosa: porque a descoberta era assim mesmo, dolorida. Aquela verdade pesava.
 <br>
 <br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (a aproximação fazia vibrar). 
 <br>
 <br> Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também era colado a outro fenômeno: consciência. Uma nova.
 <br>
-<br> O que estava por trás de toda a produção, isso eu já havia entendido — não sem a frustração de olhar para aquelas descobertas (e aforismas) e perceber que se tratavam de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha/sombra/fragmento, assim, escancaradamente encoberto:
+<br> O que estava por trás de toda a produção, isso eu já havia entendido – não sem a frustração de olhar para aquelas descobertas (e aforismas) e perceber que se tratavam de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha/sombra/fragmento, assim, escancaradamente encoberto:
 <br> 
 <br> O portentoso, e delicado, vazio.
 <br> 
