@@ -28,9 +28,9 @@ I.
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 II.
-<br> E a lembrança do impacto que foi percebe-lo naquele rosto – a essa altura, de certa forma – familiar?
-<br>
-<br> Evidentemente, não o olhar em si. Ele não era familiar, e era diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia).
+<br> E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... Mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte.
+<br> 
+<br> O olhar em si, não: ele não era familiar, e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia).
 <br>
 <br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>
@@ -44,21 +44,21 @@ II.
 III.
 <br> A epifania. 
 <br>
-<br> Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Parece-me que sim. Além disso, penso que epifania nenhuma venha acompanhada de sensação de pancada.
+<br> Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... Além disso, não é possível que epifania venha acompanhada da sensação de pancada.
 <br> 
 <br> Não foi epifania.
 <br>
-<br> No momento em que (finalmente) compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo; uma repentina desobstrução no coração; e uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade pesava.
+<br> No momento em que (finalmente) compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso.
 <br>
-<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (a aproximação que fazia vibrar). 
+<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). 
 <br>
-<br> Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também era colado a outro fenômeno: consciência. Uma nova.
+<br> Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova.
 <br>
-<br> O que estava por trás de toda a produção, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações (e aforismas) e perceber que se tratavam de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha, sombra, fragmento; ali, escancaradamente encoberto:
+<br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações (e aforismas) e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha, sombra, fragmento; ali, escancaradamente encoberto:
 <br> 
 <br> O portentoso, e delicado, vazio.
 <br> 
-<br>
+<br> (Epifania? Talvez.)
 </span> 
 <!-- Eu seguia intrigada, e mesmo quando não, este mistério ocupava-me incessantemente.-->
 
