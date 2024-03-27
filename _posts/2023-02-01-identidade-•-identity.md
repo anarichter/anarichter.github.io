@@ -100,9 +100,9 @@ o potencial do meu ser
 </span>
 <br>
 <br>
-<hr>
+<!-- <hr> -->
 
-<span style="font-size:14px;font-weight:lighter">  
+<!-- <span style="font-size:14px;font-weight:lighter">   
 i was crazy — but i did not know it — now i do
 <br> what i wrote — was written in a different language
 <br> one — one cannot understand
@@ -111,4 +111,4 @@ i was crazy — but i did not know it — now i do
 <br> to make me be — understood
 </span>
 <br>
-<br>
+<br>-->
