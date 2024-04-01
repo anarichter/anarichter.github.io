@@ -1,7 +1,7 @@
 ---
 layout: post
 title: unnamed post
-date:   2024-02-01
+date:   2024-03-01
 description: (&ensp;)
 tags: português
 # categories: 
@@ -28,9 +28,13 @@ I.
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 II.
-<br> E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... Mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte.
+<br> E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? 
 <br> 
-<br> O olhar em si, não: ele não era familiar, e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
+<br> Era um descompasso... Mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte.
+<br> 
+<br> O olhar em si, não: ele não era familiar e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). 
+<br> 
+<br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>
 <br> No entanto, eu ainda não podia ver, e seguia intrigada.
 </span>
@@ -46,17 +50,17 @@ III.
 <br> 
 <br> Não foi epifania.
 <br>
-<br> No momento em que (finalmente) compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso.
+<br> No momento em que – finalmente – compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso. Abrupto silêncio.
 <br>
 <br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). 
 <br>
 <br> Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova.
 <br>
-<br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações (e aforismas) e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha, sombra, fragmento; ali, escancaradamente encoberto:
+<br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações (e aforismas) e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha, luz, sombra, fragmento; ali, escancaradamente encoberto:
 <br> 
 <br> O portentoso, e delicado, vazio.
 <br> 
-<br> (Epifania? Talvez.)
+<br> (Epifania?)
 </span> 
 <!-- Eu seguia intrigada, e mesmo quando não, este mistério ocupava-me incessantemente.-->
 
