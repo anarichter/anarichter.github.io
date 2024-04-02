@@ -36,7 +36,7 @@ II.
 <br> 
 <br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>
-<br> No entanto, eu ainda não podia ver, e seguia intrigada.
+<br> No entanto, eu ainda não podia ver, e seguia intrigada. Mesmo quando não, este mistério ocupava-me incessantemente.
 </span>
 <br>
 <br> 
@@ -50,18 +50,20 @@ III.
 <br> 
 <br> Não foi epifania.
 <br>
-<br> No momento em que – finalmente – compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso. Abrupto silêncio.
+<br> No momento em que – finalmente – compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso. 
+<br>
+<br> Abrupto silêncio.
 <br>
 <br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). 
 <br>
-<br> Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova.
+<br> Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?)
 <br>
-<br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações (e aforismas) e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha, luz, sombra, fragmento; ali, escancaradamente encoberto:
+<br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações – e aforismas – e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha, luz, sombra, fragmento; ali, escancaradamente encoberto:
 <br> 
 <br> O portentoso, e delicado, vazio.
-<br> 
-<br> (Epifania?)
 </span> 
+
+
 <!-- Eu seguia intrigada, e mesmo quando não, este mistério ocupava-me incessantemente.-->
 
 <!-- (o que vem depois, procurar entender ou prolongar aquilo, não é mais aquela emoção) -->
@@ -76,3 +78,14 @@ III.
 
 <!-- Emoção é aquilo que veio e você não soube o que fazer com aquilo. Aquilo que sobe para o peito. Te faz subitamente atento. O que vem em seguida, procurar entender ou prolongar aquilo, não é mais aquela emoção 
 Aquilo que vem e com o que não se sabe o que fazer. Aquilo que sobe para o peito, torna a pessoa subitamente atenta. E aquilo que vem em seguida, busca por entendimento ou  -->
+
+
+
+<!-- 
+
+
+
+Ainda vibrava. Como a abelha faminta hovering around a flor com polen. Não era imaginário, era físico: física. Uma aproximação que não passa desavisada: polarização; transmissão de sinais; ondas de som alteradas. Como o derradeiro encontro da abelha com a superfície da flor. 
+
+
+ -->
