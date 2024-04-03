@@ -18,7 +18,7 @@ I.
 <br>
 <br> Passados os segundos em que essa cena pôde ser sustentada – e ela se estendeu por tantos deles quanto possível para comporem as águas do mergulho que, naquele instante, eu realizava sem receio de me perder – tirei subitamente a tensão que perpassava minha espinha e reclinei o corpo um pouco para trás.
 <br>
-<br> Ainda sem desviar do olhar, puxei o ar pelas narinas, paciente e profundamente, em preparo para encarar o inevitável: a resposta, o esclarecimento que eu buscava, não viria agora. 
+<br> Ainda sem desviar do olhar, puxei o ar pelas narinas, paciente, lenta e profundamente, em preparo para encarar o inevitável: a resposta, o esclarecimento que eu buscava, não viria agora. 
 <br>
 <br> Pelo menos, não agora.
 </span>
@@ -47,7 +47,7 @@ II.
 III.
 <br> A epifania. Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... Além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania.
 <br>
-<br> No momento em que – finalmente – compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Um susto. Uma repentina desobstrução no coração. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida – aquela verdade tinha um peso. 
+<br> No momento em que – finalmente – compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. Um susto. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso. 
 <br>
 <br> Abrupto silêncio.
 <br>
