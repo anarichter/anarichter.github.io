@@ -37,8 +37,7 @@ II.
 <br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>
 <br> No entanto, eu ainda não podia ver, e seguia intrigada. 
-<br>
-<br> Tal que mesmo quando não, esse mistério ocupava-me incessantemente.
+<!-- <br> Tal que mesmo quando não, esse mistério ocupava-me incessantemente. -->
 </span>
 <br>
 <br> 
@@ -46,19 +45,13 @@ II.
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 III.
-<br> A epifania. 
-<br>
-<br> Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... Além disso, não é possível que epifania venha acompanhada da sensação de pancada.
-<br> 
-<br> Não foi epifania.
+<br> A epifania. Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... Além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania.
 <br>
 <br> No momento em que – finalmente – compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Um susto. Uma repentina desobstrução no coração. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida – aquela verdade tinha um peso. 
 <br>
 <br> Abrupto silêncio.
 <br>
-<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). 
-<br>
-<br> Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?)
+<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?)
 <br>
 <br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações – e aforismas – e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha, luz, sombra, fragmento – ali, escancaradamente encoberto:
 <br> 
