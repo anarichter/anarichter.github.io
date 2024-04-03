@@ -52,7 +52,7 @@ III.
 <br> 
 <br> Não foi epifania.
 <br>
-<br> No momento em que – finalmente – compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Um susto. Uma repentina desobstrução no coração. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso. 
+<br> No momento em que – finalmente – compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Um susto. Uma repentina desobstrução no coração. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida – aquela verdade tinha um peso. 
 <br>
 <br> Abrupto silêncio.
 <br>
