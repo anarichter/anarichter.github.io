@@ -9,10 +9,9 @@ tags: português
 ---
 
 <span style="font-size:14px;font-weight:lighter"> 
-I.
-<br> Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. 
+I. Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. 
 <br>
-<br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que, em meu íntimo, eu sentia: era-me essencial – significaria, afinal, compreender algo de mim. 
+<br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que, em meu íntimo, eu sentia: era-me essencial (significaria, afinal, compreender algo de mim). 
 <br>
 <br> Pela diligência com que conduzi a investigação, não me espantaria se agora constatasse que também suspendia a respiração – já não lembro, ou mesmo nem percebi. Mas só pode ter sido: a concentração necessária não me concederia a prerrogativa de respirar. Respirar distrai.
 <br>
@@ -27,8 +26,7 @@ I.
 <br>
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
-II.
-<br> E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? 
+II. E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? 
 <br> 
 <br> Era um descompasso... Mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte.
 <br> 
@@ -44,16 +42,17 @@ II.
 <br>
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
-III.
-<br> A epifania. Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... Além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania.
+III. A epifania. 
+<br> 
+<br> Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... Além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania.
 <br>
-<br> No momento em que – finalmente – compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão –, senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. Um susto. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso. 
+<br> No momento em que (finalmente) compreendi a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. Um susto. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso. 
 <br>
 <br> Abrupto silêncio.
 <br>
 <br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?)
 <br>
-<br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações – e aforismas – e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada linha, luz, sombra, fragmento – ali, escancaradamente encoberto:
+<br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações – e aforismas – e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada luz, linha, sombra, fragmento – ali, escancaradamente encoberto:
 <br> 
 <br> O portentoso, e delicado, vazio.
 </span> 
