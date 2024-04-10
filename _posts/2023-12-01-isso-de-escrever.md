@@ -12,7 +12,7 @@ tags: português
 Como posso eu não gostar de escrever 
 <br>– e não preferir a escrita à fala? 
 <br>Conforme estas palavras vão sendo lidas,
-<br>sua atenção é toda voltada para elas
+<br>sua atenção é toda voltada para elas.
 <br>Você pode, é claro, desistir das minhas linhas,
 <br>no entanto, se opta por acompanhá-las,
 <br>é nelas que você se concentra.

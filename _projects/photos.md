@@ -5,6 +5,9 @@ description: to myself, strangers, anyone, nobody.
 img: assets/img/birds.jpg
 importance: 2
 # category: fun
+#    <div class="col-sm-4 mt-3 mt-md-0">
+#        {% include figure.html path="assets/img/children.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+#    </div>
 ---
 
 <br>
@@ -53,11 +56,8 @@ importance: 2
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/navratri.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/children.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
   </div>
 </div>
