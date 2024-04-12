@@ -35,28 +35,20 @@ tags: english português
 <br>
 <hr>
 
-<!-- <span style="font-size:14px;font-weight:lighter"> 
-o potencial do meu ser 
-<br> estava naquelas imagens
-<br> perdidas ... não ... desaparecidas
-<br> desaparecidas do universo
-<br> real
-<br> e do das possibilidades
-<br> e potencialidades
-<br> e promessas
-<br> – promessas de que tudo ficaria bem
-<br> aquilo tudo era meu
-<br> – eu 
-<br> e agora ninguém veria
-<br> ninguém jamais teria contato
-<br> com o que ainda era, 
-<br> para o mundo,
-<br> desconhecido:
-<br> partes de mim
+<!-- <span style="font-size:14px;font-weight:lighter">
+o potencial do meu ser / estava naquelas imagens
+<br> desaparecidas / desaparecidas do universo
+<br> real / e do das possibilidades / e potencialidades
+<br> e promessas / promessas de que tudo ficaria bem
+<br> aquilo tudo era meu / eu 
+<br> e agora ninguém veria / ninguém jamais teria contato
+<br> com o que ainda era / para / n/o mundo
+<br> desconhecido / partes de mim
 </span>
 <br>
 <br>
-<hr>-->
+<hr>  -->
+
 
 <span style="font-size:14px;font-weight:lighter">
 <br> then, a burst of consciousness hit me:
@@ -100,15 +92,38 @@ o potencial do meu ser
 </span>
 <br>
 <br>
-<!-- <hr> -->
+<hr>
 
-<!-- <span style="font-size:14px;font-weight:lighter">   
+<span style="font-size:14px;font-weight:lighter">   
 i was crazy — but i did not know it — now i do
 <br> what i wrote — was written in a different language
 <br> one — one cannot understand
-<br> but — those words were my best attempt
-<br> my best attempt — to make sense of this
-<br> to make me be — understood
+<br> but those words — they were my best attempt
+<br> to make sense of this — to make me be — understood
 </span>
 <br>
-<br>-->
+<br>
+
+<!-- 
+<span style="font-size:14px;font-weight:lighter"> 
+o potencial do meu ser 
+<br> estava naquelas imagens
+<br> perdidas ... não ... desaparecidas
+<br> desaparecidas do universo
+<br> real
+<br> e do das possibilidades
+<br> e potencialidades
+<br> e promessas
+<br> – promessas de que tudo ficaria bem
+<br> aquilo tudo era meu
+<br> – eu 
+<br> e agora ninguém veria
+<br> ninguém jamais teria contato
+<br> com o que ainda era, 
+<br> para o mundo,
+<br> desconhecido:
+<br> partes de mim
+</span>
+<br>
+<br>
+ -->
