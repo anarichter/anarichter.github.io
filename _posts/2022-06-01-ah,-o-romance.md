@@ -134,7 +134,7 @@ o dia e a noite convidam a dançar
 <br>
 <br> há um fascínio, desejo de controlar
 <br> mas em meio à espreita – sorrateira
-<br> é a passagem ad aeternum que atropela:
+<br> é a passagem ad aeternum que atropela
 <br>
 <br> feito água e ar, as mãos não podem agarrar
 <br> fechar os olhos e correr / para nunca alcançar
@@ -142,21 +142,21 @@ o dia e a noite convidam a dançar
 <br> 
 <br> mas nesse ciclo manifesto, aparentemente certo
 <br> há ali um elemento que escapa
-<br> e delicadamente faz o tempo titubear: 
+<br> e delicadamente faz o tempo titubear
 <br>
-<br> perceber-se diante de alguém,
+<br> perceber-se diante de alguém
 <br> um encontro 
 <br> sem aviso
 <br> 
-<br> dois pares de braços em um enlace —
-<br> mergulho nos olhos que encaram —
-<br> conversa calada pela lua iluminada —
+<br> dois pares de braços em um enlace /
+<br> mergulho nos olhos que encaram /
+<br> conversa calada pela lua iluminada /
 <br> paradoxo não resolvido, resolvido
 <br>
-<br> e nesta fração de segundo eterna,
+<br> e nesta fração de segundo eterna
 <br> o cônscio instante hipnotizante:
-<br> momentos de uma nova dança
-<br> — entre tempo e encontro
+<br> momentos de uma nova dança:
+<br> entre tempo e encontro
 </span>
 <br>
 <br>
