@@ -1,8 +1,8 @@
 ---
 layout: post
-title: o toque de um olhar
+title: a impressão de um olhar
 date:   2024-02-01
-description: #(&ensp;)
+description: (a aproximação eu podia sentir) #(&ensp;)
 tags: português
 # categories: 
 
