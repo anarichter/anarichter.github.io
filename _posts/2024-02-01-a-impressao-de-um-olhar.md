@@ -24,7 +24,6 @@ I.
 </span>
 <br>
 <br>
-<br>
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 II. 
@@ -38,7 +37,6 @@ II.
 <!-- <br> Tal que mesmo quando não, esse mistério ocupava-me incessantemente. -->
 </span>
 <br>
-<br> 
 <br>
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
@@ -59,6 +57,7 @@ III.
 </span> 
 
 
+
 <!-- Eu seguia intrigada, e mesmo quando não, este mistério ocupava-me incessantemente.-->
 
 <!-- (o que vem depois, procurar entender ou prolongar aquilo, não é mais aquela emoção) -->
@@ -75,12 +74,6 @@ III.
 Aquilo que vem e com o que não se sabe o que fazer. Aquilo que sobe para o peito, torna a pessoa subitamente atenta. E aquilo que vem em seguida, busca por entendimento ou  -->
 
 
-
 <!-- 
-
-
-
 Ainda vibrava. Como a abelha faminta hovering around a flor com polen. Não era imaginário, era físico: física. Uma aproximação que não passa desavisada: polarização; transmissão de sinais; ondas de som alteradas. Como o derradeiro encontro da abelha com a superfície da flor. 
-
-
- -->
+-->

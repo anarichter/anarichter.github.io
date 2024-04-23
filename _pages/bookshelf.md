@@ -1,13 +1,15 @@
 ---
 layout: page
-permalink: /bookshelf
-title: bookshelf
-description: last read books (will add as it goes)
+permalink: /book-movie-shelf
+title: book/movie/shelf
+description: last read books, last watched movies #<br> (will add as it goes)
 nav: true
 nav_order: 3
 ---
 
-  <div id="gr_custom_widget_1697127983">
+
+
+<div id="gr_custom_widget_1697127983">
           <div class="gr_custom_container_1697127983">
       <div class="gr_custom_each_container_1697127983">
           <div class="gr_custom_book_container_1697127983">
@@ -243,16 +245,18 @@ nav_order: 3
           </div>
       </div>
       <!-- </div> -->
-  </div>
+</div>
 <br>
 <br>
-<span style="font-size:14px;font-weight:lighter">my « movieshelf » or what i most enjoyed watching lately: <br>
+
+<span style="font-size:14px;font-weight:lighter">– what i most enjoyed watching lately
+<br>
 <a href="https://www.imdb.com/title/tt8991268/">Honeyland (2019)</a> <br>
 <a href="https://www.imdb.com/title/tt27503384/">Perfect Days (2023)</a> (how could i not?)<br>
-<a href="https://www.imdb.com/title/tt9581076/">So Long, My Son (2019)</a> <br>
+<a href="https://www.imdb.com/title/tt0247380/">Les Glaneurs et la Glaneuse (2000)</a> <br>
 <a href="https://www.imdb.com/title/tt0040522/">Bicycle Thieves (1948)</a> <br>
 <a href="https://www.imdb.com/title/tt0086022/">Nostalghia (1983)</a> <br>
-<a href="https://www.imdb.com/title/tt0247380/">Les Glaneurs et la Glaneuse (2000)</a> <br>
+<a href="https://www.imdb.com/title/tt9581076/">So Long, My Son (2019)</a> <br>
 <a href="https://www.imdb.com/title/tt9138170/">Limbo (2020)</a> <br>
 <a href="https://www.imdb.com/title/tt5859238/">Lucky (2017)</a> <br>
 <a href="https://www.imdb.com/title/tt19770238/">Aftersun (2022)</a> <br>
@@ -263,12 +267,12 @@ nav_order: 3
 <br>
 <br>
 <br>
-... but you know, that <a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a> about how little remains from reading or watching films does resonate with me – consciously, anyway. (starting to record the books i read on Goodreads came as a tactic to get around this)
+... but you know, that <a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a> about how little remains from reading or watching films does resonate with me (consciously, anyway – starting to record the books i read on Goodreads came as a tactic to get around this).
 <br>
 <br>
 <br>
 <span style="font-size:14px;font-weight:lighter">
-then, i'm not one for poems, but these two left me amazed (actually, leave me each time i read them)... my </span><span style="font-size:14px;font-weight:lighter">« poemshelf »</span><span style="font-size:14px;font-weight:lighter"> if you indulge me:
+then, i'm not one for poems, but these two left me amazed (actually, leave me each time i read them). my </span><span style="font-size:14px;font-weight:lighter">« poemshelf »</span><span style="font-size:14px;font-weight:lighter"> if you indulge me:
 <br>
 <br> <strong>We grow accustomed to the Dark</strong>
 <br> <i>Emily Dickinson</i>
@@ -321,3 +325,79 @@ then, i'm not one for poems, but these two left me amazed (actually, leave me ea
 <br>it is not the earth I will miss,
 <br>it is you I will miss.
 </span>
+
+
+<!-- 
+
+
+<span style="font-size:14px;font-weight:lighter">what i most enjoyed watching lately: 
+<br>
+<br>
+<div id="gr_custom_widget_1697127983">
+  <div class="gr_custom_container_1697127983">
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt8991268/">Honeyland (2019)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt27503384/">Perfect Days (2023) (how could i not?)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt9581076/">So Long, My Son (2019)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt0040522/">Bicycle Thieves (1948)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt0086022/">Nostalghia (1983)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt0247380/">Les Glaneurs et la Glaneuse (2000)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt9138170/">Limbo (2020)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt5859238/">Lucky (2017)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt19770238/">Aftersun (2022)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt9660502/">Close (2022)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt10986222/">C'mon C'mon (2021)</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_title_1697127983">
+            <a href="https://www.imdb.com/title/tt14034966/">Wheel of Fortune and Fantasy (Gûzen to sôzô) (2021)</a>
+          </div>
+      </div>
+  </div>
+</div>
+(one of my favourites i can remember: <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> – pesado)
+<br>
+<br>
+ -->

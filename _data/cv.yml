@@ -144,4 +144,4 @@
   type: list
   contents:
     #- <u>Hobbies:</u> Photography, writing, reading, cycling, wandering
-    - <a href="/photo">Photography</a>, <a href="/blog">writing</a>, <a href="/bookshelf">reading</a>, cycling, wandering
+    - <a href="/photo">Photography</a>, <a href="/blog">writing</a>, <a href="/book-movie-shelf">reading</a>, cycling, wandering

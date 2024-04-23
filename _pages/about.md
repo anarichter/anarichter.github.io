@@ -31,12 +31,20 @@ social: true  # includes social icons at the bottom of the page
 # Should I explain myself? Should I explain something?
 ---
 
-<hr>
-<span style="font-size:15px;font-weight:lighter">
-hi, there – I'm Ana! 
+<!-- <hr> -->
+<span style="font-size:15px;font-weight:lighter"> 
+hi, there – I'm Ana!
+<br>olá – sou a Ana!
 
-<span style="font-size:15px;font-weight:lighter">
+<span style="font-size:15px;font-weight:lighter"> 
+the idea of creating this website came about as a coding exercise (wanted to learn a bit about GitHub) and I ended up designing it to include my resume and things that interest me: reflections (in English and Portuguese), pictures, references, whatnot
+
+
+<!-- <span style="font-size:14px;font-weight:lighter">  
+A ideia de criar este site surgiu como um exercício de ti (queria aprender um pouco sobre o GitHub) e acabei projetando-o para incluir meu currículo e coisas que me interessam: reflexões, fotos, referências, tudo o mais-->
+
+<!-- <span style="font-size:15px;font-weight:lighter"> 
 Creating this website came as a coding exercise (to start learning a little about GitHub) and I ended up designing it to include my resume and things that interest me, such as reflections, pictures, references...
 
 <span style="font-size:15px;font-weight:lighter">
-But this is a page under construction, so please, bear with me :-)
+But this is a page under construction, so please, bear with me :-)-->
