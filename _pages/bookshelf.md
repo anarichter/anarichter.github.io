@@ -8,6 +8,9 @@ nav_order: 3
 ---
 
 
+<!-- https://www.goodreads.com/book/show/62026012-white-nights 
+https://www.goodreads.com/book/show/54831605-a-wilderness-station
+https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classics-by-hesse-hermann-new-edition-->
 
 <div id="gr_custom_widget_1697127983">
           <div class="gr_custom_container_1697127983">
@@ -251,8 +254,9 @@ nav_order: 3
 
 <span style="font-size:14px;font-weight:lighter">– what i most enjoyed watching lately
 <br>
-<a href="https://www.imdb.com/title/tt8991268/">Honeyland (2019)</a> <br>
+<a href="https://www.imdb.com/title/tt1560139/">Boy (2010)</a> <br>
 <a href="https://www.imdb.com/title/tt27503384/">Perfect Days (2023)</a> (how could i not?)<br>
+<a href="https://www.imdb.com/title/tt8991268/">Honeyland (2019)</a> <br>
 <a href="https://www.imdb.com/title/tt0247380/">Les Glaneurs et la Glaneuse (2000)</a> <br>
 <a href="https://www.imdb.com/title/tt0040522/">Bicycle Thieves (1948)</a> <br>
 <a href="https://www.imdb.com/title/tt0086022/">Nostalghia (1983)</a> <br>
