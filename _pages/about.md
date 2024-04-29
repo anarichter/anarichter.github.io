@@ -10,11 +10,9 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic-2.jpg
+  image: profile-ana.jpg
   image_circular: false # crops the image to make it circular
-  # address: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
+  address: (look angry, but i'm super nice)
     # <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
@@ -34,10 +32,10 @@ social: true  # includes social icons at the bottom of the page
 <!-- <hr> -->
 <span style="font-size:15px;font-weight:lighter"> 
 hi, there – I'm Ana!
-<br>olá – sou a Ana!
+<br>ou: olá – eu sou a Ana!
 
 <span style="font-size:15px;font-weight:lighter"> 
-the idea of creating this website came about as a coding exercise (wanted to learn a bit about GitHub) and I ended up designing it to include my resume and things that interest me: reflections (in English and Portuguese), pictures, references, whatnot
+the idea of creating this website came about as a coding exercise (I wanted to learn a bit about GitHub) and I ended up designing it to include my resume and things that interest me: reflections – in English and Portuguese – pictures references (and whatnot...)
 
 
 <!-- <span style="font-size:14px;font-weight:lighter">  

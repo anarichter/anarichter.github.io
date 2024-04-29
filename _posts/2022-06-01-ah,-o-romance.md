@@ -12,7 +12,8 @@ tags: português
 
 <span style="font-size:14px;font-weight:lighter"> 
 eu queria, pensando agora que se foi, ter tirado um retrato dele.
-<br> não seria um problema explicar essa vontade, nem a mim mesma, portanto sem necessidade de esconder a motivação em desculpas, nem para ele, caso quisesse saber. era a sua beleza. a postura de quem muito já viveu, a serenidade daqueles que sabem melhor como a vida deve ser vivida, em um corpo tão jovem e um rosto com traços simétricos. uma presença que se basta, mas que aprecia e busca o compartilhamento, em suas duas vias. havia, no entanto, um exato ponto que denunciava a ingenuidade daqueles de sua idade, e que abria as janelas que evidenciavam suas incertezas. ficava entre o sorriso discreto – que, com o olhar que o acompanhava, sem intenção, me desafiava – e o riso solto – que me fazia sorrir também. aquele ponto não admitia variação em suas dimensões exatas (um segundo a mais ou a menos fazia com que as janelas se fechassem) e por isso era tão raro de se perceber, e tanto tempo me tomou a perceber.
+<br>não seria um problema explicar essa vontade, nem a mim mesma, portanto sem necessidade de esconder a motivação em desculpas, nem para ele, caso quisesse saber. era a sua beleza. a postura de quem muito já viveu, a serenidade daqueles que sabem melhor como a vida deve ser vivida, em um corpo tão jovem e um rosto com traços simétricos. uma presença que se basta, mas que aprecia e busca o compartilhamento, em suas duas vias. 
+<br>havia, no entanto, um exato ponto que denunciava a ingenuidade daqueles de sua idade, e que abria as janelas que evidenciavam suas incertezas. ficava entre o sorriso discreto (que, com o olhar que o acompanhava, sem intenção, me desafiava) e o riso solto (que me fazia sorrir também). aquele ponto não admitia variação em suas dimensões exatas e por isso era tão raro de se perceber, e tanto tempo me tomou a perceber.
 <br> pergunto-me, inclusive, se fui a única a ver através delas.
 </span>
 <br>
@@ -51,15 +52,15 @@ sonho contigo
 <br> [ fixando o meu olhar pela janela
 <br> a imaginação se perde
 <br> dois caminhos se cruzam:
-<br> reconheço a sua presença – você a minha
+<br> reconheço a sua presença – você a minha ]
 <br> [ pousando o meu olhar no seu
 <br> as cortinas se abrem
 <br> uma valsa carrega o meu sentir
-<br> minha mão na sua – a sua na minha
+<br> minha mão na sua – a sua na minha ]
 <br> [ encerrando o meu olhar em sonhos
 <br> cenários se desenham
 <br> e uma noite estrelada anuncia:
-<br> eu com você – você comigo
+<br> eu com você – você comigo ]
 <br> a gente flutua
 </span>
 <br>
@@ -148,10 +149,10 @@ o dia e a noite convidam a dançar
 <br> um encontro 
 <br> sem aviso
 <br> 
-<br> dois pares de braços em um enlace /
-<br> mergulho nos olhos que encaram /
-<br> conversa calada pela lua iluminada /
-<br> paradoxo não resolvido, resolvido
+<br> dois pares de braços em um enlace.
+<br> mergulho nos olhos que encaram.
+<br> conversa calada pela lua iluminada.
+<br> paradoxo não resolvido, resolvido.
 <br>
 <br> e nesta fração de segundo eterna
 <br> o cônscio instante hipnotizante:
