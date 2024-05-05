@@ -17,10 +17,10 @@ nav_order: 6
         {% include figure.html path="assets/img/2-inverno-e-sensacoes.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1-inverno-e-sensacoes.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/3-inverno-e-sensacoes.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3-inverno-e-sensacoes.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/1-inverno-e-sensacoes.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
 
