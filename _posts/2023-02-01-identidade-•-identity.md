@@ -92,7 +92,7 @@ i was crazy — but i did not know it — now i do
 <br> one — one cannot understand
 <br> but those words — they were my best attempt
 <br> my best attempt — to make sense of this
-<br> to make me be — understood
+<br> to make me be <br>(understood)
 </span>
 <br>
 <br>
