@@ -41,6 +41,6 @@ nav_order: 6
     </div>
 </div>
 
-<span style="font-size:14px;font-weight:lighter">
+<!-- <span style="font-size:14px;font-weight:lighter"> -->
 <!-- it's not like my instagram is my portfolio, but there you can check out some of the photos i've taken <a href="https://instagram.com/{{ site.instagram_id }}">(here)</a> :-) -->
-<br> (you can go back to where you were clicking <a href="/cv"> > here</a>)
+<!-- <br> (you can go back to where you were clicking <a href="/cv"> > here</a>) -->

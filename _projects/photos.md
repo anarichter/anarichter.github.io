@@ -82,5 +82,8 @@ importance: 2
 <br>
 <hr>
 <br>
+
+<a href="/photo">• photo exhibitions</a>
+
 <br>
 <br>
