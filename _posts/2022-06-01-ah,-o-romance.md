@@ -11,9 +11,7 @@ tags: português
 
 
 <span style="font-size:14px;font-weight:lighter"> 
-eu queria, pensando agora que se foi, ter tirado um retrato dele.
-<br>não seria um problema explicar essa vontade, nem a mim mesma, portanto sem necessidade de esconder a motivação em desculpas, nem para ele, caso quisesse saber. era a sua beleza. a postura de quem muito já viveu, a serenidade daqueles que sabem melhor como a vida deve ser vivida, em um corpo tão jovem e um rosto com traços simétricos. uma presença que se basta, mas que aprecia e busca o compartilhamento, em suas duas vias. 
-<br>havia, no entanto, um exato ponto que denunciava a ingenuidade daqueles de sua idade, e que abria as janelas que evidenciavam suas incertezas. ficava entre o sorriso discreto (que, com o olhar que o acompanhava, sem intenção, me desafiava) e o riso solto (que me fazia sorrir também). aquele ponto não admitia variação em suas dimensões exatas e por isso era tão raro de se perceber, e tanto tempo me tomou a perceber.
+eu queria, pensando agora que se foi, ter tirado um retrato dele. não seria um problema explicar essa vontade, nem a mim mesma, portanto sem necessidade de esconder a motivação em desculpas, nem para ele, caso quisesse saber. era a sua beleza. a postura de quem muito já viveu, a serenidade daqueles que sabem melhor como a vida deve ser vivida, em um corpo tão jovem e um rosto com traços simétricos. uma presença que se basta, mas que aprecia e busca o compartilhamento – em suas duas vias. havia, no entanto, um exato ponto que denunciava a ingenuidade daqueles de sua idade, e que abria as janelas que evidenciavam suas incertezas. ficava entre o sorriso discreto (que, com o olhar que o acompanhava, sem intenção, me desafiava) e o riso solto (que me fazia sorrir também). aquele ponto não admitia variação em suas dimensões exatas e por isso era tão raro de se perceber, e tanto tempo me tomou a perceber.
 <br> pergunto-me, inclusive, se fui a única a ver através delas.
 </span>
 <br>

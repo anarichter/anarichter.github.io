@@ -2,7 +2,7 @@
 layout: post
 title: before losing or forgetting
 date:   2022-08-01
-description: words and pictures dispersed around facebook (en)
+description: words and pictures dispersed around facebook [en]
 tags: english
 # categories: english #miscellaneous short-posts story
 

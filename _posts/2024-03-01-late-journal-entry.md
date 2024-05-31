@@ -18,7 +18,7 @@ tags: english
 <br>
 <!-- <div style="text-align: right;"> -->
 <span style="font-size:14px;font-weight:lighter;margin:right" >
-[ Three years later, they got married. Incidentally, on 2 August. ] <!-- <br> Incidentally, on 2 August, as the marriage certificate attests. -->
+[ Three years later, a marriage certificate dated 2 August attests: they got married. ] <!-- <br> Incidentally, on 2 August, as the marriage certificate attests. -->
 </span>
 <!-- </div> -->
 

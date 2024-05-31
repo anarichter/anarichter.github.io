@@ -36,7 +36,7 @@ hi, there – I'm Ana!
 <br> olá – eu sou a Ana!
 
 <span style="font-size:15px;font-weight:lighter"> 
-the idea of creating this website came about as a coding exercise (I wanted to learn a bit about GitHub) and I ended up designing it to include – progressively, randomly – my resume and things that interest me: <br>reflections (in English and Portuguese), pictures, references, whatnots
+the idea of creating this website came about as a coding exercise – I wanted to learn a bit about GitHub – and I ended up designing it to include my resume and things that interest me – in a fairly random fashion: <br>• reflections in English and Portuguese • pictures • references • whatnots
 
 
 <!-- <span style="font-size:14px;font-weight:lighter">  

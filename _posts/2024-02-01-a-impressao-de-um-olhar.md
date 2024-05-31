@@ -49,7 +49,7 @@ III.
 <br>
 <br> Abrupto silêncio.
 <br>
-<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e ali mesmo desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?)
+<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e, antes que possa ser apreendida, desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?)
 <br>
 <br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações – e aforismas – e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada luz, linha, sombra, fragmento – ali, escancaradamente encoberto:
 <br> 
