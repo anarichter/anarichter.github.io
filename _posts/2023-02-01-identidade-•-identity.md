@@ -36,20 +36,6 @@ tags: english português
 <hr>
 
 <span style="font-size:14px;font-weight:lighter">
-o potencial do meu ser / estava naquelas imagens
-<br> desaparecidas / desaparecidas do universo
-<br> real / e do das possibilidades / e promessas
-<br> promessas de que tudo ficaria bem
-<br> aquilo tudo era meu / eu 
-<br> e agora ninguém veria / ninguém jamais teria contato
-<br> com o que ainda era / para o mundo / desconhecido
-<br> partes de mim
-</span>
-<br>
-<br>
-<hr>
-
-<span style="font-size:14px;font-weight:lighter">
 then, a burst of consciousness hit me:
 <br> was I grafting his identity?
 <br> that thought startled me,
@@ -100,6 +86,20 @@ i was crazy — but i did not know it — now i do
 
 <span style="font-size:14px;font-weight:lighter"> 
 are these moments feelings?
+</span>
+<br>
+<br>
+<hr>
+
+<span style="font-size:14px;font-weight:lighter">
+o potencial do meu ser / estava naquelas imagens
+<br> <s>perdidas</s> / desaparecidas / desaparecidas do universo
+<br> real / e do das possibilidades / e promessas
+<br> promessas de que tudo ficaria bem
+<br> aquilo tudo era meu / eu 
+<br> e agora <s>ninguém veria</s> / ninguém jamais teria contato
+<br> com o que ainda era / para o mundo / desconhecido
+<br> partes de mim
 </span>
 <br>
 <br>

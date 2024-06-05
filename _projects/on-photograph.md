@@ -49,5 +49,5 @@ importance: 3
     </div>
 </div>
 <div class="caption text-left">
-    <span style="font-size:14px;font-weight:lighter"> throwing the picture under water and using a sharp metal to scratch it, or a typewriter. <br>– counterintuitive, indeed</span>
+    <span style="font-size:14px;font-weight:lighter"> throwing the picture under water and using a sharp metal to scratch it, or a typewriter (counterintuitive, indeed)</span>
 </div>

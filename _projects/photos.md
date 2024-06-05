@@ -80,10 +80,9 @@ importance: 2
 </div>
 
 <br>
-<hr>
 <br>
 
-<a href="/photo">• photo exhibitions</a>
+<a href="/photo">>> participation in photo exhibitions</a>
 
 <br>
 <br>

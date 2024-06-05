@@ -33,8 +33,7 @@ II.
 <br> 
 <br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>
-<br> No entanto, eu ainda não podia ver, e seguia intrigada. 
-<!-- <br> Tal que mesmo quando não, esse mistério ocupava-me incessantemente. -->
+<br> No entanto, eu ainda não podia ver, e seguia intrigada. Tal que, mesmo quando não, esse mistério ocupava-me sem parar.
 </span>
 <br>
 <br>
@@ -49,7 +48,7 @@ III.
 <br>
 <br> Abrupto silêncio.
 <br>
-<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e, antes que possa ser apreendida, desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?)
+<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e, antes que seja apreendida, desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?)
 <br>
 <br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações – e aforismas – e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada luz, linha, sombra, fragmento – ali, escancaradamente encoberto:
 <br> 
