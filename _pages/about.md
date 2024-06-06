@@ -12,7 +12,7 @@ profile:
   align: right
   image: profile-ana.jpg
   image_circular: false # crops the image to make it circular
-  address: look angry, but i'm super nice
+  address: look angry, but i'm super nice <br>
     # <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
@@ -35,8 +35,7 @@ social: true  # includes social icons at the bottom of the page
 <br> hi, there – I'm Ana! &ensp; // &ensp; olá – eu sou a Ana!
 
 <span style="font-size:15px;font-weight:lighter"> 
-the idea of creating this website came about as a coding exercise (wanted to learn a bit about github) and I ended up designing it to include my resume and things that interest me – in a fairly random fashion: <br>reflections in Portuguese and English, pictures, references, whatnots
-
+the idea of creating this website came about as a coding exercise (wanted to learn a bit about github) and I ended up designing it to include my resume and things that interest me – in a fairly random fashion: <br> reflections in Portuguese and English • references • pictures • whatnots
 
 <!-- <span style="font-size:14px;font-weight:lighter">  
 A ideia de criar este site surgiu como um exercício de ti (queria aprender um pouco sobre o GitHub) e acabei projetando-o para incluir meu currículo e coisas que me interessam: reflexões, fotos, referências, tudo o mais-->
