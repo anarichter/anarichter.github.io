@@ -8,8 +8,8 @@ tags: português
 
 ---
 
-<span style="font-size:14px;font-weight:lighter"> 
-I. 
+<span style="font-size:12px;font-weight:bolder">I.</span>
+<span style="font-size:14px;font-weight:lighter">
 <br> Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. 
 <br>
 <br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que, em meu íntimo, eu sentia: era-me essencial (significaria, afinal, compreender algo de mim). 
@@ -25,8 +25,8 @@ I.
 <br>
 <br>
 <hr>
+<span style="font-size:12px;font-weight:bolder">II.</span>
 <span style="font-size:14px;font-weight:lighter"> 
-II. 
 <br> E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... Mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte.
 <br> 
 <br> O olhar em si, não: ele não era familiar, e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). 
@@ -38,8 +38,8 @@ II.
 <br>
 <br>
 <hr>
+<span style="font-size:12px;font-weight:bolder">III.</span>
 <span style="font-size:14px;font-weight:lighter"> 
-III. 
 <br> A epifania. 
 <br> 
 <br> Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... Além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania.
