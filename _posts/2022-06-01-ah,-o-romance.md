@@ -119,12 +119,64 @@ um poema sobre um poema
 <br> o pássaro-sentimento agora voa 
 <br> e por todo lado e deslado
 <br> seu canto marcante entoa
-<br> já o poema não declamado
-<br> esse... esse ainda é aguardado
+<br> já o poema não declamado...
+<br> esse ainda é aguardado
 </span>
 <br>
 <br>
 
+<hr>
+<span style="font-size:14px;font-weight:lighter">
+<strong>tempo e encontro</strong>
+<br> 
+<br> o dia e a noite convidam a dançar
+<br> mas os ponteiros do relógio são espectadores
+<br> invisíveis, presentes; categóricos ou dissimulados
+<br> 
+<br> há um fascínio, desejo de controlar
+<br> mas em meio à espreita – sorrateira
+<br> é a passagem ad aeternum que atropela
+<br> 
+<br> feito água e ar, as mãos não podem agarrar
+<br> fechar os olhos e correr – para nunca alcançar
+<br> fechar os olhos para esquecer – e nunca para trás deixar
+<br> 
+<br> mas nesse ciclo manifesto, aparentemente certo
+<br> há ali um elemento que escapa
+<br> e delicadamente faz o tempo titubear:
+<br> 
+<br> perceber-se diante de alguém
+<br> um encontro – sem aviso
+<br> 
+<br> dois pares de braços em um enlace
+<!-- <br> mergulho nos olhos que te encaram -->
+<br> conversa calada pela lua iluminada
+<br> paradoxo não resolvido, resolvido
+<br> 
+<br> e nesta fração de segundo eterna
+<br> o cônscio instante hipnotizante:
+<br> momentos de uma nova dança
+<br> 
+<br> entre tempo e encontro
+</span>
+<br>
+<br>
+
+<hr>
+<span style="font-size:14px;font-weight:lighter"> 
+dança
+<br> mãos que reconheço
+<br> como suas
+<br> – serão minhas?
+<br> imersas na escuridão
+<br> reveladas no preciso espaço:
+<br> o que a luz escolhe
+<br> para me provocar
+</span>
+<br>
+<br>
+
+<!-- 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
 o dia e a noite convidam a dançar
@@ -159,17 +211,43 @@ o dia e a noite convidam a dançar
 </span>
 <br>
 <br>
+ 
+ 
 
-<hr>
-<span style="font-size:14px;font-weight:lighter"> 
-dança
-<br> mãos que reconheço
-<br> como suas
-<br> – serão minhas?
-<br> imersas na escuridão
-<br> reveladas no preciso espaço:
-<br> o que a luz escolhe
-<br> para me provocar
+ <hr>
+<span style="font-size:14px;font-weight:lighter">
+<strong>tempo e encontro</strong>
+<br>
+<br> o dia e a noite convidam a dançar
+<br> mas os ponteiros do relógio são espectadores
+<br> invisíveis, presentes. categóricos ou dissimulados
+<br>
+<br> há um fascínio, desejo de controlar
+<br> mas em meio à espreita – sorrateira
+<br> é a passagem ad aeternum que atropela
+<br>
+<br> feito água e ar, as mãos não podem agarrar
+<br> fechar os olhos e correr – para nunca alcançar
+<br> fechar os olhos para esquecer – e nunca para trás deixar
+<br>
+<br> mas nesse ciclo manifesto, aparentemente certo
+<br> há ali um elemento que escapa
+<br> e delicadamente faz o tempo titubear:
+<br>
+<br> perceber-se diante de alguém
+<br> um encontro 
+<br> sem aviso
+<br>
+<br> dois pares de braços em um enlace
+<br> mergulho nos olhos que te encaram
+<br> conversa calada pela lua iluminada
+<br> paradoxo não resolvido, resolvido
+<br>
+<br> e nesta fração de segundo eterna
+<br> o cônscio instante hipnotizante:
+<br> momentos da dança
+<br> entre tempo e encontro
 </span>
 <br>
 <br>
+ -->

@@ -28,7 +28,7 @@ opening this door is still,
 <br> to materialize myself amongst those characters,
 <br> which I was, which they were.
 <br> to take part in those conversations,
-<br> those dances;
+<br> those dances,
 <br> those gazes
 <br> <span style="font-size:12px">(2017) </span>
 <br>

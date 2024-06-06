@@ -32,10 +32,10 @@ social: true  # includes social icons at the bottom of the page
 <!-- <hr> -->
 <hr>
 <span style="font-size:15px;font-weight:lighter"> 
-hi, there – I'm Ana! // olá – eu sou a Ana!
+<br> hi, there – I'm Ana! &ensp; // &ensp; olá – eu sou a Ana!
 
 <span style="font-size:15px;font-weight:lighter"> 
-the idea of creating this website came about as a coding exercise – I wanted to learn a bit about GitHub – and I ended up designing it to include my resume and things that interest me (in a fairly random fashion): reflections in Portuguese and English, pictures, references, whatnots
+the idea of creating this website came about as a coding exercise (wanted to learn a bit about github) and I ended up designing it to include my resume and things that interest me – in a fairly random fashion: <br>reflections in Portuguese and English, pictures, references, whatnots
 
 
 <!-- <span style="font-size:14px;font-weight:lighter">  

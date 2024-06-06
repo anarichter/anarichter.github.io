@@ -24,7 +24,6 @@ tags: português
 # 'evapora e vai embora'
 
 # 'Saída, se havia, não há mais'
-# saída se a via não há mais
 # saída se havia não a vê mais
 # saída se a via não a vê mais
 
@@ -65,7 +64,8 @@ abrir a porta é ainda,
 <br> materializar-me em meio àqueles personagens
 <br> que fui, que eles foram.
 <br> participar daquelas conversas,
-<br> daquelas danças;
+<br> daquelas danças,
+<br> daquela fumaça;
 <br> aqueles olhares
 <br> <span style="font-size:12px">(2017) </span>
 <br>
@@ -101,7 +101,7 @@ sunrise or sunset – the way it shines, sunshine – it's sunrise
 « uma coisa que estava aqui e não está mais ».
 <br> na época, eu não entendia; mas agora posso claramente sentir isso.
 <br> diversas coisas vem e vão, a maioria nos escapa aos olhos, algumas ao coração. há aquelas que se perdem no baú de memórias... as que ficam, de pequenos detalhes a paisagens e cenas mais intensas, conectam-se em um todo, por vezes confuso, da experiência. confuso pois as emoções são diversas e desafiam a lógica de um tempo linear ao brincar com a mente.
-<br> de repente, sou em quem estava aqui e não está mais. para o ambiente pouca diferença faz; é a interação dos elementos presentes naquele exato segundo que o constrói e formam sua verdade - constantemente mutável, mas sempre verdade. o gosto da não-mais-presença é amargo. é uma ruptura abrupta, mesmo que prevista e antecipada por uma pré-nostalgia.
+<br> de repente, sou em quem estava aqui e não está mais. para o ambiente pouca diferença faz; é a interação dos elementos presentes naquele exato segundo que o constrói e formam sua verdade – constantemente mutável, mas sempre verdade. o gosto da não-mais-presença é amargo. é uma ruptura abrupta, mesmo que prevista e antecipada por uma pré-nostalgia.
 <br> contraditória nostalgia.
 <br> <span style="font-size:12px">(2015) </span>
 <div>
