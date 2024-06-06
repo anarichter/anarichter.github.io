@@ -2,7 +2,7 @@
 layout: post
 title: a impressão de um olhar
 date:   2024-02-01
-description: (a aproximação eu podia sentir) #(&ensp;)
+description: a aproximação eu podia sentir #(&ensp;)
 tags: português
 # categories: 
 
@@ -29,7 +29,7 @@ tags: português
 <span style="font-size:14px;font-weight:lighter"> 
 <br> E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... Mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte.
 <br> 
-<br> O olhar em si, não: ele não era familiar, e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). 
+<br> O olhar em si, não: ele não era familiar e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). 
 <br> 
 <br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>
