@@ -27,7 +27,7 @@ tags: português
 <hr>
 <span style="font-size:12px;font-weight:bolder">II.</span>
 <span style="font-size:14px;font-weight:lighter"> 
-<br> E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... Mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte.
+<br> E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte.
 <br> 
 <br> O olhar em si, não: ele não era familiar e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). 
 <br> 
@@ -42,7 +42,7 @@ tags: português
 <span style="font-size:14px;font-weight:lighter"> 
 <br> A epifania. 
 <br> 
-<br> Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... Além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania.
+<br> Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania.
 <br>
 <br> No momento em que compreendi, finalmente, a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. Um susto. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso. 
 <br>
