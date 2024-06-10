@@ -33,7 +33,7 @@ tags: português
 <br> 
 <br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
 <br>
-<br> No entanto, eu ainda não podia ver, e seguia intrigada. Tal que, mesmo quando não, esse mistério ocupava-me sem parar.
+<br> No entanto, eu ainda não podia ver, e seguia intrigada. Tal que, mesmo quando não, esse mistério ocupava-me incessantemente.
 </span>
 <br>
 <br>
