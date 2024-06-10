@@ -197,6 +197,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-tabs # added 10.jun.24 TABS
 
 # Sitemap settings
 defaults:
