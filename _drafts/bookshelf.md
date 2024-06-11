@@ -259,6 +259,85 @@ tabs: true
 
 {% tab shelf movies %}
 
+<a href="https://www.imdb.com/title/tt1560139/">Boy (2010)</a> <br>
+<a href="https://www.imdb.com/title/tt27503384/">Perfect Days (2023)</a> (how could i not?)<br>
+<a href="https://www.imdb.com/title/tt8991268/">Honeyland (2019)</a> <br>
+<a href="https://www.imdb.com/title/tt0247380/">Les Glaneurs et la Glaneuse (2000)</a> <br>
+<a href="https://www.imdb.com/title/tt0040522/">Bicycle Thieves (1948)</a> <br>
+<a href="https://www.imdb.com/title/tt0086022/">Nostalghia (1983)</a> <br>
+<a href="https://www.imdb.com/title/tt9581076/">So Long, My Son (2019)</a> <br>
+<a href="https://www.imdb.com/title/tt9138170/">Limbo (2020)</a> <br>
+<a href="https://www.imdb.com/title/tt5859238/">Lucky (2017)</a> <br>
+<a href="https://www.imdb.com/title/tt19770238/">Aftersun (2022)</a> <br>
+<a href="https://www.imdb.com/title/tt9660502/">Close (2022)</a> <br>
+<a href="https://www.imdb.com/title/tt10986222/">C'mon C'mon (2021)</a> <br>
+<a href="https://www.imdb.com/title/tt14034966/">Wheel of Fortune and Fantasy (Gûzen to sôzô) (2021)</a> <br>
+(one of my favourites i can remember: <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> – pesado)
+
+
+<div id="gr_custom_widget_1697127983">
+          <div class="gr_custom_container_1697127983">
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="Boy" rel="nofollow" href="https://www.imdb.com/title/tt1560139/"><img alt="Boy" border="0" src="https://www.imdb.com/title/tt1560139/mediaviewer/rm4038242560/" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.imdb.com/title/tt1560139/">Boy</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            (2010)
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="The Fall" rel="nofollow" href="https://www.goodreads.com/book/show/179926509-the-fall"><img alt="The Fall" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687366722l/179926509._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/179926509-the-fall">The Fall</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/957894.Albert_Camus">Albert Camus</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="Os Anos de Aprendizado de Wilhelm Meister" rel="nofollow" href="https://www.goodreads.com/book/show/17661570-os-anos-de-aprendizado-de-wilhelm-meister"><img alt="Os Anos de Aprendizado de Wilhelm Meister" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363703284l/17661570._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/17661570-os-anos-de-aprendizado-de-wilhelm-meister">Os Anos de Aprendizado de Wilhelm Meister</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe">Johann Wolfgang von Goethe</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="Enterrem meu coração na curva do rio" rel="nofollow" href="https://www.goodreads.com/book/show/45870537-enterrem-meu-cora-o-na-curva-do-rio"><img alt="Enterrem meu coração na curva do rio" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558133568l/45870537._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/45870537-enterrem-meu-cora-o-na-curva-do-rio">Enterrem meu coração na curva do rio</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/43443.Dee_Brown">Dee Brown</a>
+          </div>
+      <!-- <div class="gr_custom_each_container_1697127983"> -->
+        <span style="font-size:13px;font-weight:lighter;color:#37474F"> for the record, one of my all-time favourites:</span>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="Grande Sertão: Veredas" rel="nofollow" href="https://www.goodreads.com/book/show/27866524-grande-sert-o"><img alt="Grande Sertão: Veredas" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448037977l/27866524._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/27866524-grande-sert-o">Grande Sertão: Veredas</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/95937.Jo_o_Guimar_es_Rosa">João Guimarães Rosa</a>
+          </div>
+      </div>
+      <!-- </div> -->
+</div>
+<br>
+<br>
+
 <br>
 <span style="font-size:14px;font-weight:lighter">– what i most enjoyed watching lately
 <br>
