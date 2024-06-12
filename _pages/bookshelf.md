@@ -314,8 +314,8 @@ https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classi
 <span style="font-size:14px;font-weight:lighter">then, what i most enjoyed watching lately:
 <br>
 <a href="https://www.imdb.com/title/tt1560139/">• Boy (2010)</a> <br>
-<a href="https://www.imdb.com/title/tt27503384/">• Perfect Days (2023)</a> <span style="font-size:13px;font-weight:lighter"> (how could i not?)</span><br>
 <a href="https://www.imdb.com/title/tt14849194/">• The Holdovers (2023)</a> <br>
+<a href="https://www.imdb.com/title/tt27503384/">• Perfect Days (2023)</a> <span style="font-size:13px;font-weight:lighter"> (how could i not?)</span><br>
 <a href="https://www.imdb.com/title/tt8991268/">• Honeyland (2019)</a> <br>
 <a href="https://www.imdb.com/title/tt0247380/">• Les Glaneurs et la Glaneuse (2000)</a> <br>
 <a href="https://www.imdb.com/title/tt0040522/">• Bicycle Thieves (1948)</a> <br>
@@ -326,8 +326,8 @@ https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classi
 <a href="https://www.imdb.com/title/tt19770238/">• Aftersun (2022)</a> <br>
 <a href="https://www.imdb.com/title/tt9660502/">• Close (2022)</a> <br>
 <a href="https://www.imdb.com/title/tt10986222/">• C'mon C'mon (2021)</a> <br>
-<a href="https://www.imdb.com/title/tt14034966/">• Wheel of Fortune and Fantasy (Gûzen to sôzô) (2021)</a> <br>
-one of my favourites i can remember: <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> (pesado)
+<a href="https://www.imdb.com/title/tt14034966/">• Wheel of Fortune and Fantasy (Gûzen to sôzô) (2021)</a> <!-- <br> -->
+<!-- one of my favourites i can remember: <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> (pesado) -->
 <br>
 <br>
 <br>
