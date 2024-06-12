@@ -9,7 +9,7 @@ tags: english
 ---
 
 <span style="font-size:14px;font-weight:lighter">
-<strong>02.08.</strong> I remember the date because I remember noticing that guy’s intention to ask, <i>What day is it again?</i> without saying a word, just perceiving it from my peripheral vision. That’s how unwelcome his sudden presence in the room, sitting right across me, was (at least it wouldn’t last long – but anyway, who let him in?). When he finally decided to disturb me, and he did, all <i>I</i> did, besides getting annoyed, was a brief detour from my own world (filled with genuine problems, as we shall see) barely acknowledging him: <i>2 August</i>.
+<strong>02.08.</strong> I remember the date because I remember noticing that guy’s intention to ask, <i>What day is it again?</i> without saying a word, just perceiving it from my peripheral vision. That’s how unwelcome his sudden presence in the room, sitting right across me, was – at least it wouldn’t last long – but anyway, who let him in? When he finally decided to disturb me, and he did, all <i>I</i> did, besides getting annoyed, was a brief detour from my own world (filled with genuine problems, as we shall see) barely acknowledging him: <i>2 August</i>.
 </span>
 
 <br>
