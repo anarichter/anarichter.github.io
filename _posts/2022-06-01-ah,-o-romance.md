@@ -22,7 +22,7 @@ se o tempo passou
 <br> o seu olhar não me falou
 <br> será que fiquei parada
 <br> enquanto o mundo girou?
-<br> ao redor, em fast-forward,
+<br> ao redor, em fast-forward
 <br> as cores mudaram
 <br> e os ruídos silenciaram
 <br> tudo se passou
