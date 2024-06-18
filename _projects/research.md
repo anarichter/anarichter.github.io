@@ -1,21 +1,22 @@
 ---
 layout: distill
 title: for the scientific community
-description: • international migration • formal membership • feeling at home
+description: international migration • formal membership • feeling at home
 img: assets/img/card-donaldo.jpg
 importance: 4
 # category: work
 
 toc:
-  - name: • <s>Citizenship studies</s>
-  - name: • Dual citizenship
-  - name: • Belonging
-  - name: • <s>Empirical study</s>
-  - name: • Discussion
+  - name: • Citizenship studies
+  - name: • <b>Dual citizenship</b>
+  - name: • <b>Belonging</b>
+  - name: • Empirical study
+  - name: • <b>Discussion</b>
 
 
 ---
 <!-- <span style="font-size:14px;color:var(--global-text-color-light)"><b>(international immigration • formal membership • feeling at home)</b></span> -->
+<span style="font-size:13px;color:var(--global-text-color-light)">– just a few excerpts i had most fun writing –</span>
 
 ### Dual Citizenship
 
