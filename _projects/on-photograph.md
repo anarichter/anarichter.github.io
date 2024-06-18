@@ -1,7 +1,7 @@
 ---
 layout: page
 title: « ... on photograph »
-description: scratches on photoprints.
+description: scratches or typewriter on photoprints
 img: assets/img/card-2.jpg
 importance: 3
 # category: work 
