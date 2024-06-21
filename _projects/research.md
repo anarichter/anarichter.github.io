@@ -7,16 +7,16 @@ importance: 4
 # category: work
 
 toc:
-  - name: • Citizenship studies
-  - name: • <b>Dual citizenship</b>
-  - name: • <b>Belonging</b>
-  - name: • Empirical study
-  - name: • <b>Discussion</b>
+  - name: <s>Citizenship studies</s>
+  - name: Dual citizenship
+  - name: Belonging
+  - name: <s>Empirical study</s>
+  - name: Discussion
 
 
 ---
 <!-- <span style="font-size:14px;color:var(--global-text-color-light)"><b>(international immigration • formal membership • feeling at home)</b></span> -->
-<span style="font-size:13px;color:var(--global-text-color-light)">– just a few excerpts i had most fun writing –</span>
+<span style="font-size:13px;color:var(--global-text-color-light)">Just a few excerpts from my thesis that i had most fun writing:</span>
 
 ### Dual Citizenship
 
