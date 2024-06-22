@@ -1,4 +1,5 @@
 <!-- _includes/projects.html -->
+<!-- loading="eager" added 22.jun.2024 -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
   {% if project.redirect -%}
@@ -9,6 +10,7 @@
       <div class="card hoverable">
         {%- if project.img %}
         {%- include figure.html
+          loading="eager" 
           path=project.img
           alt="project thumbnail" -%}
         {%- endif %}

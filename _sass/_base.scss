@@ -804,3 +804,10 @@ progress {
   /* customize your rating stars here */
   float: right;
 }
+
+// Advanced image viewers #2132 https://github.com/alshedivat/al-folio/pull/2132/files
+swiper-container {
+  --swiper-navigation-color: var(--global-theme-color);
+  --swiper-pagination-color: var(--global-theme-color);
+  --swiper-pagination-bullet-inactive-color: var(--global-text-color);
+}

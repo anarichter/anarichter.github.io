@@ -1,0 +1,14 @@
+<!-- added 22.jun.22 Advanced image viewers #2132 https://github.com/alshedivat/al-folio/pull/2132/files -->
+
+{% if page.images %}
+   {% if page.images.compare %}
+     <script src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8.0/dist/index.min.js"></script>
+   {% endif %}
+   {% if page.images.slider %}
+     <script
+       src="https://cdn.jsdelivr.net/npm/swiper@11.0.5/swiper-element-bundle.min.js"
+       integrity="sha256-BPrwikijIybg9OQC5SYFFqhBjERYOn97tCureFgYH1E="
+       crossorigin="anonymous"
+     ></script>
+   {% endif %}
+ {% endif %}

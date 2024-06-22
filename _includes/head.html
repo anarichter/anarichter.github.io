@@ -1,6 +1,8 @@
     <!-- Metadata, OpenGraph and Schema.org -->
     {% include metadata.html %}
 
+    <!-- <link href="https://cdn.jsdelivr.net/npm/swiper@11.0.5/swiper-bundle.min.css" rel="stylesheet" integrity="sha256-yUoNxsvX+Vo8Trj3lZ/Y5ZBf8HlBFsB6Xwm7rH75/9E=" crossorigin="anonymous"> -->
+
      <!-- [*Added* by Ana: Favicon] -->
      <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon_io/apple-touch-icon.png">
      <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon_io/favicon-32x32.png">
@@ -39,3 +41,14 @@
     <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
     {% endif %}
+
+<!-- Image comparison slider -->
+<!-- added 22.jun.22 Advanced image viewers #2132 https://github.com/alshedivat/al-folio/pull/2132/files  
+{% if page.images %}
+{% if page.images.compare %}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8.0/dist/styles.min.css">
+{% endif %}
+{% if page.images.slider %}
+  <link href="https://cdn.jsdelivr.net/npm/swiper@11.0.5/swiper-bundle.min.css" rel="stylesheet" integrity="sha256-yUoNxsvX+Vo8Trj3lZ/Y5ZBf8HlBFsB6Xwm7rH75/9E=" crossorigin="anonymous">
+{% endif %}
+{% endif %} -->

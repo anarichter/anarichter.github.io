@@ -317,6 +317,7 @@ https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classi
 <a href="https://www.imdb.com/title/tt14849194/">• The Holdovers (2023)</a> <br>
 <a href="https://www.imdb.com/title/tt27503384/">• Perfect Days (2023)</a> <span style="font-size:13px;font-weight:lighter"> (how could i not?)</span><br>
 <a href="https://www.imdb.com/title/tt8991268/">• Honeyland (2019)</a> <br>
+<a href="https://www.imdb.com/title/tt11380884/">• Farewell Amor (2020)</a><br>
 <a href="https://www.imdb.com/title/tt0247380/">• Les Glaneurs et la Glaneuse (2000)</a> <br>
 <a href="https://www.imdb.com/title/tt0040522/">• Bicycle Thieves (1948)</a> <br>
 <a href="https://www.imdb.com/title/tt0086022/">• Nostalghia (1983)</a> <br>
