@@ -22,7 +22,6 @@ images:
   <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f23724544.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 <br>
-<br>
 <hr>
 <br>
 <br>
@@ -53,7 +52,6 @@ images:
 </div>
 
 <br>
-<br>
 <hr>
 <br>
 <br>
@@ -77,7 +75,6 @@ images:
   </div>
 </div>
 
-<br>
 <br>
 <hr>
 <br>
