@@ -14,6 +14,19 @@ images:
 
 <br>
 
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_2968.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_7337.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_9329.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f20370240.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f23724544.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+<br>
+<br>
+<hr>
+<br>
+<br>
+
 <div class="container">
   <div class="row">
       <div class="col-sm mt-3 mt-md-0">
