@@ -15,11 +15,12 @@ images:
 <br>
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_2968.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_7337.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_9329.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f20370240.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f23724544.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_2968-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_7337-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f57264320-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_9329-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f20370240-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f23724544-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 <br>
 <hr>
@@ -29,10 +30,10 @@ images:
 <div class="container">
   <div class="row">
       <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/boy.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/boyz-h.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/girlfriends.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/girls-h.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
   </div>
 </div>
@@ -40,10 +41,10 @@ images:
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1-portrait.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=calse %}
+        {% include figure.html path="assets/img/kids-h.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=calse %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/testimony.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=false %}
+        {% include figure.html path="assets/img/testimony-h.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/my-friend.jpg" class="img-fluid rounded z-depth-1" zoomable=false zoomable=false %}
@@ -59,10 +60,10 @@ images:
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/both-workers.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/both-workers-2-h.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/women.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/women-h.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
   </div>
 </div>

@@ -810,4 +810,9 @@ swiper-container {
   --swiper-navigation-color: var(--global-theme-color);
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
+//  --swiper-pagination-bullet-size: 8px;
+  --swiper-navigation-size: 32px;
+  --swiper-navigation-top-offset: 50%;
+  --swiper-navigation-sides-offset: 6px;
+  --swiper-pagination-bottom: 2px;
 }
