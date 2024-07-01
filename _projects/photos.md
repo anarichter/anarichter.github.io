@@ -15,12 +15,12 @@ images:
 <br>
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_2968-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_7337-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f57264320-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/DSC_9329-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f20370240-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/gallery/f23724544-h.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x2/DSC_2968.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x2/DSC_7337.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x2/f57264320.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x2/DSC_9329.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x2/f20370240.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x2/f23724544.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 <br>
 <hr>
