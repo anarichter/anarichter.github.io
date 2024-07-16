@@ -3,7 +3,7 @@ layout: distill
 title: for the scientific community
 description: international migration • formal membership • feeling at home
 img: assets/img/card-donaldo.jpg
-importance: 4
+importance: 3
 # category: work
 
 toc:
@@ -16,7 +16,7 @@ toc:
 
 ---
 <!-- <span style="font-size:14px;color:var(--global-text-color-light)"><b>(international immigration • formal membership • feeling at home)</b></span> -->
-<span style="font-size:13px;color:var(--global-text-color-light)">Just a few excerpts from my thesis that i had most fun writing:</span>
+<span style="font-size:13px;color:var(--global-text-color-light)">a few excerpts from my thesis that i had most fun writing</span>
 
 ### Dual Citizenship
 

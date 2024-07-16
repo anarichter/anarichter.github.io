@@ -32,16 +32,10 @@ social: true  # includes social icons at the bottom of the page
 <!-- <hr> -->
 <hr>
 <span style="font-size:15px;font-weight:lighter"> 
-<br> hi, there – I'm Ana! &emsp; &emsp; olá – eu sou a Ana!
+<br> hi, there – I'm Ana! &emsp; <br> olá – eu sou a Ana!
 
 <span style="font-size:15px;font-weight:lighter"> 
-the idea of creating this website came about as a coding exercise (wanted to learn a bit about github) and I ended up designing it to include my resume and things that interest me – in a fairly random fashion: notes in English and Portuguese • references • pictures • whatnots
-
-<!-- <span style="font-size:14px;font-weight:lighter">  
-A ideia de criar este site surgiu como um exercício de ti (queria aprender um pouco sobre o GitHub) e acabei projetando-o para incluir meu currículo e coisas que me interessam: reflexões, fotos, referências, tudo o mais-->
+the idea of creating this website came about as a coding exercise (wanted to learn a bit about GitHub) and I ended up designing it to include my resume and things that interest me (progressively/in a fairly random fashion): notes in <a href="/blog/tag/english/">English</a> and <a href="/blog/tag/português">Portuguese</a> • <a href="/bookshelf">references</a> • <a href="/cards/photos">pictures</a> • whatnots
 
 <!-- <span style="font-size:15px;font-weight:lighter"> 
-Creating this website came as a coding exercise (to start learning a little about GitHub) and I ended up designing it to include my resume and things that interest me, such as reflections, pictures, references...
-
-<span style="font-size:15px;font-weight:lighter">
-But this is a page under construction, so please, bear with me :-)-->
+But this is a page under construction, so please, bear with me :-) -->

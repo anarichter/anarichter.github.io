@@ -1,9 +1,9 @@
 ---
 layout: page
-title: letters
+title: letters #<br> &ensp;
 description: to myself, strangers, anyone, nobody.
 img: assets/img/letter-2.jpg
-importance: 1
+importance: 2
 # category: work
 ---
 

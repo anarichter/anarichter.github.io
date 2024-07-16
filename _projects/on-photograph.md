@@ -3,7 +3,7 @@ layout: page
 title: « ... on photograph »
 description: scratches / typewriter on photoprints
 img: assets/img/card-2.jpg
-importance: 3
+importance: 4
 # category: work 
 #<br>
 #<div class="container">

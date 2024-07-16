@@ -1,9 +1,9 @@
 ---
 layout: page
-title: photos
+title: photos #<br> &ensp;
 description: to myself, strangers, anyone, nobody.
 img: assets/img/birds.jpg
-importance: 2
+importance: 1
 # category: fun
 #    <div class="col-sm-4 mt-3 mt-md-0">
 #        {% include figure.html path="assets/img/children.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
@@ -15,9 +15,9 @@ images:
 <br>
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x5/DSC_2968.jpg" class="img-fluid rounded z-depth-0" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x5/DSC_7337.jpg" class="img-fluid rounded z-depth-0" %}</swiper-slide>
-  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x5/f57264320.jpg" class="img-fluid rounded z-depth-0" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x5/DSC_2968.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x5/DSC_7337.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x5/f57264320.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x5/DSC_9329.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x5/f20370240.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.html loading="eager" path="assets/img/3x5/f23724544.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -25,7 +25,7 @@ images:
 <br>
 <hr>
 <br>
-<br>
+<!-- <br> -->
 
 <div class="container">
   <div class="row">
@@ -55,7 +55,7 @@ images:
 <br>
 <hr>
 <br>
-<br>
+<!-- <br> -->
 
 <div class="container">
   <div class="row">
