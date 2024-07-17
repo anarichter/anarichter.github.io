@@ -12,7 +12,7 @@ tags: português
 <span style="font-size:14px;font-weight:lighter">
 <br> Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. 
 <br>
-<br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente minha cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que, em meu íntimo, eu sentia: era-me essencial (significaria, afinal, compreender algo de mim). 
+<br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo. Compreender aquele olhar que me sugeria algo. Algo que, em meu íntimo, eu sentia: era-me essencial (significaria, afinal, compreender algo de mim). 
 <br>
 <br> Pela diligência com que conduzi a investigação, não me espantaria se agora constatasse que também suspendia a respiração – já não lembro, ou mesmo nem percebi. Mas só pode ter sido: a concentração necessária não me concederia a prerrogativa de respirar. Respirar distrai.
 <br>
