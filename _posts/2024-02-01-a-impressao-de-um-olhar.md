@@ -44,7 +44,7 @@ tags: português
 <br> 
 <br> Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania.
 <br>
-<br> No momento em que compreendi, finalmente, a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. Um susto. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorida. Aquela verdade tinha um peso. 
+<br> No momento em que compreendi, finalmente, a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. Um susto. E uma dor igualmente vigorosa: porque a descoberta era assim, dolorosa. Aquela verdade tinha um peso. 
 <br>
 <br> Abrupto silêncio.
 <br>
