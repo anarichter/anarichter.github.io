@@ -66,7 +66,7 @@ sonho contigo
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 sinto o toque do leve corpo 
-<br> que pousa delicamente
+<br> que pousa delicadamente
 <br> na ponta do meu dedo
 <br> o laço repentino forja uma responsabilidade
 <br> e cuidadosamente
