@@ -8,18 +8,75 @@ nav_order: 3
 ---
 
 
-<!-- https://www.goodreads.com/book/show/62026012-white-nights 
-https://www.goodreads.com/book/show/54831605-a-wilderness-station
-https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classics-by-hesse-hermann-new-edition-->
+<!--
 
+https://www.goodreads.com/book/show/63690854-eu-sou-o-monstro-que-vos-fala
+Eu sou o monstro que vos fala
+Paul B. Preciado
+
+https://www.goodreads.com/book/show/26802001-o-que-loucura
+
+https://www.goodreads.com/book/show/404668.In_the_Beginning_Was_Love
+
+https://www.goodreads.com/book/show/82806783-psican-lise-do-sens-vel
+
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="" rel="nofollow" href=""><img alt="White Nights" border="0" src="" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="">White Nights</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href=""></a>
+          </div>
+      </div>
+-->
+
+<span style="font-size:14px;font-weight:lighter">(that <a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a> about how little remains from reading or watching films does resonate with me – consciously, anyway – so, starting to record the books i read on Goodreads and writing down the movies i enjoy came as a tactic to get around this).</span>
+<br>
+<br>
 <div id="gr_custom_widget_1697127983">
           <div class="gr_custom_container_1697127983">
       <div class="gr_custom_each_container_1697127983">
+      <div class="gr_custom_each_container_1697127983">
           <div class="gr_custom_book_container_1697127983">
-            <a title="White Nights (Little Clothbound Classics)" rel="nofollow" href="https://www.goodreads.com/book/show/62026012-white-nights"><img alt="White Nights" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677238743l/62026012._SY75_.jpg" /></a>
+            <a title="Dostoyevsky, or The Flood of Language (European Perspectives: A Series in Social Thought and Cultural Criticism)" rel="nofollow" href="https://www.goodreads.com/book/show/57850475-dostoyevsky-or-the-flood-of-language"><img alt="Dostoyevsky, or The Flood of Language" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622416752l/57850475._SY75_.jpg" /></a>
           </div>
           <div class="gr_custom_title_1697127983">
-            <a rel="nofollow" href="https://www.goodreads.com/book/show/62026012-white-nights">White Nights</a>
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/57850475-dostoyevsky-or-the-flood-of-language">Dostoyevsky, or The Flood of Language</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/30381.Julia_Kristeva">Julia Kristeva</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="Coisas que não quero saber" rel="nofollow" href="https://www.goodreads.com/book/show/49679291-coisas-que-n-o-quero-saber"><img alt="Coisas que não quero saber" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567459269l/49679291._SX50_SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/49679291-coisas-que-n-o-quero-saber">Coisas que não quero saber</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/147246.Deborah_Levy">Deborah Levy</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1697127983">
+          <div class="gr_custom_book_container_1697127983">
+            <a title="Ioga" rel="nofollow" href="https://www.goodreads.com/book/show/70232813-ioga"><img alt="Ioga" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671397223l/70232813._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/70232813-ioga">Ioga</a>
+          </div>
+          <div class="gr_custom_author_1697127983">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/184425.Emmanuel_Carr_re">Emmanuel Carrère</a>
+          </div>
+      </div>
+          <div class="gr_custom_book_container_1697127983">
+            <a title="White Nights" rel="nofollow" href="https://www.goodreads.com/book/show/62026012-white-nights"><img alt="White Nights" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677238743l/62026012._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_title_1697127983">
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/62026012-white-nights">White Nights (A Nasty Business, The Meek One, White Nights)</a>
           </div>
           <div class="gr_custom_author_1697127983">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/3137322.Fyodor_Dostoevsky">Fyodor Dostoevsky</a>
@@ -27,10 +84,10 @@ https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classi
       </div>
       <div class="gr_custom_each_container_1697127983">
           <div class="gr_custom_book_container_1697127983">
-            <a title="A Wilderness Station : Selected Stories, 1968 - 1994" rel="nofollow" href="https://www.goodreads.com/book/show/54831605-a-wilderness-station"><img alt="A Wilderness Station : Selected Stories, 1968 - 1994" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624782567l/54831605._SY75_.jpg" /></a>
+            <a title="A Wilderness Station: Selected Stories: 1968 - 1994" rel="nofollow" href="https://www.goodreads.com/book/show/54831605-a-wilderness-station"><img alt="Selected Stories, 1968 - 1994" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624782567l/54831605._SY75_.jpg" /></a>
           </div>
           <div class="gr_custom_title_1697127983">
-            <a rel="nofollow" href="https://www.goodreads.com/book/show/54831605-a-wilderness-station">A Wilderness Station : Selected Stories, 1968 - 1994</a>
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/54831605-a-wilderness-station">Selected Stories: 1968 - 1994</a>
           </div>
           <div class="gr_custom_author_1697127983">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/6410.Alice_Munro">Alice Munro</a>
@@ -38,10 +95,10 @@ https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classi
       </div>
       <div class="gr_custom_each_container_1697127983">
           <div class="gr_custom_book_container_1697127983">
-            <a title="The Glass Bead Game (Vintage Classics) by Hesse" rel="nofollow" href="https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classics-by-hesse-hermann-new-edition"><img alt="The Glass Bead Game (Vintage Classics) by Hesse, Hermann New Edition" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699211874l/139213348._SY75_.jpg" /></a>
+            <a title="The Glass Bead Game by Hesse" rel="nofollow" href="https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classics-by-hesse-hermann-new-edition"><img alt="The Glass Bead Game (Vintage Classics) by Hesse, Hermann New Edition" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699211874l/139213348._SY75_.jpg" /></a>
           </div>
           <div class="gr_custom_title_1697127983">
-            <a rel="nofollow" href="https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classics-by-hesse-hermann-new-edition">The Glass Bead Game (Vintage Classics)</a>
+            <a rel="nofollow" href="https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classics-by-hesse-hermann-new-edition">The Glass Bead Game</a>
           </div>
           <div class="gr_custom_author_1697127983">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/1113469.Hermann_Hesse">Hermann Hesse</a>
@@ -282,7 +339,7 @@ https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classi
       </div>
       <!-- </div> -->
 </div>
-<br> <span style="font-size:14px;font-weight:lighter">for the record, one of my all-time favourites: <a href="https://www.goodreads.com/book/show/27866524-grande-sert-o">Grande Sertão: Veredas</a></span><span style="font-size:13px;font-weight:lighter"> by <a href="https://www.goodreads.com/author/show/95937.Jo_o_Guimar_es_Rosa">João Guimarães Rosa</a><br></span>
+<span style="font-size:14px;font-weight:lighter">let it be known, one of my all-time favourites: <a href="https://www.goodreads.com/book/show/27866524-grande-sert-o">Grande Sertão: Veredas</a></span><span style="font-size:13px;font-weight:lighter"> by <a href="https://www.goodreads.com/author/show/95937.Jo_o_Guimar_es_Rosa">João Guimarães Rosa</a><br></span>
 <br>
 
 <!-- <div id="gr_custom_widget_1697127983">
@@ -313,14 +370,15 @@ https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classi
 </div> -->
 <span style="font-size:14px;font-weight:lighter">then, what i most enjoyed watching lately:
 <br>
+<a href="https://www.imdb.com/title/tt0056119/">• La jetée (1962)</a> <br>
 <a href="https://www.imdb.com/title/tt1560139/">• Boy (2010)</a> <br>
-<a href="https://www.imdb.com/title/tt14849194/">• The Holdovers (2023)</a> <br>
 <a href="https://www.imdb.com/title/tt27503384/">• Perfect Days (2023)</a> <span style="font-size:13px;font-weight:lighter"> (how could i not?)</span><br>
+<a href="https://www.imdb.com/title/tt14849194/">• The Holdovers (2023)</a> <br>
 <a href="https://www.imdb.com/title/tt8991268/">• Honeyland (2019)</a> <br>
-<a href="https://www.imdb.com/title/tt11380884/">• Farewell Amor (2020)</a><br>
 <a href="https://www.imdb.com/title/tt0247380/">• Les Glaneurs et la Glaneuse (2000)</a> <br>
 <a href="https://www.imdb.com/title/tt0040522/">• Bicycle Thieves (1948)</a> <br>
 <a href="https://www.imdb.com/title/tt0086022/">• Nostalghia (1983)</a> <br>
+<a href="https://www.imdb.com/title/tt11380884/">• Farewell Amor (2020)</a><br>
 <a href="https://www.imdb.com/title/tt9581076/">• So Long, My Son (2019)</a> <br>
 <a href="https://www.imdb.com/title/tt9138170/">• Limbo (2020)</a> <br>
 <a href="https://www.imdb.com/title/tt5859238/">• Lucky (2017)</a> <br>
@@ -329,10 +387,6 @@ https://www.goodreads.com/book/show/139213348-the-glass-bead-game-vintage-classi
 <a href="https://www.imdb.com/title/tt10986222/">• C'mon C'mon (2021)</a> <br>
 <a href="https://www.imdb.com/title/tt14034966/">• Wheel of Fortune and Fantasy (Gûzen to sôzô) (2021)</a> <!-- <br> -->
 <!-- one of my favourites i can remember: <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> (pesado) -->
-<br>
-<br>
-<br>
-... but you know, that <a href="https://www.instagram.com/p/Cw_HcoLJxCJ/">« quote »</a> about how little remains from reading or watching films does resonate with me (consciously, anyway – starting to record the books i read on Goodreads came as a tactic to get around this).
 <br>
 <br>
 <br>
