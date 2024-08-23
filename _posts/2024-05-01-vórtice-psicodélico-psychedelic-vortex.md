@@ -2,7 +2,7 @@
 layout: post
 title: vórtice psicodélico • psychedelic vortex
 date:   2024-05-01
-description: tw <img src="/assets/img/vortex.jpg" class="image-vortex"> #&ensp;
+description: (tw) <img src="/assets/img/vortex.jpg" class="image-vortex"> #&ensp;
 tags: english português
 # categories: 
 tabs: true
