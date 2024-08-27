@@ -175,6 +175,23 @@ dança
 <br>
 <br>
 
+<hr>
+<span style="font-size:14px;font-weight:lighter"> 
+(braços que se tocaram)
+<br> 
+<br> lado-a-lado
+<br> braços que se tocam
+<br> que tocam
+<br> toque que arrepia 
+<br> a pele, eriça
+<br> os pelos
+<br> braços que se tocam
+<br> e tocam
+<br> o coração, na boca
+<br> derrete
+</span>
+<br>
+<br>
 
 <!-- 
 <hr>

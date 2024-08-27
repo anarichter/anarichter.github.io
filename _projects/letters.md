@@ -30,10 +30,18 @@ importance: 2
 ---
 
 
-<br>
+<span style="font-size:13px;font-weight:lighter">[en]</span>
 <div class="row">
     <div class="col-sm">
         {% include figure.html path="assets/img/alecrim-copy.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+    </div>
+</div>
+
+<br>
+<span style="font-size:13px;font-weight:lighter">[pt]</span>
+<div class="row">
+    <div class="col-sm">
+        {% include figure.html path="assets/img/alecrim.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
 

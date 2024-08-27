@@ -10,9 +10,9 @@ permalink: /
 
 profile:
   align: right
-  image: profile-ana.jpg
+  image: profile-picture.jpg #profile-ana.jpg
   image_circular: false # crops the image to make it circular
-  address: look angry, but i'm super nice <br> &ensp;
+  address: #look angry, but i'm super nice <br> &ensp;
     # <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items

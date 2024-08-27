@@ -11,8 +11,6 @@
       #value: English, Portuguese, German [, je ne parle pas français mais je comprends un peu]
 
 
-
-
 - title: Education
   type: time_table
   contents:
@@ -42,7 +40,20 @@
         #- Economics
         #- Description 2.
 
-- title: Professional experience<span style="font-size:17px;font-weight:lighter"> *</span>
+- title: Academic interests
+  type: list
+  contents:
+    - Citizenship studies / belonging vis-à-vis international immigration / sociological issues around questions of identity.
+    #intersection of political science and sociology 
+    #    issues around questions of identity 
+    #citizenship and belonging vis-à-vis immigration and global mobility #<br>(political science, political sociology, ethnography)
+
+- title: Professional interests
+  type: list
+  contents:
+    - I find projects promoting societal transformation through collaboration fascinating! #<br>(political science, political sociology, ethnography)
+
+- title: Professional experience<span style="font-size:16px;font-weight:lighter"> *</span>
   type: time_table
   contents:
     - title: Research Assistant
@@ -82,12 +93,9 @@
 
     # [*Adding "footnote" 31.10.2022]
     - title:
-      institution: <span style="font-size:13px;font-weight:lighter"> * most recent </span>
+      institution: <span style="font-size:12px;font-weight:lighter"> * most recent </span>
 
-- title: Academic interests
-  type: list
-  contents:
-    - Citizenship and belonging vis-à-vis immigration and global mobility #<br>(political science, political sociology, ethnography)
+
 
 #- title: Open Source Projects
   #type: time_table
