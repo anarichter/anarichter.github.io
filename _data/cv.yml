@@ -15,9 +15,9 @@
   type: time_table
   contents:
     - title: M.A. Staatswissenschaften – Governance and Public Policy
-      institution: University of Passau, Passau, Germany <span style="font-size:14px;font-weight:lighter">(summa cum laude)</span> #<br> <em> </em> #<br> DAAD's Helmut-Schmidt-Programme Scholarship Holder
+      institution: University of Passau, Germany #<span style="font-size:14px;font-weight:lighter"></span> #<br> <em> </em> #<br> DAAD's Helmut-Schmidt-Programme Scholarship Holder
       year: 2022
-      #description: Thesis&#58; Dual citizenship and the question of belonging&#58; the perspectives of dual citizens living in Europe
+      description: thesis written within the Chair of Sociology (summa cum laude) #Thesis&#58; Dual citizenship and the question of belonging&#58; the perspectives of dual citizens living in Europe
         #- 
         #- Description 2.
         #- title: Description 3.
@@ -27,44 +27,31 @@
             #- MA thesis "Dual citizenship and the question of belonging" (grade 1,0)
 
     - title: Post-graduate certificate Public Administration
-      institution: State University of Ponta Grossa, Ponta Grossa, Brazil
+      institution: State University of Ponta Grossa, Brazil
       year: 2019
       description:
         #- 
         #- Description 2.
 
     - title: B.Sc. Economic Sciences
-      institution: Federal University of Parana, Curitiba, Brazil
+      institution: Federal University of Parana, Brazil
       year: 2014
-      description:
+      description: 
         #- Economics
         #- Description 2.
-
-- title: Academic interests
-  type: list
-  contents:
-    - Citizenship studies / belonging vis-à-vis international immigration / sociological issues around questions of identity.
-    #intersection of political science and sociology 
-    #    issues around questions of identity 
-    #citizenship and belonging vis-à-vis immigration and global mobility #<br>(political science, political sociology, ethnography)
-
-- title: Professional interests
-  type: list
-  contents:
-    - I find projects promoting societal transformation through collaboration fascinating! #<br>(political science, political sociology, ethnography)
 
 - title: Professional experience<span style="font-size:16px;font-weight:lighter"> *</span>
   type: time_table
   contents:
     - title: Research Assistant
-      institution: University of Passau, Passau, Germany
+      institution: University of Passau, Germany
       year: 2021-2022
       #description:
         #- Description 1.
         #- Description 2.
         
     - title: Helmut-Schmidt-Programme Scholarship Holder
-      institution: DAAD, Munich/Passau, Germany
+      institution: DAAD Munich/Passau, Germany
       year: 2019-2021
       #description:
         #- Description 1.
@@ -75,11 +62,11 @@
             #- Sub-description 2.
 
     - title: Project Lead Analyst
-      institution: State Government of Parana, Curitiba, Brazil
+      institution: Parana's Science, Technology and Higher Studies Bureau, Brazil
       year: 2017-2019
 
     - title: Project Support and Research Officer
-      institution: All India Disaster Mitigation Institute, Ahmedabad, India
+      institution: All India Disaster Mitigation Institute, India
       year: 2015-2016
       #description:
 
@@ -95,6 +82,27 @@
     - title:
       institution: <span style="font-size:12px;font-weight:lighter"> * most recent </span>
 
+- title: Academic interests
+  type: list
+  contents: 
+    - Citizenship studies and belonging vis-à-vis international immigration and global mobility.
+    # - citizenship studies and belonging vis-à-vis international immigration and global mobility
+    #intersection of political science and sociology 
+    #    issues around questions of identity 
+    #citizenship and belonging vis-à-vis immigration and global mobility #<br>(political science, political sociology, ethnography)
+
+# - title: Other things
+  # type: map
+  # contents:
+    # - name: Academic interests
+      # value: Citizenship studies, immigration, national identity and belonging
+    # - name: Professional interests
+      # value: Projects/organisations promoting societal transformation through collaboration.
+
+# - title: Professional interests
+  # type: list
+  # contents:
+    # - projects promoting societal transformation through collaboration #<br>(political science, political sociology, ethnography)
 
 
 #- title: Open Source Projects
@@ -146,7 +154,7 @@
 - title: Languages
   type: list
   contents: 
-    - Portuguese, <a href="/assets/pdf/IELTS-test-report-form.pdf">English</a>, <a href="/assets/pdf/TestDaF.pdf">German</a> <br> (et je ne parle pas français mais je comprends un peu)
+    - Portuguese, <a href="/assets/pdf/IELTS-test-report-form.pdf">English</a>, <a href="/assets/pdf/TestDaF.pdf">German</a> (et je ne parle pas français mais je comprends un peu)
 
 - title: Hobbies
   type: list

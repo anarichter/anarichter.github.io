@@ -35,7 +35,7 @@ social: true  # includes social icons at the bottom of the page
 <br> hi, there – I'm Ana! &emsp; <br> olá – eu sou a Ana!
 
 <span style="font-size:15px;font-weight:lighter"> 
-the idea of creating this website came about as a coding exercise (wanted to learn a bit about GitHub) and I ended up designing it to include my resume and things that interest me (progressively /in a fairly random fashion): notes in <a href="/blog/tag/english/">English</a> and <a href="/blog/tag/português">Portuguese</a> • <a href="/bookshelf">references</a> • <a href="/cards/photos">pictures</a> • whatnots
+the idea of creating this website came about as a coding exercise – wanted to learn a bit about GitHub – and I ended up designing it to include my resume and things that interest me (progressively /in a fairly random fashion /always under construction): notes in <a href="/blog/tag/english/">English</a> and <a href="/blog/tag/português">Portuguese</a> • <a href="/bookshelf">references</a> • <a href="/cards/photos">pictures</a> • whatnots
 
 <!-- <span style="font-size:15px;font-weight:lighter"> 
 But this is a page under construction, so please, bear with me :-) -->

@@ -60,7 +60,7 @@ images:
 <div class="container">
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/both-workers-2-h.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.html path="assets/img/both-workers-h.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/women-h.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
