@@ -17,6 +17,23 @@ eu queria, pensando agora que se foi, ter tirado um retrato dele. não seria um 
 <br>
 
 <hr>
+<span style="font-size:14px;font-weight:lighter"> 
+(braços que se tocaram)<br> 
+<br> lado-a-lado
+<br> braços que se tocam
+<br> que tocam
+<br> toque que arrepia 
+<br> a pele, eriça
+<br> os pelos
+<br> braços que se tocam
+<br> e tocam
+<br> o coração, na boca
+<br> derrete
+</span>
+<br>
+<br>
+
+<hr>
 <span style="font-size:14px;font-weight:lighter">
 se o tempo passou
 <br> o seu olhar não me falou
@@ -126,36 +143,29 @@ um poema sobre um poema
 
 <hr>
 <span style="font-size:14px;font-weight:lighter">
-<strong>tempo e encontro</strong>
+(tempo e encontro)
 <br> 
 <br> o dia e a noite convidam a dançar
-<br> mas os ponteiros do relógio são espectadores
-<br> invisíveis, presentes; categóricos ou dissimulados
-<br> 
+<br> mas os ponteiros do relógio são espectadores:
+<br> invisíveis, presentes – categóricos ou dissimulados
 <br> há um fascínio, desejo de controlar
-<br> mas em meio à espreita – sorrateira
-<br> é a passagem ad aeternum que atropela
-<br> 
-<br> feito água e ar, as mãos não podem agarrar
+<br> mas à espreita, sorrateira,
+<br> é a passagem infinita que conduz
+<br> e feito água e ar, as mãos não podem agarrar:
 <br> fechar os olhos e correr – para nunca alcançar
 <br> fechar os olhos para esquecer – e nunca para trás deixar
-<br> 
 <br> mas nesse ciclo manifesto, aparentemente certo
-<br> há ali um elemento que escapa
+<br> há um elemento que escapa
 <br> e delicadamente faz o tempo titubear:
-<br> 
-<br> perceber-se diante de alguém
+<br> perceber-se diante de alguém:
 <br> um encontro – sem aviso
-<br> 
 <br> dois pares de braços em um enlace
-<!-- <br> mergulho nos olhos que te encaram -->
+<br> mergulho nos olhos que te encaram
 <br> conversa calada pela lua iluminada
-<br> paradoxo não resolvido, resolvido
-<br> 
+<br> paradoxo não resolvido, resolvido.
 <br> e nesta fração de segundo eterna
 <br> o cônscio instante hipnotizante:
 <br> momentos de uma nova dança
-<br> 
 <br> entre tempo e encontro
 </span>
 <br>
@@ -175,22 +185,6 @@ dança
 <br>
 <br>
 
-<hr>
-<span style="font-size:14px;font-weight:lighter"> 
-<!-- (braços que se tocaram) -->
-lado-a-lado
-<br> braços que se tocam
-<br> que tocam
-<br> toque que arrepia 
-<br> a pele, eriça
-<br> os pelos
-<br> braços que se tocam
-<br> e tocam
-<br> o coração, na boca
-<br> derrete
-</span>
-<br>
-<br>
 
 <!-- 
 <hr>
