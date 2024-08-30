@@ -17,23 +17,6 @@ eu queria, pensando agora que se foi, ter tirado um retrato dele. não seria um 
 <br>
 
 <hr>
-<span style="font-size:14px;font-weight:lighter"> 
-(braços que se tocaram)<br> 
-<br> lado-a-lado
-<br> braços que se tocam
-<br> que tocam
-<br> toque que arrepia 
-<br> a pele, eriça
-<br> os pelos
-<br> braços que se tocam
-<br> e tocam
-<br> o coração, na boca
-<br> derrete
-</span>
-<br>
-<br>
-
-<hr>
 <span style="font-size:14px;font-weight:lighter">
 se o tempo passou
 <br> o seu olhar não me falou
@@ -150,8 +133,8 @@ um poema sobre um poema
 <br> invisíveis, presentes – categóricos ou dissimulados
 <br> há um fascínio, desejo de controlar
 <br> mas à espreita, sorrateira,
-<br> é a passagem infinita que conduz
-<br> e feito água e ar, as mãos não podem agarrar:
+<br> é a passagem infinita que conduz:
+<br> feito água e ar, as mãos não podem agarrar
 <br> fechar os olhos e correr – para nunca alcançar
 <br> fechar os olhos para esquecer – e nunca para trás deixar
 <br> mas nesse ciclo manifesto, aparentemente certo
@@ -185,6 +168,22 @@ dança
 <br>
 <br>
 
+<hr>
+<span style="font-size:14px;font-weight:lighter"> 
+(braços que se tocaram)<br> 
+<br> lado-a-lado
+<br> braços que se tocam
+<br> que tocam
+<br> toque que arrepia
+<br> a pele, eriça 
+<br> os pelos
+<br> braços que se tocam
+<br> e tocam
+<br> na boca, o coração
+<br> derrete
+</span>
+<br>
+<br>
 
 <!-- 
 <hr>

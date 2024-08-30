@@ -13,9 +13,9 @@ Como posso eu não gostar de escrever
 <br>– e não preferir a escrita à fala? 
 <br>Conforme estas palavras vão sendo lidas,
 <br>sua atenção é toda voltada para elas
-<br>( você pode, é claro, desistir das minhas linhas,
-<br>no entanto, se opta por acompanhá-las,
-<br>é nelas que você se concentra )
+<br>– você pode, é claro, desistir das minhas linhas
+<br>no entanto, se opta por acompanhá-las
+<br>é nelas que você se concentra
 <br>E isso não é pouco, mas não é só: 
 <br>no meu escrever, eu posso ser eu, inteiramente eu
 <br>– caso em que, como consequência e em troca, você me tem
