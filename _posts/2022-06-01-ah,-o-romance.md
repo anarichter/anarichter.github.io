@@ -171,7 +171,7 @@ dança
 <hr>
 <span style="font-size:14px;font-weight:lighter"> 
 (braços que se tocaram)<br> 
-<br> lado-a-lado
+<br> lado a lado
 <br> braços que se tocam
 <br> que tocam
 <br> toque que arrepia
