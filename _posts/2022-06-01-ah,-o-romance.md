@@ -129,23 +129,23 @@ um poema sobre um poema
 (tempo e encontro)
 <br> 
 <br> o dia e a noite convidam a dançar
-<br> mas os ponteiros do relógio são espectadores:
+<br> mas os ponteiros do relógio são espectadores
 <br> invisíveis, presentes – categóricos ou dissimulados
 <br> há um fascínio, desejo de controlar
-<br> mas à espreita, sorrateira,
-<br> é a passagem infinita que conduz:
+<br> mas à espreita, sorrateira
+<br> é a passagem infinita que conduz
 <br> feito água e ar, as mãos não podem agarrar
 <br> fechar os olhos e correr – para nunca alcançar
 <br> fechar os olhos para esquecer – e nunca para trás deixar
 <br> mas nesse ciclo manifesto, aparentemente certo
 <br> há um elemento que escapa
-<br> e delicadamente faz o tempo titubear:
-<br> perceber-se diante de alguém:
+<br> e delicadamente faz o tempo titubear
+<br> perceber-se diante de alguém
 <br> um encontro – sem aviso
 <br> dois pares de braços em um enlace
 <br> mergulho nos olhos que te encaram
 <br> conversa calada pela lua iluminada
-<br> paradoxo não resolvido, resolvido.
+<br> paradoxo não resolvido, resolvido
 <br> e nesta fração de segundo eterna
 <br> o cônscio instante hipnotizante:
 <br> momentos de uma nova dança
