@@ -22,11 +22,11 @@ layout: default
     </p> -->
     <p class="post-tags">
       <!-- {{ page.date | date: "%B %-d, %Y" }}{%- if page.author -%} • {{ page.author }}{%- endif -%}{%- if page.meta -%} • {{ page.meta }}{%- endif -%}
-      <a href="{{ year | prepend: '/notes/' | prepend: site.baseurl}}"> <i class="fas fa-calendar fa-sm"></i> {{ year }} </a>
+      <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fas fa-calendar fa-sm"></i> {{ year }} </a>
       {%- if tags != "" %}
       &nbsp; &middot; &nbsp;
         {% for tag in page.tags -%}
-        <a href="{{ tag | slugify | prepend: '/notes/tag/' | prepend: site.baseurl}}">
+        <a href="{{ tag | slugify | prepend: '/blog/tag/' | prepend: site.baseurl}}">
           <i class="fas fa-tag fa-sm"></i> {{ tag }}</a> &nbsp;
           {% endfor -%}
       {% endif %} -->
@@ -34,7 +34,7 @@ layout: default
       {%- if categories != "" %}
       &nbsp; &middot; &nbsp;
         {% for category in page.categories -%}
-        <a href="{{ category | slugify | prepend: '/notes/category/' | prepend: site.baseurl}}">
+        <a href="{{ category | slugify | prepend: '/blog/category/' | prepend: site.baseurl}}">
           <i class="fas fa-tag fa-sm"></i> {{ category }}</a> &nbsp;
           {% endfor -%}
       {% endif %}

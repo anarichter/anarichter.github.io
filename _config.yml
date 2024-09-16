@@ -113,7 +113,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name: writings # blog_name will be displayed in your blog page
 blog_nav_title: notes # your blog must have a title for it to be displayed in the nav bar
 blog_description: not so random notes # > (@jschauma) or "signs of triviality" miscellaneous writings
-permalink: /notes/:year/:title/
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -226,9 +226,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: '/notes/:year/'
-    tag: '/notes/tag/:name/'
-    category: '/notes/category/:name/'
+    year: '/blog/:year/'
+    tag: '/blog/tag/:name/'
+    category: '/blog/category/:name/'
 
 display_tags: ['english', 'português'] # this tags will be dispalyed on the front page of your blog
 
