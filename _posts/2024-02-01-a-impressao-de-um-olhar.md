@@ -9,48 +9,27 @@ tags: português
 ---
 
 <!-- <span style="font-size:12px;font-weight:bolder">I.</span> <br> -->
-<span style="font-size:14px;font-weight:lighter">
-Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. 
-<br>
-<br> Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo; compreender aquele olhar que me sugeria algo. Algo que, em meu íntimo, eu sentia: era-me essencial (significaria, afinal, compreender algo de mim). 
-<br>
-<br> Pela diligência com que conduzi a investigação, não me espantaria se agora constatasse que também suspendia a respiração – já não lembro, ou mesmo nem percebi. Mas só pode ter sido: a concentração necessária não me concederia a prerrogativa de respirar. Respirar distrai.
-<br>
-<br> Passados os segundos em que essa cena pôde ser sustentada – e ela se estendeu por tantos deles quanto possível para compor as águas do mergulho que, naquele instante, eu realizava sem receio de me perder – tirei subitamente a tensão que perpassava minha espinha e reclinei o corpo um pouco para trás.
-<br>
-<br> Ainda sem desviar do olhar, puxei o ar pelas narinas, paciente, lenta e profundamente, em preparo para encarar o inevitável: a resposta, o esclarecimento que eu buscava, não viria agora. 
-<br>
-<br> Pelo menos, não agora.
+<!-- <span style="font-size:14px;font-weight:lighter"> -->
+<span style = "font-size: 14px; line-height: 200%; letter-spacing: -0.009em;">
+Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. Atenta ao olhar e sem desviar dele, cerrei um pouco o meu próprio e inclinei levemente a cabeça: não era apenas anseio, mas uma tentativa-ativa de compreendê-lo; compreender aquele olhar que me sugeria algo. Algo que, em meu íntimo, eu sentia: era-me essencial (significaria, afinal, compreender algo de mim). <br>Pela diligência com que conduzi a investigação, não me espantaria se agora constatasse que também suspendia a respiração – já não lembro, ou mesmo nem percebi. Mas só pode ter sido: a concentração necessária não me concederia a prerrogativa de respirar. Respirar distrai. <br>Passados os segundos em que essa cena pôde ser sustentada – e ela se estendeu por tantos deles quanto possível para compor as águas do mergulho que, naquele instante, eu realizava sem receio de me perder – tirei subitamente a tensão que perpassava minha espinha e reclinei o corpo um pouco para trás. Ainda sem desviar do olhar, puxei o ar pelas narinas, paciente, lenta e profundamente, em preparo para encarar o inevitável: a resposta, o esclarecimento que eu buscava, não viria agora. <br>Pelo menos, não agora.
 </span>
 <br>
 <br>
 <hr>
 <!-- <span style="font-size:12px;font-weight:bolder">II.</span> <br> -->
-<span style="font-size:14px;font-weight:lighter"> 
-E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte.
-<br> 
-<br> O olhar em si, não: ele não era familiar e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). 
-<br> 
-<br> Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava.
-<br>
-<br> No entanto, eu ainda não podia ver, e seguia intrigada. Tal que, mesmo quando não, esse mistério ocupava-me incessantemente.
+<span style = "font-size: 14px; line-height: 200%; letter-spacing: -0.009em;">
+E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte. <br>O olhar em si, não: ele não era familiar e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava. <br>No entanto, eu ainda não podia ver, e seguia intrigada. Tal que, mesmo quando não, esse mistério ocupava-me incessantemente.
 </span>
 <br>
 <br>
 <hr>
 <!-- <span style="font-size:12px;font-weight:bolder">III.</span> <br> -->
-<span style="font-size:14px;font-weight:lighter"> 
-A epifania. 
-<br> 
-<br> Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania.
-<br>
-<br> No momento em que compreendi, finalmente, a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. Um susto. E uma dor igualmente vigorosa: porque a descoberta era assim, <em>dolorosa</em>. Aquela verdade tinha um peso. 
+<span style = "font-size: 14px; line-height: 200%; letter-spacing: -0.009em;">
+A epifania. Dá para chamar de epifania? Ou epifania é reservada aos casos de contato direto com aquilo-transcendental? Às mensagens-resposta que o universo canaliza em um receptáculo arbitrariamente predestinado (predestinadamente arbitrário)? Ao que parece... além disso, não é possível que epifania venha acompanhada da sensação de pancada. Não foi epifania. <br>No momento em que compreendi, finalmente, a verdade que aquele olhar carregava – e que agora completava seu ciclo de transmissão – senti uma clareza intensa atravessar, como um raio fugaz, minha mente e meu corpo. Uma repentina desobstrução no coração. Um susto. E uma dor igualmente vigorosa: porque a descoberta era assim, <em>dolorosa</em>. Aquela verdade tinha um peso. 
 <br>
 <br> Abrupto silêncio.
 <br>
-<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e, antes que seja apreendida, desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?)
-<br>
-<br> O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações – e aforismas – e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada luz, linha, sombra, fragmento; ali, escancaradamente encoberto:
+<br> Também, não era epifania, posto que eu antecipava a chegada desse encontro (ou: a aproximação que fazia vibrar). Encontro que como emoção: com o que não se sabe o que fazer. Mas enquanto emoção sobe para o peito, te faz subitamente atento e, antes que seja apreendida, desvanece, esse encontro também envolvia outro fenômeno: consciência. Uma nova. (Epifania?) <br>O que estava por trás de toda a expressão, isso eu já havia entendido – não sem a frustração de olhar para aquelas elaborações – e aforismas – e perceber que se tratava de apenas um sujeito; um tal de essencialmente tudo sobre um. A reviravolta veio em notar o que seguia subjacente à cada luz, linha, sombra, fragmento; ali, escancaradamente encoberto:
 <br> 
 <br> O portentoso, e delicado, vazio.
 </span> 

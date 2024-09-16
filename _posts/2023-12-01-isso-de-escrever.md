@@ -8,7 +8,7 @@ tags: português
 
 ---
 
-<span style="font-size:14px;font-weight:lighter">
+<span style = "font-size: 14px; line-height: 200%; letter-spacing: -0.009em;">
 Como posso eu não gostar de escrever 
 <br>– e não preferir a escrita à fala? 
 <br>Conforme estas palavras vão sendo lidas,
