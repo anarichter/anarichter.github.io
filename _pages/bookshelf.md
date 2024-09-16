@@ -372,6 +372,7 @@ https://www.goodreads.com/book/show/82806783-psican-lise-do-sens-vel
 <br>
 <a href="https://www.imdb.com/title/tt0056119/">• La jetée (1962)</a> <br>
 <a href="https://www.imdb.com/title/tt1560139/">• Boy (2010)</a> <br>
+<a href="https://www.imdb.com/title/tt21192142/">• All of Us Strangers (2023)</a> <br>
 <a href="https://www.imdb.com/title/tt27503384/">• Perfect Days (2023)</a> <span style="font-size:13px;font-weight:lighter"> (how could i not?)</span><br>
 <a href="https://www.imdb.com/title/tt14849194/">• The Holdovers (2023)</a> <br>
 <a href="https://www.imdb.com/title/tt8991268/">• Honeyland (2019)</a> <br>
@@ -385,6 +386,7 @@ https://www.goodreads.com/book/show/82806783-psican-lise-do-sens-vel
 <a href="https://www.imdb.com/title/tt19770238/">• Aftersun (2022)</a> <br>
 <a href="https://www.imdb.com/title/tt9660502/">• Close (2022)</a> <br>
 <a href="https://www.imdb.com/title/tt10986222/">• C'mon C'mon (2021)</a> <br>
+<a href="https://www.imdb.com/title/tt13087796/">• Ich bin dein Mensch (2021)</a> <br>
 <a href="https://www.imdb.com/title/tt14034966/">• Wheel of Fortune and Fantasy (Gûzen to sôzô) (2021)</a> <!-- <br> -->
 <!-- one of my favourites i can remember: <a href="https://www.imdb.com/title/tt0094982/">Dekalog: One (1989)</a> (pesado) -->
 <br>
