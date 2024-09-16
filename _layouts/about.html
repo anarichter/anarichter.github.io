@@ -51,7 +51,7 @@ layout: default
             <br>
           {% if page.latest_posts -%}
           <ul class="card-text font-weight-light list-group list-group-flush">
-            <a href="{{ '/blog/' | relative_url }}">latest on writings; i.e. random notes</a>
+            <a href="{{ '/notes/' | relative_url }}">latest on writings; i.e. random notes</a>
            <span style="font-size:15px;font-weight:400;color: var(--global-theme-color);">latest on "writings; i.e. random notes"</span>
             {%- include latest_posts.html %}
           </ul>
@@ -62,7 +62,7 @@ layout: default
           <!--- Latest posts -->
           {% if page.latest_posts -%}
           <div class="card mt-3 p-3">
-            <span style="font-weight:400">latest on <a href="{{ '/blog/' | relative_url }}">notes:</a></span>
+            <span style="font-weight:400">latest on <a href="{{ '/notes/' | relative_url }}">notes:</a></span>
             <div>
               {%- include latest_posts.html %}
             </div>
