@@ -160,7 +160,7 @@ dança
 <br> os pelos
 <br> braços que se tocam
 <br> e tocam
-<br> na boca, o coração
+<br> o coração, na boca
 <br> derrete
 <br>
 <br>
