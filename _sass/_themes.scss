@@ -16,6 +16,7 @@
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
   --global-bullet: #{$stylish-color-dark};
+  --global-notes: #{$grey-notes-text};
 
   .fa-sun {
     display : none;
@@ -48,6 +49,7 @@ html[data-theme='dark'] {
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
   --global-bullet: #{$stylish-color-dark};
+  --global-notes: #{$grey-notes-text-dark};
 
   .fa-sun {
     padding-left: 10px;

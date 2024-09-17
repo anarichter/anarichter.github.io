@@ -8,7 +8,6 @@ tags: english português
 #<!--&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;eu -->
 ---
 
-<span style="font-size:14px;font-weight:lighter">
 é como se aquele caderno 
 <br> e aquelas anotações
 <br> não fossem minhas
@@ -30,12 +29,10 @@ tags: english português
 <br> que embaralhava palavras
 <br> pensamentos 
 <br> e memórias
-</span>
 <br>
 <br>
 <hr>
 
-<span style="font-size:14px;font-weight:lighter">
 then, a burst of consciousness hit me:
 <br> was I grafting his identity?
 <br> that thought startled me,
@@ -56,7 +53,6 @@ then, a burst of consciousness hit me:
 <br> that was the second thought
 <br> in a very short time interval
 <br> that frightened me
-</span>
 <br>
 <br>
 
@@ -66,32 +62,26 @@ then, a burst of consciousness hit me:
 <br>
 <hr>
 
-<span style="font-size:14px;font-weight:lighter"> 
 when the alarm clock went off, i woke up right away, startled. i opened my eyes as wide as i could, but it did not matter: for a few seconds, i had no idea where i was (or why i was there). i knew i would eventually realize it, but in that little while, i was floating in the vacuum – this is how it felt. the difference from past experiences is that it lasted longer, and i wasn’t scared. i set out to stay calm, to try to recall things rationally. then, the word – the only word – that came to my mind was ‘universe.’ whether it felt like i was part of it or i was it myself, i could not say; my memory came back all at once. it was a brief amnesia, and it felt good.</span>
 <br>
 <br>
 <hr>
 
-<span style="font-size:14px;font-weight:lighter">
 i was crazy — but i did not know it — now i do
 <br> what i wrote — was written in a different language
 <br> one — one cannot understand
 <br> but those words — they were my best attempt
 <br> my best attempt — to make sense of this
 <br> to make me be <br>(understood)
-</span>
 <br>
 <br>
 <hr>
 
-<span style="font-size:14px;font-weight:lighter"> 
 <br>are these moments feelings?
-</span>
 <br>
 <br>
 <hr>
 
-<span style="font-size:14px;font-weight:lighter">
 o potencial do meu ser / estava naquelas imagens
 <br> <s>perdidas</s> / desaparecidas / desaparecidas do universo
 <br> real / e do das possibilidades / e promessas
@@ -100,32 +90,5 @@ o potencial do meu ser / estava naquelas imagens
 <br> e agora <s>ninguém veria</s> / ninguém jamais teria contato
 <br> com o que ainda era / para o mundo / desconhecido
 <br> partes de mim
-</span>
 <br>
 <br>
-
-
-
-<!-- 
-<span style="font-size:14px;font-weight:lighter"> 
-o potencial do meu ser 
-<br> estava naquelas imagens
-<br> perdidas ... não ... desaparecidas
-<br> desaparecidas do universo
-<br> real
-<br> e do das possibilidades
-<br> e potencialidades
-<br> e promessas
-<br> – promessas de que tudo ficaria bem
-<br> aquilo tudo era meu
-<br> – eu 
-<br> e agora ninguém veria
-<br> ninguém jamais teria contato
-<br> com o que ainda era, 
-<br> para o mundo,
-<br> desconhecido:
-<br> partes de mim
-</span>
-<br>
-<br>
- -->

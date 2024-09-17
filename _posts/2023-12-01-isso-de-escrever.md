@@ -8,7 +8,6 @@ tags: português
 
 ---
 
-<span style = "font-size: 14px; line-height: 200%; letter-spacing: -0.009em;">
 Como posso eu não gostar de escrever 
 <br>– e não preferir a escrita à fala? 
 <br>Conforme estas palavras vão sendo lidas,
@@ -27,9 +26,8 @@ Como posso eu não gostar de escrever
 <br>sinônimo de vulnerabilidade? 
 <br>Ela é uma entrega implicada na própria exposição
 <br>– entrega que desvela um sujeito
-<br>e o apresenta assim: nu, cru
+<br>e o apresenta assim: 
 <br>Como posso eu gostar de escrever? 
-</span>
 
 <!-- whole 
 hole

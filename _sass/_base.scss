@@ -4,9 +4,17 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
-// Typography
+// Typography   
+//p anterior: color: var(--global-text-color);
 
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+p, em, span {
+  color: var(--global-notes);
+  font-size: 14.5px; 
+  line-height: 200%; 
+  letter-spacing: -0.009em;
+}
+
+h1, h2, h3, h4, h5, h6, div, li, strong {
   color: var(--global-text-color);
 // }
   p.about {
