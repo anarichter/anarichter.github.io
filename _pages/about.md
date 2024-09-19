@@ -10,7 +10,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile-2.jpg #profile-ana.jpg
+  image: profile-b&w.jpg #profile-ana.jpg
   image_circular: false # crops the image to make it circular
   address: <span style="font-size:13.5px">look angry, but i'm super nice</span> # <br> &ensp;
     # <p>Your City, State 12345</p>
