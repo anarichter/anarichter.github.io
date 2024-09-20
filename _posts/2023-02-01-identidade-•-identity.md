@@ -36,7 +36,7 @@ tags: english português
 then, a burst of consciousness hit me:
 <br> was I grafting his identity?
 <br> that thought startled me,
-<br> for I realized that I was in the middle of it:
+<br> for I realised that I was in the middle of it:
 <br> 
 <br> if that was really happening,
 <br> it was already happening
@@ -62,7 +62,7 @@ then, a burst of consciousness hit me:
 <br>
 <hr>
 
-when the alarm clock went off, i woke up right away, startled. i opened my eyes as wide as i could, but it did not matter: for a few seconds, i had no idea where i was (or why i was there). i knew i would eventually realize it, but in that little while, i was floating in the vacuum – this is how it felt. the difference from past experiences is that it lasted longer, and i wasn’t scared. i set out to stay calm, to try to recall things rationally. then, the word – the only word – that came to my mind was ‘universe.’ whether it felt like i was part of it or i was it myself, i could not say; my memory came back all at once. it was a brief amnesia, and it felt good.</span>
+when the alarm clock went off, i woke up right away, startled. i opened my eyes as wide as i could, but it did not matter: for a few seconds, i had no idea where i was (or why i was there). i knew i would eventually realise it, but in that little while, i was floating in the vacuum – this is how it felt. the difference from past experiences is that it lasted longer, and i wasn’t scared. i set out to stay calm, to try to recall things rationally. then, the word – the only word – that came to my mind was ‘universe.’ whether it felt like i was part of it or i was it myself, i could not say; my memory came back all at once. it was a brief amnesia, and it felt good.
 <br>
 <br>
 <hr>
