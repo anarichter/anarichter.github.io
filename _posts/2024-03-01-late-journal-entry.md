@@ -14,5 +14,4 @@ tags: english
 
 <br>
 <br>
-<br>
 [ three years later, they got married. ] <!-- <br> Incidentally, on 2 August, as the marriage certificate attests. -->
