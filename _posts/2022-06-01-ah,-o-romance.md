@@ -15,6 +15,20 @@ eu queria, pensando agora que se foi, ter tirado um retrato dele. não seria um 
 <br>
 
 <hr>
+lado a lado
+<br> braços que se tocam
+<br> que tocam
+<br> toque que arrepia
+<br> a pele, eriça 
+<br> os pelos
+<br> braços que se tocam
+<br> e tocam
+<br> o coração, na boca
+<br> derrete
+<br>
+<br>
+
+<hr>
 se o tempo passou
 <br> o seu olhar não me falou
 <br> será que fiquei parada
@@ -147,20 +161,5 @@ dança
 <br> reveladas no preciso espaço:
 <br> o que a luz escolhe
 <br> para me provocar
-<br>
-<br>
-
-<hr>
-(braços que se tocaram)<br> 
-<br> lado a lado
-<br> braços que se tocam
-<br> que tocam
-<br> toque que arrepia
-<br> a pele, eriça 
-<br> os pelos
-<br> braços que se tocam
-<br> e tocam
-<br> o coração, na boca
-<br> derrete
 <br>
 <br>
