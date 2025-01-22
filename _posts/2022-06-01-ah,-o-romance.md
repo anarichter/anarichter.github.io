@@ -14,8 +14,7 @@ lado a lado
 <br> braços que se tocam
 <br> que tocam
 <br> toque que arrepia
-<br> a pele, eriça 
-<br> os pelos
+<br> a pele – eriça – os pelos
 <br> braços que se tocam
 <br> e tocam
 <br> o coração, na boca
