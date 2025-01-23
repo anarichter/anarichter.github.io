@@ -123,7 +123,7 @@ nav_order: 3
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/68189.Emil_M_Cioran">Emil Cioran</a>
       </div>
     </div>
-    <!--<div class="gr_custom_each_container_1697127983">
+    <div class="gr_custom_each_container_1697127983">
       <div class="gr_custom_book_container_1697127983">
             <a title="História e Utopia" rel="nofollow" href="https://www.goodreads.com/book/show/33397558-hist-ria-e-utopia"><img alt="História e Utopia" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481892959l/33397558._SX50_.jpg" /></a>
           </div>
@@ -133,7 +133,7 @@ nav_order: 3
           <div class="gr_custom_author_1697127983">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/68189.Emil_M_Cioran">Emil Cioran</a>
       </div>
-    </div>-->
+    </div>
     <div class="gr_custom_each_container_1697127983">
       <div class="gr_custom_book_container_1697127983">
             <a title="A Hora da Estrela" rel="nofollow" href="https://www.goodreads.com/book/show/56244223-a-hora-da-estrela"><img alt="A Hora da Estrela" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607637337l/56244223._SX50_.jpg" /></a>
