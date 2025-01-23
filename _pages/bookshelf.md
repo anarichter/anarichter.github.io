@@ -2,7 +2,7 @@
 layout: page
 permalink: /bookshelf
 title: bookshelf
-description: some last read books & movies i liked (will add as it goes)
+description: some last read books & movies i liked
 nav: true
 nav_order: 3
 ---
@@ -90,7 +90,7 @@ nav_order: 3
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/957894.Albert_Camus">Albert Camus</a>
           </div>
     </div>
-    <!-- <div class="gr_custom_each_container_1697127983"> 
+    <div class="gr_custom_each_container_1697127983"> 
       <div class="gr_custom_book_container_1697127983">
             <a title="Os Anos de Aprendizado de Wilhelm Meister" rel="nofollow" href="https://www.goodreads.com/book/show/17661570-os-anos-de-aprendizado-de-wilhelm-meister"><img alt="Os Anos de Aprendizado de Wilhelm Meister" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363703284l/17661570._SX50_.jpg" /></a>
           </div>
@@ -100,7 +100,7 @@ nav_order: 3
           <div class="gr_custom_author_1697127983">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe">Goethe</a>
       </div>
-    </div> -->
+    </div>
     <div class="gr_custom_each_container_1697127983">
       <div class="gr_custom_book_container_1697127983">
             <a title="Enterrem meu coração na curva do rio" rel="nofollow" href="https://www.goodreads.com/book/show/45870537-enterrem-meu-cora-o-na-curva-do-rio"><img alt="Enterrem meu coração na curva do rio" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558133568l/45870537._SY75_.jpg" /></a>
@@ -167,7 +167,7 @@ nav_order: 3
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/3137322.Fyodor_Dostoevsky">Fyodor Dostoevsky</a>
       </div>
     </div>
-    <!-- <div class="gr_custom_each_container_1697127983"> 
+    <div class="gr_custom_each_container_1697127983"> 
       <div class="gr_custom_book_container_1697127983">
             <a title="At the Existentialist Café: Freedom, Being, and Apricot Cocktails" rel="nofollow" href="https://www.goodreads.com/book/show/25658482-at-the-existentialist-caf"><img alt="At the Existentialist Café: Freedom, Being, and Apricot Cocktails" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550567060l/25658482._SY75_.jpg" /></a>
           </div>
@@ -177,7 +177,7 @@ nav_order: 3
           <div class="gr_custom_author_1697127983">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/1191388.Sarah_Bakewell">Sarah Bakewell</a>
       </div>
-    </div>-->
+    </div>
     <div class="gr_custom_each_container_1697127983">
       <div class="gr_custom_book_container_1697127983">
             <a title="To the Lighthouse" rel="nofollow" href="https://www.goodreads.com/book/show/28501519-to-the-lighthouse"><img alt="To the Lighthouse" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646583927l/28501519._SX50_.jpg" /></a>
@@ -200,7 +200,7 @@ nav_order: 3
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/159.Henry_James">Henry James</a>
       </div>
     </div>
-    <!-- <div class="gr_custom_each_container_1697127983"> 
+    <div class="gr_custom_each_container_1697127983"> 
       <div class="gr_custom_book_container_1697127983">
             <a title="Notes on Blindness: A Journey through the Dark" rel="nofollow" href="https://www.goodreads.com/book/show/33556893-notes-on-blindness"><img alt="Notes on Blindness: A Journey through the Dark" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482582882l/33556893._SY75_.jpg" /></a>
           </div>
@@ -210,7 +210,7 @@ nav_order: 3
           <div class="gr_custom_author_1697127983">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/8820.John_M_Hull">John M. Hull</a>
       </div>
-    </div>-->
+    </div>
     <div class="gr_custom_each_container_1697127983">
       <div class="gr_custom_book_container_1697127983">
             <a title="Things Fall Apart" rel="nofollow" href="https://www.goodreads.com/book/show/6490587-things-fall-apart"><img alt="Things Fall Apart" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391795705l/6490587._SY75_.jpg" /></a>
@@ -403,12 +403,12 @@ nav_order: 3
 <a href="https://www.imdb.com/title/tt0247380/">• Les Glaneurs et la Glaneuse (2000)</a> <br>
 <a href="https://www.imdb.com/title/tt8991268/">• Honeyland (2019)</a> <br>
 <a href="https://www.imdb.com/title/tt1560139/">• Boy (2010)</a> <br>
-<a href="https://www.imdb.com/title/tt0056119/">• La jetée (1962)</a> <br>
+<!-- <a href="https://www.imdb.com/title/tt0056119/">• La jetée (1962)</a> <br> -->
 <a href="https://www.imdb.com/title/tt0086022/">• Nostalghia (1983)</a> <br>
 <a href="https://www.imdb.com/title/tt0040522/">• Bicycle Thieves (1948)</a> <br>
 <a href="https://www.imdb.com/title/tt0093342/">• Where Is the Friend's House? (1987)</a> <br>
 <a href="https://www.imdb.com/title/tt9581076/">• So Long, My Son (2019)</a> <br>
-<a href="https://www.imdb.com/title/tt11380884/">• Farewell Amor (2020)</a><br>
+<!-- <a href="https://www.imdb.com/title/tt11380884/">• Farewell Amor (2020)</a><br> -->
 <a href="https://www.imdb.com/title/tt9138170/">• Limbo (2020)</a> <br>
 <a href="https://www.imdb.com/title/tt5859238/">• Lucky (2017)</a> <br>
 <a href="https://www.imdb.com/title/tt9660502/">• Close (2022)</a> <br>

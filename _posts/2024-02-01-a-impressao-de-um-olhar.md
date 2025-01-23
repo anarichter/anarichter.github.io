@@ -12,7 +12,7 @@ Aquele olhar sugeria-me algo: algo sobre mim mesma, por mim desconhecido. <br><b
 <br>
 <br>
 <hr>
-E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte. <br><br>O olhar em si, não: ele não era familiar e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava. <br><br>No entanto, eu ainda não podia ver, e seguia intrigada. Tal que, mesmo quando não, esse mistério ocupava-me incessantemente.
+E a lembrança do impacto que foi percebê-lo naquele rosto – agora, de certa forma – já familiar? Era um descompasso... mas que, se, ou justamente enquanto, descompasso, fazia, parece-me, um além: dizia de um corte. <br><br>O olhar em si, não: ele não era familiar, e era notadamente diferente daqueles lançados como insinuação (invariavelmente armada de uma crença convicta cujo único efeito é me fazer desconfiar da fé alheia). Aquele olhar comunicava algo porque tocava algo em mim. A aproximação eu podia sentir: vibrava. <br><br>No entanto, eu ainda não podia ver e seguia intrigada. Tal que, mesmo quando não, esse mistério ocupava-me incessantemente.
 <br>
 <br>
 <hr>
