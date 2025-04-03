@@ -88,7 +88,8 @@ o potencial do meu ser / estava naquelas imagens
 <br> promessas de que tudo ficaria bem
 <br> aquilo tudo era meu / eu 
 <br> e agora <s>ninguém veria</s> / ninguém jamais teria contato
-<br> com o que ainda era / para o mundo / desconhecido
+<br> com o que ainda era
+<br> para o mundo / desconhecido
 <br> partes de mim
 <br>
 <br>
