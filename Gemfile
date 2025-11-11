@@ -17,6 +17,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'jekyll-tabs' # added 10.jun.24 TABS
+    gem 'observer' # added nov.25
 end
 group :other_plugins do
     gem 'httparty'

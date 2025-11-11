@@ -19,10 +19,10 @@ He went down the stairs; she stayed up there... They kept eye contact for as lon
 I finally reached the top of the stairway myself, which opened up to an impressively wide horizon. But turning 360 degrees around my feet, I saw nothing. No sign of the station. Just a void: The void left behind by the most passionate kiss.
 
 <br>
-<hr>
+<!-- <hr> -->
 
-<span style="font-size:12px;font-weight:lighter">• Virginia Woolf's To the Lighthouse 'inspired' me when coming up with these sentences.
-</span>
+<!-- <span style="font-size:12px;font-weight:lighter">• Virginia Woolf's To the Lighthouse 'inspired' me when coming up with these sentences. 
+</span>-->
 
 <!-- <span style="font-size:14px;font-weight:lighter">this scene impacted me dearly as 
 </span> -->
