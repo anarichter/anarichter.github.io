@@ -21,8 +21,9 @@ como posso eu não gostar de escrever
 <br>agora, pode ser que essa troca não te valha a pena
 <br>mas ambos temos uma singela garantia:
 <br>a do contato com a expressão da minha,
-<br>momentânea que seja, verdade
-<br>como pode tal escrita não ser sinônimo de vulnerabilidade?
+<br>efêmera que seja, verdade
+<br>como pode tal escrita não ser 
+<br>sinônimo de vulnerabilidade?
 <br>ela é uma entrega implicada na própria exposição
 <br>entrega que desvela um sujeito,
 <br>e o apresenta assim: nu
