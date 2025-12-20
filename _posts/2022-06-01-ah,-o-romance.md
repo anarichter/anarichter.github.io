@@ -145,11 +145,11 @@ o dia e a noite convidam a dançar
 <br> há um elemento que escapa
 <br> e delicadamente faz o tempo titubear:
 <br> perceber-se diante de alguém,
-<br> um encontro sem aviso
-<br> (dois pares de braços em um enlace
+<br> um encontro sem aviso – ao lado se descobre abrigo
+<br> ( dois pares de braços em um enlace
 <!-- <br> mergulho nos olhos que te encaram -->
 <br> conversa calada pela lua iluminada
-<br> paradoxo não resolvido, resolvido)
+<br> paradoxo não resolvido, resolvido )
 <br> e nesta fração de segundo eterna
 <br> o cônscio instante hipnotizante:
 <br> momentos de uma nova dança
