@@ -15,7 +15,7 @@ tags: english português
 <br> ou alongada, quando com pressa
 <br> (não pela necessidade de fazer outra coisa
 <br> mas para registrar tudo aquilo
-<br> que logo poderia ser esquecido)
+<br> que logo poderia ser esquecido
 <br> e não se entregar às distrações)
 <br> mas as palavras me eram estranhas
 <br> o jeito de escrever me era estranho
@@ -67,16 +67,7 @@ when the alarm clock went off, i woke up right away, startled. i opened my eyes 
 <br>
 <hr>
 
-i did not know it — but now i do – i was crazy
-<br> what i wrote — was written in a different language
-<br> one — one cannot understand
-<br> but those words — they were my best attempt
-<br> my best attempt — to make sense of this
-<br> to make me be <br>(understood)
-<br>
-<br>
-<hr>
-<!-- i was crazy — but i did not know it — now i do
+<!-- i did not know it — but now i do – i was crazy
 <br> what i wrote — was written in a different language
 <br> one — one cannot understand
 <br> but those words — they were my best attempt
@@ -85,6 +76,15 @@ i did not know it — but now i do – i was crazy
 <br>
 <br>
 <hr>-->
+ i was crazy — i did not know it — but now i do
+<br> what i wrote — was written in a different language
+<br> one — one cannot understand
+<br> but those words — they were my best attempt
+<br> my best attempt 
+<br> to make sense of this – to make me be <br>(understood)
+<br>
+<br>
+<hr>
 <!-- i did – not know it — and now i do
 <br> i was crazy
 <br> what i — wrote — was written 

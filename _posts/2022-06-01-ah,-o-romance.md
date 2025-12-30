@@ -47,20 +47,20 @@ descompassado
 <br>
 
 <hr>
-sonho contigo//
-<br> fixando o meu olhar pela janela
-<br> a imaginação se perde
+<b><u>sonho contigo</u></b>
+<br> fixando o meu olhar
+<br> pela janela, a imaginação se perde
 <br> e dois caminhos se cruzam
-<br> [ reconheço a sua presença – você a minha ]
-<br> pousando o meu olhar no seu
-<br> as cortinas se abrem
+<br> (reconheço a sua presença – você a minha)
+<br> pousando o meu olhar
+<br> no seu, as cortinas se abrem
 <br> e uma valsa carrega o meu sentir
-<br> [ minha mão na sua – a sua na minha ]
-<br> encerrando o meu olhar em sonhos
-<br> cenários se desenham
+<br> (minha mão na sua – a sua na minha)
+<br> encerrando o meu olhar
+<br> em sonhos, cenários se desenham
 <br> e uma noite estrelada anuncia:
-<br> eu com você – você comigo
-<br> //a gente flutua
+<br> (eu com você – você comigo)
+<br> a gente flutua
 <br>
 <br>
 
@@ -115,7 +115,7 @@ um poema sobre um poema
 <br> e por todo lado e deslado
 <br> seu canto marcante entoa
 <br> já o poema não declamado ... ...
-<br> ele ainda é aguardado
+<br> esse ainda é aguardado
 <br>
 <br>
 
@@ -134,22 +134,22 @@ dança
 <hr>
 o dia e a noite convidam a dançar
 <br> mas os ponteiros do relógio são espectadores
-<br> invisíveis, presentes. categóricos ou dissimulados
+<br> invisíveis, presentes; categóricos ou dissimulados
 <br> e há um fascínio, desejo de controlar
-<br> mas à espreita (sorrateira)
+<br> mas à espreita – sorrateira
 <br> é a passagem infinita que conduz
-<br> (feito água e ar, as mãos não podem agarrar
+<br> feito água e ar, as mãos não podem agarrar:
 <br> fechar os olhos e correr – para nunca alcançar
-<br> fechar os olhos para esquecer – e nunca para trás deixar)
-<br> mas nesse ciclo manifesto, aparentemente certo
+<br> fechar os olhos para esquecer – e nunca para trás deixar
+<br> mas nesse ciclo manifesto – aparentemente certo
 <br> há um elemento que escapa
 <br> e delicadamente faz o tempo titubear:
-<br> perceber-se diante de alguém,
-<br> um encontro sem aviso – ao lado se descobre abrigo
-<br> ( dois pares de braços em um enlace
+<br> perceber-se diante de alguém
+<br> um encontro sem aviso <!-- (ao lado se descobre abrigo) -->
+<br> (dois pares de braços em um enlace
 <!-- <br> mergulho nos olhos que te encaram -->
 <br> conversa calada pela lua iluminada
-<br> paradoxo não resolvido, resolvido )
+<br> paradoxo não resolvido, resolvido)
 <br> e nesta fração de segundo eterna
 <br> o cônscio instante hipnotizante:
 <br> momentos de uma nova dança
