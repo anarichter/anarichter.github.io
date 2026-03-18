@@ -47,7 +47,7 @@ descompassado
 <br>
 
 <hr>
-<b><u>sonho contigo</u></b>
+sonho contigo:
 <br> fixando o meu olhar
 <br> pela janela, a imaginação se perde
 <br> e dois caminhos se cruzam
@@ -141,9 +141,9 @@ o dia e a noite convidam a dançar
 <br> feito água e ar, as mãos não podem agarrar:
 <br> fechar os olhos e correr – para nunca alcançar
 <br> fechar os olhos para esquecer – e nunca para trás deixar
-<br> mas nesse ciclo manifesto – aparentemente certo
+<br> mas nesse ciclo manifesto, aparentemente certo
 <br> há um elemento que escapa
-<br> e delicadamente faz o tempo titubear:
+<br> e delicadamente faz o tempo <br> titubear:
 <br> perceber-se diante de alguém
 <br> um encontro sem aviso <!-- (ao lado se descobre abrigo) -->
 <br> (dois pares de braços em um enlace
