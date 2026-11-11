@@ -47,19 +47,19 @@ descompassado
 <br>
 
 <hr>
-sonho contigo:
+sonho contigo – 
 <br> fixando o meu olhar
 <br> pela janela, a imaginação se perde
 <br> e dois caminhos se cruzam
-<br> (reconheço a sua presença – você a minha)
+<br> [ reconheço a sua presença, você a minha ]
 <br> pousando o meu olhar
 <br> no seu, as cortinas se abrem
 <br> e uma valsa carrega o meu sentir
-<br> (minha mão na sua – a sua na minha)
+<br> [ minha mão na sua, a sua na minha ]
 <br> encerrando o meu olhar
 <br> em sonhos, cenários se desenham
 <br> e uma noite estrelada anuncia:
-<br> (eu com você – você comigo)
+<br> [ eu com você, você comigo ]
 <br> a gente flutua
 <br>
 <br>
@@ -133,23 +133,26 @@ dança
 
 <hr>
 o dia e a noite convidam a dançar
-<br> mas os ponteiros do relógio são espectadores
-<br> invisíveis, presentes; categóricos ou dissimulados
+<br> mas os ponteiros do relógio são espectadores:
+<br> invisíveis, presentes
+<br> [ categóricos ou dissimulados ]
 <br> e há um fascínio, desejo de controlar
 <br> mas à espreita – sorrateira
 <br> é a passagem infinita que conduz
 <br> feito água e ar, as mãos não podem agarrar:
 <br> fechar os olhos e correr – para nunca alcançar
 <br> fechar os olhos para esquecer – e nunca para trás deixar
-<br> mas nesse ciclo manifesto, aparentemente certo
+<br> mas nesse ciclo manifesto,
+<br> aparentemente certo
 <br> há um elemento que escapa
-<br> e delicadamente faz o tempo <br> titubear:
+<br> e delicadamente faz o tempo titubear:
 <br> perceber-se diante de alguém
-<br> um encontro sem aviso <!-- (ao lado se descobre abrigo) -->
-<br> (dois pares de braços em um enlace
-<!-- <br> mergulho nos olhos que te encaram -->
+<br> <b>um encontro sem aviso</b> <!-- (ao lado se descobre abrigo) -->
+<br> [ sorriso instintivo: ao lado se descobre abrigo ]
+<br> dois pares de braços em um enlace
+<br> mergulho nos olhos que te encaram
 <br> conversa calada pela lua iluminada
-<br> paradoxo não resolvido, resolvido)
+<br> paradoxo não resolvido, resolvido –
 <br> e nesta fração de segundo eterna
 <br> o cônscio instante hipnotizante:
 <br> momentos de uma nova dança

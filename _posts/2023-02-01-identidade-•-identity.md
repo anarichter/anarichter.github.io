@@ -12,11 +12,11 @@ tags: english português
 <br> e aquelas anotações
 <br> não fossem minhas
 <br> eu reconhecia a letra, sua forma arredondada
-<br> ou alongada, quando com pressa
-<br> (não pela necessidade de fazer outra coisa
+<br> – ou alongada, quando com pressa
+<br> não pela necessidade de fazer outra coisa
 <br> mas para registrar tudo aquilo
 <br> que logo poderia ser esquecido
-<br> e não se entregar às distrações)
+<br> e não se entregar às distrações
 <br> mas as palavras me eram estranhas
 <br> o jeito de escrever me era estranho
 <br> ao seguir com os olhos pelas linhas preenchidas
@@ -28,7 +28,7 @@ tags: english português
 <br> arrastava-me para o centro de um redemoinho 
 <br> que embaralhava palavras
 <br> pensamentos 
-<br> e memórias
+<br> memórias
 <br>
 <br>
 <hr>
