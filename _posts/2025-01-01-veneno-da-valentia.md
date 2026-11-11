@@ -22,19 +22,20 @@ se aqui tenho um título de uma obra
 <br>
 <br>e se agora reconheço o lento derramamento 
 <br>da toxina sufocante 
-<br>permeando [minha fissura] entre passos paralisantes e
-<br>o peso que a imposição da Ponte 
+<br>permeando [minha fissura] entre passos paralisantes
+<br>e o peso que a imposição da ponte 
 <br>subitamente descarregava em mim
 <br>
 <br>e se o ar se rarefaz em hesitação excruciante
-<br>de poder sustentar a Ponte
+<br>de poder sustentar a ponte
 <br>meu peso, meu ser – outro horizonte:
 <br>ainda lágrimas suspensas 
 <br>
 <br>lágrimas suspensas 
 <br>banham, sutilmente
 <br>o movimento
-<br>levado pelo desespero da vida [ sem ela:
+<br>levado pelo desespero da vida 
+<br>[ sem ela:
 <br>cretina valentia
 <br>
 <br>*
@@ -43,8 +44,8 @@ se aqui tenho um título de uma obra
 <br>em meio a fragmentos 
 <br>de convulsivos estremecimentos
 <br>quando sussurros reverenciam 
-<br>aquele momento
-<br>[ enterrado em mim
+<br>aquele momento,
+<br>enterrado em mim
 <br>
 <br>então uma vez mais me ponho a refletir
 <br>recurso de covardia ou veneno da valentia?
