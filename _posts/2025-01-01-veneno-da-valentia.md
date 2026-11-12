@@ -39,12 +39,13 @@ se aqui tenho um título de uma obra
 <br>
 <br>*
 <br>
-<br>se sei que a distância se percorre com esquecimento 
+<br>se sei que a distância 
+<br> se percorre com esquecimento 
 <br>em meio a fragmentos 
 <br>de convulsivos estremecimentos
 <br>quando sussurros reverenciam 
-<br>[ aquele momento
-<br>enterrado em mim
+<br>aquele momento
+<br>[ enterrado em mim
 <br>
 <br>então uma vez mais me ponho a refletir
 <br>recurso de covardia ou veneno da valentia?
