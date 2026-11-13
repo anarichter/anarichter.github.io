@@ -14,7 +14,7 @@ se aqui tenho um título de uma obra
 <br>por paisagens inquietantes 
 <br>assustadoramente embrenhadas de mim
 <br>
-<br>se então contra mata [ me ] adentro
+<br>se então contra mata me adentro
 <br>em busca de uma verdade imanente
 <br>ignorante de que as forças são centrífugas
 <br>e me arremessam atravessam camadas [ passadas 
@@ -22,7 +22,7 @@ se aqui tenho um título de uma obra
 <br>
 <br>e se agora reconheço o lento derramamento 
 <br>da toxina sufocante 
-<br>permeando [ minha fissura ] passos paralisantes
+<br>permeando [ minha fissura ] em passos paralisantes
 <br>e o peso que a imposição da <b>ponte</b> 
 <br>subitamente descarregava em mim
 <br>
