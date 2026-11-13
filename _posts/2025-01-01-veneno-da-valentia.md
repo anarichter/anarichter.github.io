@@ -22,13 +22,14 @@ se aqui tenho um título de uma obra
 <br>
 <br>e se agora reconheço o lento derramamento 
 <br>da toxina sufocante 
-<br>permeando [ minha fissura ] em passos paralisantes
+<br>permeando [ minha fissura ] passos paralisantes
 <br>e o peso que a imposição da <b>ponte</b> 
 <br>subitamente descarregava em mim
 <br>
 <br>e se o ar se rarefaz em hesitação excruciante
 <br>de poder sustentar a <b>ponte</b>
 <br>meu peso, meu ser – outro horizonte:
+<br>
 <br>ainda lágrimas suspensas 
 <br>
 <br>lágrimas suspensas 
