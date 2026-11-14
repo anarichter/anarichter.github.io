@@ -29,7 +29,6 @@ se aqui tenho um título de uma obra
 <br>e se o ar se rarefaz em hesitação excruciante
 <br>de poder sustentar a <b>ponte</b>
 <br>meu peso, meu ser – outro horizonte:
-<br>
 <br>ainda lágrimas suspensas 
 <br>
 <br>lágrimas suspensas 
